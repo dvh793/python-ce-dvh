@@ -1,7 +1,7 @@
 # Curso de especialización en Desarrollo de aplicaciones en lenguaje Python
 
-- **Alumno/a:** Tu Nombre
-- **Usuario GitHub:** usuario
+- **Alumno/a:** Daniel Valencia Hernández
+- **Usuario GitHub:** dvh793
 - **Centro:** CIFP César Manrique
 
 ## 5100 · Programación orientada a objetos
