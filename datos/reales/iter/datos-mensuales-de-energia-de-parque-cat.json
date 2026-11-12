@@ -1,0 +1,436 @@
+{
+  "instalaciones": [
+    {
+      "instalacion_id": 9,
+      "datos_energia": [
+        {
+          "fecha": "2021-01-01T00:00:00",
+          "periodo_inicial": "2021-01-01T00:00:00",
+          "periodo_final": "2021-01-31T00:00:00",
+          "energia_exportada": 4235265,
+          "energia_importada": 2398
+        },
+        {
+          "fecha": "2021-02-01T00:00:00",
+          "periodo_inicial": "2021-02-01T00:00:00",
+          "periodo_final": "2021-02-28T00:00:00",
+          "energia_exportada": 3023576,
+          "energia_importada": 3598
+        },
+        {
+          "fecha": "2021-03-01T00:00:00",
+          "periodo_inicial": "2021-03-01T00:00:00",
+          "periodo_final": "2021-03-31T00:00:00",
+          "energia_exportada": 3504910,
+          "energia_importada": 2674
+        },
+        {
+          "fecha": "2021-04-01T00:00:00",
+          "periodo_inicial": "2021-04-01T00:00:00",
+          "periodo_final": "2021-04-30T00:00:00",
+          "energia_exportada": 1847994,
+          "energia_importada": 4541
+        },
+        {
+          "fecha": "2021-05-01T00:00:00",
+          "periodo_inicial": "2021-05-01T00:00:00",
+          "periodo_final": "2021-05-31T00:00:00",
+          "energia_exportada": 6964400,
+          "energia_importada": 1047
+        },
+        {
+          "fecha": "2021-06-01T00:00:00",
+          "periodo_inicial": "2021-06-01T00:00:00",
+          "periodo_final": "2021-06-30T00:00:00",
+          "energia_exportada": 5945468,
+          "energia_importada": 928
+        },
+        {
+          "fecha": "2021-07-01T00:00:00",
+          "periodo_inicial": "2021-07-01T00:00:00",
+          "periodo_final": "2021-07-31T00:00:00",
+          "energia_exportada": 6676616,
+          "energia_importada": 651
+        },
+        {
+          "fecha": "2021-08-01T00:00:00",
+          "periodo_inicial": "2021-08-01T00:00:00",
+          "periodo_final": "2021-08-31T00:00:00",
+          "energia_exportada": 5738384,
+          "energia_importada": 751
+        },
+        {
+          "fecha": "2021-09-01T00:00:00",
+          "periodo_inicial": "2021-09-01T00:00:00",
+          "periodo_final": "2021-09-30T00:00:00",
+          "energia_exportada": 4529976,
+          "energia_importada": 2806
+        },
+        {
+          "fecha": "2021-10-01T00:00:00",
+          "periodo_inicial": "2021-10-01T00:00:00",
+          "periodo_final": "2021-10-31T00:00:00",
+          "energia_exportada": 5294751,
+          "energia_importada": 763
+        },
+        {
+          "fecha": "2021-11-01T00:00:00",
+          "periodo_inicial": "2021-11-01T00:00:00",
+          "periodo_final": "2021-11-30T00:00:00",
+          "energia_exportada": 4514160,
+          "energia_importada": 2099
+        },
+        {
+          "fecha": "2021-12-01T00:00:00",
+          "periodo_inicial": "2021-12-01T00:00:00",
+          "periodo_final": "2021-12-31T00:00:00",
+          "energia_exportada": 5105958,
+          "energia_importada": 3956
+        },
+        {
+          "fecha": "2022-01-01T00:00:00",
+          "periodo_inicial": "2022-01-01T00:00:00",
+          "periodo_final": "2022-01-31T00:00:00",
+          "energia_exportada": 2511975,
+          "energia_importada": 3960
+        },
+        {
+          "fecha": "2022-02-01T00:00:00",
+          "periodo_inicial": "2022-02-01T00:00:00",
+          "periodo_final": "2022-02-28T00:00:00",
+          "energia_exportada": 3615219,
+          "energia_importada": 3276
+        },
+        {
+          "fecha": "2022-03-01T00:00:00",
+          "periodo_inicial": "2022-03-01T00:00:00",
+          "periodo_final": "2022-03-31T00:00:00",
+          "energia_exportada": 3739497,
+          "energia_importada": 2973
+        },
+        {
+          "fecha": "2022-04-01T00:00:00",
+          "periodo_inicial": "2022-04-01T00:00:00",
+          "periodo_final": "2022-04-30T00:00:00",
+          "energia_exportada": 4579576,
+          "energia_importada": 3230
+        },
+        {
+          "fecha": "2022-05-01T00:00:00",
+          "periodo_inicial": "2022-05-01T00:00:00",
+          "periodo_final": "2022-05-31T00:00:00",
+          "energia_exportada": 4208582,
+          "energia_importada": 2867
+        },
+        {
+          "fecha": "2022-06-01T00:00:00",
+          "periodo_inicial": "2022-06-01T00:00:00",
+          "periodo_final": "2022-06-30T00:00:00",
+          "energia_exportada": 5015953,
+          "energia_importada": 1998
+        },
+        {
+          "fecha": "2022-07-01T00:00:00",
+          "periodo_inicial": "2022-07-01T00:00:00",
+          "periodo_final": "2022-07-31T00:00:00",
+          "energia_exportada": 6105565,
+          "energia_importada": 1942
+        },
+        {
+          "fecha": "2022-08-01T00:00:00",
+          "periodo_inicial": "2022-08-01T00:00:00",
+          "periodo_final": "2022-08-31T00:00:00",
+          "energia_exportada": 6169382,
+          "energia_importada": 1116
+        },
+        {
+          "fecha": "2022-09-01T00:00:00",
+          "periodo_inicial": "2022-09-01T00:00:00",
+          "periodo_final": "2022-09-30T00:00:00",
+          "energia_exportada": 4711794,
+          "energia_importada": 1885
+        },
+        {
+          "fecha": "2022-10-01T00:00:00",
+          "periodo_inicial": "2022-10-01T00:00:00",
+          "periodo_final": "2022-10-31T00:00:00",
+          "energia_exportada": 3379418,
+          "energia_importada": 3509
+        },
+        {
+          "fecha": "2022-11-01T00:00:00",
+          "periodo_inicial": "2022-11-01T00:00:00",
+          "periodo_final": "2022-11-30T00:00:00",
+          "energia_exportada": 4749948,
+          "energia_importada": 559
+        },
+        {
+          "fecha": "2022-12-01T00:00:00",
+          "periodo_inicial": "2022-12-01T00:00:00",
+          "periodo_final": "2022-12-31T00:00:00",
+          "energia_exportada": 2085061,
+          "energia_importada": 6482
+        },
+        {
+          "fecha": "2023-01-01T00:00:00",
+          "periodo_inicial": "2023-01-01T00:00:00",
+          "periodo_final": "2023-01-31T00:00:00",
+          "energia_exportada": 6906927,
+          "energia_importada": 301
+        },
+        {
+          "fecha": "2023-02-01T00:00:00",
+          "periodo_inicial": "2023-02-01T00:00:00",
+          "periodo_final": "2023-02-28T00:00:00",
+          "energia_exportada": 1440985,
+          "energia_importada": 3806
+        },
+        {
+          "fecha": "2023-03-01T00:00:00",
+          "periodo_inicial": "2023-03-01T00:00:00",
+          "periodo_final": "2023-03-31T00:00:00",
+          "energia_exportada": 5732515,
+          "energia_importada": 1885
+        },
+        {
+          "fecha": "2023-04-01T00:00:00",
+          "periodo_inicial": "2023-04-01T00:00:00",
+          "periodo_final": "2023-04-30T00:00:00",
+          "energia_exportada": 3592869,
+          "energia_importada": 2998
+        },
+        {
+          "fecha": "2023-05-01T00:00:00",
+          "periodo_inicial": "2023-05-01T00:00:00",
+          "periodo_final": "2023-05-31T00:00:00",
+          "energia_exportada": 4293659,
+          "energia_importada": 2926
+        },
+        {
+          "fecha": "2023-06-01T00:00:00",
+          "periodo_inicial": "2023-06-01T00:00:00",
+          "periodo_final": "2023-06-30T00:00:00",
+          "energia_exportada": 1794251,
+          "energia_importada": 5418
+        },
+        {
+          "fecha": "2023-07-01T00:00:00",
+          "periodo_inicial": "2023-07-01T00:00:00",
+          "periodo_final": "2023-07-31T00:00:00",
+          "energia_exportada": 6679509,
+          "energia_importada": 702
+        },
+        {
+          "fecha": "2023-08-01T00:00:00",
+          "periodo_inicial": "2023-08-01T00:00:00",
+          "periodo_final": "2023-08-31T00:00:00",
+          "energia_exportada": 6450335,
+          "energia_importada": 1507
+        },
+        {
+          "fecha": "2023-09-01T00:00:00",
+          "periodo_inicial": "2023-09-01T00:00:00",
+          "periodo_final": "2023-09-30T00:00:00",
+          "energia_exportada": 2961376,
+          "energia_importada": 3224
+        },
+        {
+          "fecha": "2023-10-01T00:00:00",
+          "periodo_inicial": "2023-10-01T00:00:00",
+          "periodo_final": "2023-10-31T00:00:00",
+          "energia_exportada": 2805023,
+          "energia_importada": 6458
+        },
+        {
+          "fecha": "2023-11-01T00:00:00",
+          "periodo_inicial": "2023-11-01T00:00:00",
+          "periodo_final": "2023-11-30T00:00:00",
+          "energia_exportada": 4327515,
+          "energia_importada": 2110
+        },
+        {
+          "fecha": "2023-12-01T00:00:00",
+          "periodo_inicial": "2023-12-01T00:00:00",
+          "periodo_final": "2023-12-31T00:00:00",
+          "energia_exportada": 3551129,
+          "energia_importada": 3238
+        },
+        {
+          "fecha": "2024-01-01T00:00:00",
+          "periodo_inicial": "2024-01-01T00:00:00",
+          "periodo_final": "2024-01-31T00:00:00",
+          "energia_exportada": 2892105,
+          "energia_importada": 4469
+        },
+        {
+          "fecha": "2024-02-01T00:00:00",
+          "periodo_inicial": "2024-02-01T00:00:00",
+          "periodo_final": "2024-02-29T00:00:00",
+          "energia_exportada": 4781030,
+          "energia_importada": 2810
+        },
+        {
+          "fecha": "2024-03-01T00:00:00",
+          "periodo_inicial": "2024-03-01T00:00:00",
+          "periodo_final": "2024-03-31T00:00:00",
+          "energia_exportada": 3144902,
+          "energia_importada": 3875
+        },
+        {
+          "fecha": "2024-04-01T00:00:00",
+          "periodo_inicial": "2024-04-01T00:00:00",
+          "periodo_final": "2024-04-30T00:00:00",
+          "energia_exportada": 3230394,
+          "energia_importada": 3330
+        },
+        {
+          "fecha": "2024-05-01T00:00:00",
+          "periodo_inicial": "2024-05-01T00:00:00",
+          "periodo_final": "2024-05-31T00:00:00",
+          "energia_exportada": 4789444,
+          "energia_importada": 1600
+        },
+        {
+          "fecha": "2024-06-01T00:00:00",
+          "periodo_inicial": "2024-06-01T00:00:00",
+          "periodo_final": "2024-06-30T00:00:00",
+          "energia_exportada": 3831872,
+          "energia_importada": 2338
+        },
+        {
+          "fecha": "2024-07-01T00:00:00",
+          "periodo_inicial": "2024-07-01T00:00:00",
+          "periodo_final": "2024-07-31T00:00:00",
+          "energia_exportada": 5393943,
+          "energia_importada": 1498
+        },
+        {
+          "fecha": "2024-08-01T00:00:00",
+          "periodo_inicial": "2024-08-01T00:00:00",
+          "periodo_final": "2024-08-31T00:00:00",
+          "energia_exportada": 7407918,
+          "energia_importada": 1458
+        },
+        {
+          "fecha": "2024-09-01T00:00:00",
+          "periodo_inicial": "2024-09-01T00:00:00",
+          "periodo_final": "2024-09-30T00:00:00",
+          "energia_exportada": 4910093,
+          "energia_importada": 2336
+        },
+        {
+          "fecha": "2024-10-01T00:00:00",
+          "periodo_inicial": "2024-10-01T00:00:00",
+          "periodo_final": "2024-10-31T00:00:00",
+          "energia_exportada": 4027800,
+          "energia_importada": 3808
+        },
+        {
+          "fecha": "2024-11-01T00:00:00",
+          "periodo_inicial": "2024-11-01T00:00:00",
+          "periodo_final": "2024-11-30T00:00:00",
+          "energia_exportada": 1227811,
+          "energia_importada": 10036
+        },
+        {
+          "fecha": "2024-12-01T00:00:00",
+          "periodo_inicial": "2024-12-01T00:00:00",
+          "periodo_final": "2024-12-31T00:00:00",
+          "energia_exportada": 4464343,
+          "energia_importada": 1777
+        },
+        {
+          "fecha": "2025-01-01T00:00:00",
+          "periodo_inicial": "2025-01-01T00:00:00",
+          "periodo_final": "2025-01-31T00:00:00",
+          "energia_exportada": 3702961,
+          "energia_importada": 3233
+        },
+        {
+          "fecha": "2025-02-01T00:00:00",
+          "periodo_inicial": "2025-02-01T00:00:00",
+          "periodo_final": "2025-02-28T00:00:00",
+          "energia_exportada": 3751597,
+          "energia_importada": 1534
+        },
+        {
+          "fecha": "2025-03-01T00:00:00",
+          "periodo_inicial": "2025-03-01T00:00:00",
+          "periodo_final": "2025-03-31T00:00:00",
+          "energia_exportada": 2445041,
+          "energia_importada": 4550
+        },
+        {
+          "fecha": "2025-04-01T00:00:00",
+          "periodo_inicial": "2025-04-01T00:00:00",
+          "periodo_final": "2025-04-30T00:00:00",
+          "energia_exportada": 3239447,
+          "energia_importada": 2992
+        },
+        {
+          "fecha": "2025-05-01T00:00:00",
+          "periodo_inicial": "2025-05-01T00:00:00",
+          "periodo_final": "2025-05-31T00:00:00",
+          "energia_exportada": 3345992,
+          "energia_importada": 3503
+        },
+        {
+          "fecha": "2025-06-01T00:00:00",
+          "periodo_inicial": "2025-06-01T00:00:00",
+          "periodo_final": "2025-06-30T00:00:00",
+          "energia_exportada": 4434504,
+          "energia_importada": 1969
+        },
+        {
+          "fecha": "2025-07-01T00:00:00",
+          "periodo_inicial": "2025-07-01T00:00:00",
+          "periodo_final": "2025-07-31T00:00:00",
+          "energia_exportada": 5441698,
+          "energia_importada": 1240
+        },
+        {
+          "fecha": "2025-08-01T00:00:00",
+          "periodo_inicial": "2025-08-01T00:00:00",
+          "periodo_final": "2025-08-31T00:00:00",
+          "energia_exportada": 4334820,
+          "energia_importada": 1399
+        },
+        {
+          "fecha": "2025-09-01T00:00:00",
+          "periodo_inicial": "2025-09-01T00:00:00",
+          "periodo_final": "2025-09-30T00:00:00",
+          "energia_exportada": 5464632,
+          "energia_importada": 998
+        },
+        {
+          "fecha": "2025-10-01T00:00:00",
+          "periodo_inicial": "2025-10-01T00:00:00",
+          "periodo_final": "2025-10-31T00:00:00",
+          "energia_exportada": 2811074,
+          "energia_importada": 4171
+        },
+        {
+          "fecha": "2025-11-01T00:00:00",
+          "periodo_inicial": "2025-11-01T00:00:00",
+          "periodo_final": "2025-11-30T00:00:00",
+          "energia_exportada": 3697597,
+          "energia_importada": 2951
+        },
+        {
+          "fecha": "2025-12-01T00:00:00",
+          "periodo_inicial": "2025-12-01T00:00:00",
+          "periodo_final": "2025-12-31T00:00:00",
+          "energia_exportada": 2821509,
+          "energia_importada": 4122
+        },
+        {
+          "fecha": "2026-01-01T00:00:00",
+          "periodo_inicial": "2026-01-01T00:00:00",
+          "periodo_final": "2026-01-31T00:00:00",
+          "energia_exportada": 2709554,
+          "energia_importada": 3839
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿instalacion_id,instalacion_nombre,instalacion_tipo,instalacion_potencia,instalacion_unidad_potencia,instalacion_latitud,instalacion_longitud
+1,Planta Solten I,Fotovoltaica,13000,kW,28.06986,-16.52524
+2,Planta Solten II,Fotovoltaica,11000,kW,28.072191,-16.513459
+3,Planta Metropolitano,Fotovoltaica,880,kW,28.451211,-16.294896
+4,Planta Bodega Comarcal,Fotovoltaica,200,kW,28.481951,-16.384763
+5,Parque La Roca,Eolica,18400,kW,28.081618,-16.511866
+6,Planta Icor,Fotovoltaica,2000,kW,28.194341,-16.442229
+7,Parque MADE,Eolica,4800,kW,28.06909,-16.513429
+8,Planta Finca Roja,Fotovoltaica,5000,kW,28.15565,-16.485455
+9,Parque CAT,Eolica,18400,kW,28.121992,-16.482718
+10,Parque Areté,Eolica,16800,kW,28.079662,-16.506128
+11,Planta Piloto,Fotovoltaica,100,kW,28.070243,-16.512063
+12,Planta Finca Verde,Fotovoltaica,9000,kW,28.155972,-16.486771

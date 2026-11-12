@@ -1,0 +1,58 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "@type": "Table",
+  "dc:description": "Diccionario de datos",
+  "dc:creator": "Servicio Técnico de Agricultura y Desarrollo Rural (AgroCabildo)",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "estacion_id",
+        "datatype": "numeric",
+        "title": "estacion_id",
+        "dc:description": "Identificador de estación."
+      },
+      {
+        "name": "estacion_nombre",
+        "datatype": "text",
+        "title": "estacion_nombre",
+        "dc:description": "Nombre de la estación."
+      },
+      {
+        "name": "sensor_id",
+        "datatype": "numeric",
+        "title": "sensor_id",
+        "dc:description": "Identificador del sensor de medida."
+      },
+      {
+        "name": "sensor_alias",
+        "datatype": "text",
+        "title": "sensor_alias",
+        "dc:description": "Abreviatura del nombre del sensor."
+      },
+      {
+        "name": "sensor_nombre",
+        "datatype": "text",
+        "title": "sensor_nombre",
+        "dc:description": "Nombre del sensor."
+      },
+      {
+        "name": "fecha_observacion",
+        "datatype": "timestamp",
+        "title": "fecha_observacion",
+        "dc:description": "Día de toma de la medida."
+      },
+      {
+        "name": "metrica",
+        "datatype": "text",
+        "title": "metrica",
+        "dc:description": "Tipo de dato calculado diariamente. Valores: media(valor medio del día), máximo (valor máximo del día) y total (total del día). No todos los sensores tienen las mismas métricas."
+      },
+      {
+        "name": "valor",
+        "datatype": "numeric",
+        "title": "valor",
+        "dc:description": "Valor de la métrica del día."
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+ "instalaciones": 8,
+ "clientes": 320,
+ "productos": 10,
+ "pedidos": 5200,
+ "lineas_pedido": 13028,
+ "incidencias": 779,
+ "produccion_diaria": 5848,
+ "produccion_horaria": 140352
+}

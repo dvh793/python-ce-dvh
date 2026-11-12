@@ -1,0 +1,674 @@
+[
+ {
+  "fichero": "iter\\diccionario-de-datos-de-datos-mensuales-de-energia.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/563da75e-1a9d-4e63-b7da-6cd2ee6f0abb/download/diccionario-de-datos-de-datos-mensuales-de-energia.json",
+  "descargado": "2026-10-14",
+  "bytes": 1465
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-solten-ii.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/744b7848-c49f-4720-a37e-fdc80b8be755/download/datos-mensuales-de-energia-de-planta-solten-ii.json",
+  "descargado": "2026-10-14",
+  "bytes": 14312
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-solten-ii.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/dbecfb21-8c6b-4e0e-ab45-787c218ed108/download/datos-mensuales-de-energia-de-planta-solten-ii.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4509
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-solten-i.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/b10e5868-4d1e-48ef-8c23-87facbaee00e/download/datos-mensuales-de-energia-de-planta-solten-i.json",
+  "descargado": "2026-10-14",
+  "bytes": 14360
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-solten-i.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/fd42145b-6794-4e4c-963f-d64cc098e51e/download/datos-mensuales-de-energia-de-planta-solten-i.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4557
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-piloto.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/21192d1c-d6a5-46cf-b6e4-3b429c70af2f/download/datos-mensuales-de-energia-de-planta-piloto.json",
+  "descargado": "2026-10-14",
+  "bytes": 14553
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-piloto.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/de8c2276-21dd-44fb-9ef6-0f2f9ee1241f/download/datos-mensuales-de-energia-de-planta-piloto.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4478
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-metropolitano.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/814e53d0-162a-4797-a45b-ffaffe001854/download/datos-mensuales-de-energia-de-planta-metropolitano.json",
+  "descargado": "2026-10-14",
+  "bytes": 14655
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-metropolitano.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/a1ea71d3-087f-4903-b2c6-e4f08397ccea/download/datos-mensuales-de-energia-de-planta-metropolitano.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4520
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-icor.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/d7645552-2d64-45a4-8a00-990e75973d69/download/datos-mensuales-de-energia-de-planta-icor.json",
+  "descargado": "2026-10-14",
+  "bytes": 14259
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-icor.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/2865628d-6645-4514-a4ad-0d8f01040b49/download/datos-mensuales-de-energia-de-planta-icor.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4456
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-finca-verde.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/44c3006d-1368-404e-869d-203b6d04c8f3/download/datos-mensuales-de-energia-de-planta-finca-verde.json",
+  "descargado": "2026-10-14",
+  "bytes": 14784
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-finca-verde.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/740a28f2-0f0c-460d-acd8-b4e71cc115ba/download/datos-mensuales-de-energia-de-planta-finca-verde.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4709
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-finca-roja.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/30003802-0b3c-4312-b9af-bfddd21ec846/download/datos-mensuales-de-energia-de-planta-finca-roja.json",
+  "descargado": "2026-10-14",
+  "bytes": 11855
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-finca-roja.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/4f607f29-2d9c-4db3-b416-5453a4a4c476/download/datos-mensuales-de-energia-de-planta-finca-roja.csv",
+  "descargado": "2026-10-14",
+  "bytes": 3712
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-bodega-comarcal.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/20c24b9e-00ad-4ee7-9dc0-9a6fbe295984/download/datos-mensuales-de-energia-de-planta-bodega-comarcal.json",
+  "descargado": "2026-10-14",
+  "bytes": 14617
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-planta-bodega-comarcal.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/d4a61ff2-369c-4780-bbe6-d6b29875287d/download/datos-mensuales-de-energia-de-planta-bodega-comarcal.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4482
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-made.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/8fe2a21e-387c-4704-b45d-db1141fbea41/download/datos-mensuales-de-energia-de-parque-made.json",
+  "descargado": "2026-10-14",
+  "bytes": 14745
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-made.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/de352044-81f9-412a-9119-edf48f6e3f5f/download/datos-mensuales-de-energia-de-parque-made.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4610
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-la-roca.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/6858b61d-384e-4d3d-a56d-1f80e34ba8dd/download/datos-mensuales-de-energia-de-parque-la-roca.json",
+  "descargado": "2026-10-14",
+  "bytes": 11846
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-la-roca.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/8cbddf7f-eb11-418b-ba3d-d7ad0c8dd6f5/download/datos-mensuales-de-energia-de-parque-la-roca.csv",
+  "descargado": "2026-10-14",
+  "bytes": 3703
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-cat.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/7f39d173-e9bb-4262-b087-51a318642c56/download/datos-mensuales-de-energia-de-parque-cat.json",
+  "descargado": "2026-10-14",
+  "bytes": 14793
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-cat.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/a1a275e7-8ec7-4e59-8c16-7c970a6557b1/download/datos-mensuales-de-energia-de-parque-cat.csv",
+  "descargado": "2026-10-14",
+  "bytes": 4658
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-arete.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/9425eafc-9771-4f73-a685-c14f094af7f5/download/datos-mensuales-de-energia-de-parque-arete.json",
+  "descargado": "2026-10-14",
+  "bytes": 11876
+ },
+ {
+  "fichero": "iter\\datos-mensuales-de-energia-de-parque-arete.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/2e7d5e84-e610-4c04-aabe-ff559ddb8653/resource/5856871b-17b0-4d62-b58d-dee9d2fed441/download/datos-mensuales-de-energia-de-parque-arete.csv",
+  "descargado": "2026-10-14",
+  "bytes": 3781
+ },
+ {
+  "fichero": "iter\\plantas-fotovoltaicas-y-parques-eolicos.geojson",
+  "url": "https://datos.tenerife.es/ckan/dataset/fa991fa9-a113-452c-9f1b-331b1ffefbe1/resource/2782375b-f2c7-4a05-a685-4eee554a6b1b/download/plantas-fotovoltaicas-y-parques-eolicos.geojson",
+  "descargado": "2026-10-14",
+  "bytes": 5948
+ },
+ {
+  "fichero": "iter\\plantas-fotovoltaicas-y-parques-eolicos.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/fa991fa9-a113-452c-9f1b-331b1ffefbe1/resource/f12e1f87-50c2-4ee5-b17c-17ca59adb454/download/plantas-fotovoltaicas-y-parques-eolicos.csv",
+  "descargado": "2026-10-14",
+  "bytes": 841
+ },
+ {
+  "fichero": "iter\\diccionario-de-datos-de-plantas-fotovoltaicas-y-parques-eolicos.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/fa991fa9-a113-452c-9f1b-331b1ffefbe1/resource/2959c9a8-8f2e-430b-a089-0444d3d2389e/download/diccionario-de-datos-de-plantas-fotovoltaicas-y-parques-eolicos.json",
+  "descargado": "2026-10-14",
+  "bytes": 1650
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor-2025.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/4816bfce-f641-4ca0-8401-2e25fd281d3e/download/datos-meteorologicos-diarios-vilaflor-2025.csv",
+  "descargado": "2026-10-14",
+  "bytes": 356539
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor-2024.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/cb75987b-56fe-4479-a900-5e0c448b4fd7/download/datos-meteorologicos-diarios-vilaflor-2024.csv",
+  "descargado": "2026-10-14",
+  "bytes": 356272
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor-2023.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/ec2edf50-7b61-4681-a09a-fecdadc2d046/download/datos-meteorologicos-diarios-vilaflor-2023.csv",
+  "descargado": "2026-10-14",
+  "bytes": 355251
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor-2022.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/6c3d5483-d01b-4bad-9e5e-910c7e894f8f/download/datos-meteorologicos-diarios-vilaflor-2022.csv",
+  "descargado": "2026-10-14",
+  "bytes": 424812
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor-2021.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/f5f9d5e9-936a-4e15-ace8-f40e87c13441/download/datos-meteorologicos-diarios-vilaflor-2021.csv",
+  "descargado": "2026-10-14",
+  "bytes": 424733
+ },
+ {
+  "fichero": "meteo\\diccionario-de-datos-de-datos-meteorologicos-diarios.json",
+  "url": "https://datos.tenerife.es/ckan/dataset/981ea164-b932-4294-96fe-f8878fbdf909/resource/15dfa296-4f27-4547-942f-5ad0d5e374c4/download/diccionario-de-datos-de-datos-meteorologicos-diarios.json",
+  "descargado": "2026-10-14",
+  "bytes": 1728
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-abonacop-2025.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/446511a6-057b-40c1-a917-79ea18460736/resource/47066417-7b1e-4deb-994b-d9a8995394cf/download/datos-meteorologicos-diarios-abonacop-2025.csv",
+  "descargado": "2026-10-14",
+  "bytes": 356215
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-abonacop-2024.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/446511a6-057b-40c1-a917-79ea18460736/resource/ab3f4365-5e83-43c4-8d5a-62d2c809048f/download/datos-meteorologicos-diarios-abonacop-2024.csv",
+  "descargado": "2026-10-14",
+  "bytes": 358682
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-abonacop-2023.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/446511a6-057b-40c1-a917-79ea18460736/resource/08462531-0299-46c5-89a2-5e55caa8e06b/download/datos-meteorologicos-diarios-abonacop-2023.csv",
+  "descargado": "2026-10-14",
+  "bytes": 359319
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-abonacop-2022.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/446511a6-057b-40c1-a917-79ea18460736/resource/1cbd1fe2-4988-476c-a24f-a9bd7d50c025/download/datos-meteorologicos-diarios-abonacop-2022.csv",
+  "descargado": "2026-10-14",
+  "bytes": 424937
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-abonacop-2021.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/446511a6-057b-40c1-a917-79ea18460736/resource/94f05940-db43-4c25-aac4-07d58e768b78/download/datos-meteorologicos-diarios-abonacop-2021.csv",
+  "descargado": "2026-10-14",
+  "bytes": 424941
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-arico_01-2025.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/041e54d3-8d2a-4d48-b7a4-9bce28a12d8f/resource/29534810-6727-4008-aa8e-5611ab2f8f90/download/datos-meteorologicos-diarios-arico_01-2025.csv",
+  "descargado": "2026-10-14",
+  "bytes": 345197
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-arico_01-2024.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/041e54d3-8d2a-4d48-b7a4-9bce28a12d8f/resource/d1648e8a-9a21-424d-8a09-650e7d8d4991/download/datos-meteorologicos-diarios-arico_01-2024.csv",
+  "descargado": "2026-10-14",
+  "bytes": 345930
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-arico_01-2023.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/041e54d3-8d2a-4d48-b7a4-9bce28a12d8f/resource/f53a8c9b-82f9-42b2-9545-bb8e7e362cf5/download/datos-meteorologicos-diarios-arico_01-2023.csv",
+  "descargado": "2026-10-14",
+  "bytes": 347982
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-arico_01-2022.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/041e54d3-8d2a-4d48-b7a4-9bce28a12d8f/resource/64956c1b-41b7-4ec3-b0ef-7ab1c002ed13/download/datos-meteorologicos-diarios-arico_01-2022.csv",
+  "descargado": "2026-10-14",
+  "bytes": 417728
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-arico_01-2021.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/041e54d3-8d2a-4d48-b7a4-9bce28a12d8f/resource/0b86e513-0947-4557-be65-af200930e593/download/datos-meteorologicos-diarios-arico_01-2021.csv",
+  "descargado": "2026-10-14",
+  "bytes": 417730
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-imetos_tacoronte-2025.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/c289f321-bee6-4a40-b909-1945653b8eaf/resource/580a44ed-8fa9-4489-8ea3-9a875494c151/download/datos-meteorologicos-diarios-imetos_tacoronte-2025.csv",
+  "descargado": "2026-10-14",
+  "bytes": 438478
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-imetos_tacoronte-2024.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/c289f321-bee6-4a40-b909-1945653b8eaf/resource/12d381d3-4136-4cc1-861a-9dcad60158e6/download/datos-meteorologicos-diarios-imetos_tacoronte-2024.csv",
+  "descargado": "2026-10-14",
+  "bytes": 432372
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-imetos_tacoronte-2023.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/c289f321-bee6-4a40-b909-1945653b8eaf/resource/1bdea190-f42c-4683-8918-52cf1ec5df2f/download/datos-meteorologicos-diarios-imetos_tacoronte-2023.csv",
+  "descargado": "2026-10-14",
+  "bytes": 430158
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-imetos_tacoronte-2022.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/c289f321-bee6-4a40-b909-1945653b8eaf/resource/d20a567e-1e55-4dba-9f11-6e7f123a6002/download/datos-meteorologicos-diarios-imetos_tacoronte-2022.csv",
+  "descargado": "2026-10-14",
+  "bytes": 374793
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor_forestal-2025.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/21298cab-f6aa-4f80-812a-e369360fdbde/resource/7f77d966-d981-4362-8324-317bb6c6bd1d/download/datos-meteorologicos-diarios-vilaflor_forestal-2025.csv",
+  "descargado": "2026-10-14",
+  "bytes": 430062
+ },
+ {
+  "fichero": "meteo\\datos-meteorologicos-diarios-vilaflor_forestal-2024.csv",
+  "url": "https://datos.tenerife.es/ckan/dataset/21298cab-f6aa-4f80-812a-e369360fdbde/resource/1c58fd05-0ba6-4057-8745-f16df0729572/download/datos-meteorologicos-diarios-vilaflor_forestal-2024.csv",
+  "descargado": "2026-10-14",
+  "bytes": 216433
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-01.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-01-01T00:00&end_date=2023-01-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2883
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-02.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-02-01T00:00&end_date=2023-02-28T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2646
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-03.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-03-01T00:00&end_date=2023-03-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-04.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-04-01T00:00&end_date=2023-04-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2805
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-05.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-05-01T00:00&end_date=2023-05-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-06.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-06-01T00:00&end_date=2023-06-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2805
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-07.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-07-01T00:00&end_date=2023-07-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2883
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-08.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-08-01T00:00&end_date=2023-08-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2881
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-09.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-09-01T00:00&end_date=2023-09-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2804
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-10.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-10-01T00:00&end_date=2023-10-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2879
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-11.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-11-01T00:00&end_date=2023-11-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2805
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2023-12.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2023-12-01T00:00&end_date=2023-12-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2885
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-01.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-01-01T00:00&end_date=2024-01-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2881
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-02.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-02-01T00:00&end_date=2024-02-29T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2725
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-03.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-03-01T00:00&end_date=2024-03-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2882
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-04.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-04-01T00:00&end_date=2024-04-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2799
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-05.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-05-01T00:00&end_date=2024-05-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-06.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-06-01T00:00&end_date=2024-06-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2802
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-07.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-07-01T00:00&end_date=2024-07-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-08.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-08-01T00:00&end_date=2024-08-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2883
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-09.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-09-01T00:00&end_date=2024-09-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2803
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-10.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-10-01T00:00&end_date=2024-10-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-11.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-11-01T00:00&end_date=2024-11-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2803
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2024-12.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2024-12-01T00:00&end_date=2024-12-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2881
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-01.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-01-01T00:00&end_date=2025-01-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-02.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-02-01T00:00&end_date=2025-02-28T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2649
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-03.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-03-01T00:00&end_date=2025-03-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2882
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-04.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-04-01T00:00&end_date=2025-04-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2805
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-05.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-05-01T00:00&end_date=2025-05-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2881
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-06.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-06-01T00:00&end_date=2025-06-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2804
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-07.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-07-01T00:00&end_date=2025-07-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2880
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-08.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-08-01T00:00&end_date=2025-08-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2879
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-09.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-09-01T00:00&end_date=2025-09-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2804
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-10.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-10-01T00:00&end_date=2025-10-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2881
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-11.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-11-01T00:00&end_date=2025-11-30T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2803
+ },
+ {
+  "fichero": "ree\\json\\demanda_diaria_2025-12.json",
+  "url": "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-12-01T00:00&end_date=2025-12-31T23:59&time_trunc=day&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 2884
+ },
+ {
+  "fichero": "ree\\json\\generacion_mensual_2023.json",
+  "url": "https://apidatos.ree.es/es/datos/generacion/estructura-generacion?start_date=2023-01-01T00:00&end_date=2023-12-31T23:59&time_trunc=month&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 14168
+ },
+ {
+  "fichero": "ree\\json\\generacion_mensual_2024.json",
+  "url": "https://apidatos.ree.es/es/datos/generacion/estructura-generacion?start_date=2024-01-01T00:00&end_date=2024-12-31T23:59&time_trunc=month&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 14168
+ },
+ {
+  "fichero": "ree\\json\\generacion_mensual_2025.json",
+  "url": "https://apidatos.ree.es/es/datos/generacion/estructura-generacion?start_date=2025-01-01T00:00&end_date=2025-12-31T23:59&time_trunc=month&geo_trunc=electric_system&geo_limit=canarias&geo_ids=8742",
+  "descargado": "2026-10-14",
+  "bytes": 13231
+ },
+ {
+  "fichero": "istac\\catalogo_indicadores.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators?limit=1000",
+  "descargado": "2026-10-14",
+  "bytes": 659922
+ },
+ {
+  "fichero": "istac\\POBLACION.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION",
+  "descargado": "2026-10-14",
+  "bytes": 22362
+ },
+ {
+  "fichero": "istac\\POBLACION.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 33508
+ },
+ {
+  "fichero": "istac\\POBLACION_HOMBRES.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION_HOMBRES",
+  "descargado": "2026-10-14",
+  "bytes": 22654
+ },
+ {
+  "fichero": "istac\\POBLACION_HOMBRES.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION_HOMBRES/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 32912
+ },
+ {
+  "fichero": "istac\\POBLACION_MUJERES.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION_MUJERES",
+  "descargado": "2026-10-14",
+  "bytes": 22674
+ },
+ {
+  "fichero": "istac\\POBLACION_MUJERES.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION_MUJERES/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 32841
+ },
+ {
+  "fichero": "istac\\MIGRACIONES_SALDO.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/MIGRACIONES_SALDO",
+  "descargado": "2026-10-14",
+  "bytes": 20350
+ },
+ {
+  "fichero": "istac\\MIGRACIONES_SALDO.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/MIGRACIONES_SALDO/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 20996
+ },
+ {
+  "fichero": "istac\\TASA_MORTALIDAD.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/TASA_MORTALIDAD",
+  "descargado": "2026-10-14",
+  "bytes": 19375
+ },
+ {
+  "fichero": "istac\\TASA_MORTALIDAD.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/TASA_MORTALIDAD/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 29271
+ },
+ {
+  "fichero": "istac\\SOCIEDADES_MERCANTILES_AMPLIADAS.meta.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SOCIEDADES_MERCANTILES_AMPLIADAS",
+  "descargado": "2026-10-14",
+  "bytes": 71312
+ },
+ {
+  "fichero": "istac\\SOCIEDADES_MERCANTILES_AMPLIADAS.data.json",
+  "url": "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SOCIEDADES_MERCANTILES_AMPLIADAS/data?granularity=GEOGRAPHICAL[MUNICIPALITIES],TIME[YEARLY]&representation=MEASURE[ABSOLUTE]",
+  "descargado": "2026-10-14",
+  "bytes": 941
+ },
+ {
+  "fichero": "pvgis\\pvgis_horario_abona_2021-2023.csv",
+  "url": "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc?lat=28.078&lon=-16.52&startyear=2021&endyear=2023&outputformat=csv&pvcalculation=1&peakpower=1&loss=14&angle=20&aspect=0",
+  "descargado": "2026-10-14",
+  "bytes": 1193442
+ },
+ {
+  "fichero": "pvgis\\pvgis_horario_guimar_2021-2023.csv",
+  "url": "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc?lat=28.306&lon=-16.389&startyear=2021&endyear=2023&outputformat=csv&pvcalculation=1&peakpower=1&loss=14&angle=20&aspect=0",
+  "descargado": "2026-10-14",
+  "bytes": 1193199
+ },
+ {
+  "fichero": "pvgis\\pvgis_horario_la_guancha_2021-2023.csv",
+  "url": "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc?lat=28.371&lon=-16.653&startyear=2021&endyear=2023&outputformat=csv&pvcalculation=1&peakpower=1&loss=14&angle=20&aspect=0",
+  "descargado": "2026-10-14",
+  "bytes": 1187146
+ },
+ {
+  "fichero": "open-meteo\\openmeteo_horario_abona_2021-2025.csv",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=28.078&longitude=-16.52&start_date=2021-01-01&end_date=2025-12-31&hourly=temperature_2m,shortwave_radiation,direct_radiation,wind_speed_10m,cloud_cover,precipitation&timezone=Atlantic%2FCanary&format=csv",
+  "descargado": "2026-10-14",
+  "bytes": 1924208
+ },
+ {
+  "fichero": "open-meteo\\openmeteo_horario_guimar_2021-2025.csv",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=28.306&longitude=-16.389&start_date=2021-01-01&end_date=2025-12-31&hourly=temperature_2m,shortwave_radiation,direct_radiation,wind_speed_10m,cloud_cover,precipitation&timezone=Atlantic%2FCanary&format=csv",
+  "descargado": "2026-10-14",
+  "bytes": 1932656
+ },
+ {
+  "fichero": "open-meteo\\openmeteo_horario_la_guancha_2021-2025.csv",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=28.371&longitude=-16.653&start_date=2021-01-01&end_date=2025-12-31&hourly=temperature_2m,shortwave_radiation,direct_radiation,wind_speed_10m,cloud_cover,precipitation&timezone=Atlantic%2FCanary&format=csv",
+  "descargado": "2026-10-14",
+  "bytes": 1933696
+ },
+ {
+  "fichero": "open-data-canarias\\produccion-neta-de-electricidad-segun-fu.json",
+  "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000008/1.5.json",
+  "descargado": "2026-10-14",
+  "bytes": 931148
+ },
+ {
+  "fichero": "open-data-canarias\\produccion-neta-de-electricidad-segun-fu.tsv",
+  "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000008/1.5.tsv",
+  "descargado": "2026-10-14",
+  "bytes": 10898854
+ },
+ {
+  "fichero": "open-data-canarias\\produccion-neta-de-electricidad-segun-fu.csv",
+  "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000008/1.5.csv",
+  "descargado": "2026-10-14",
+  "bytes": 10898854
+ },
+ {
+  "fichero": "open-data-canarias\\produccion-neta-de-electricidad-segun-fu.xlsx",
+  "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000008/1.5.xlsx",
+  "descargado": "2026-10-14",
+  "bytes": 3743286
+ }
+]

@@ -1,0 +1,293 @@
+{
+ "author": null,
+ "author_email": null,
+ "creator_user_id": "024f1621-6f7b-4f85-a975-3f55cd11aede",
+ "id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+ "isopen": true,
+ "license_id": "istac-aviso-legal",
+ "license_title": "Aviso Legal del ISTAC",
+ "license_url": "http://www.gobiernodecanarias.org/istac/aviso_legal.html",
+ "maintainer": null,
+ "maintainer_email": null,
+ "metadata_created": "2026-08-21T12:28:00.002955",
+ "metadata_modified": "2026-10-08T10:11:04.524633",
+ "name": "produccion-neta-de-electricidad-segun-fuentes-de-energia-y-sistemas-electricos-canarias-por-per1",
+ "notes": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+ "num_resources": 6,
+ "num_tags": 2,
+ "organization": {
+  "id": "2d65720e-0b4f-4b53-a4cb-16a35ee5b991",
+  "name": "istac",
+  "title": "Instituto Canario de Estadística",
+  "type": "organization",
+  "description": "",
+  "image_url": "2020-12-10-145152.408775logo-organizacion-istac.jpg",
+  "created": "2020-12-02T14:44:29.443277",
+  "is_organization": true,
+  "approval_status": "approved",
+  "state": "active"
+ },
+ "owner_org": "2d65720e-0b4f-4b53-a4cb-16a35ee5b991",
+ "private": false,
+ "state": "active",
+ "title": "Producción neta de electricidad según fuentes de energía y sistemas eléctricos. Canarias por periodos",
+ "type": "dataset",
+ "url": "https://www3.gobiernodecanarias.org/istac/statistical-visualizer/visualizer/data.html?resourceType=dataset&agencyId=ISTAC&resourceId=C00022A_000007&version=1.42",
+ "version": "1.42",
+ "extras": [
+  {
+   "key": "contact_email",
+   "value": "consultas.istac@gobiernodecanarias.org"
+  },
+  {
+   "key": "contact_name",
+   "value": "Instituto Canario de Estadística (ISTAC)"
+  },
+  {
+   "key": "guid",
+   "value": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658"
+  },
+  {
+   "key": "identifier",
+   "value": "https://datos.canarias.es/catalogos/estadisticas/dataset/urn-siemac-org-siemac-metamac-infomodel-statisticalresources-dataset-istac-c00022a_000007"
+  },
+  {
+   "key": "issued",
+   "value": "2023-09-21T23:22:19.296865"
+  },
+  {
+   "key": "language",
+   "value": "[\"es\", \"en\"]"
+  },
+  {
+   "key": "modified",
+   "value": "2026-09-03T09:31:14.760880"
+  },
+  {
+   "key": "publisher_name",
+   "value": "ISTAC"
+  },
+  {
+   "key": "publisher_uri",
+   "value": "http://datos.gob.es/recurso/sector-publico/org/Organismo/A05003423"
+  },
+  {
+   "key": "theme",
+   "value": "[\"http://datos.gob.es/kos/sector-publico/sector/energia\"]"
+  },
+  {
+   "key": "uri",
+   "value": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658"
+  },
+  {
+   "key": "harvest_object_id",
+   "value": "35146260-d1b7-4d47-9bd4-280b471f8eef"
+  },
+  {
+   "key": "harvest_source_id",
+   "value": "73aae068-a7b3-4c62-a6ae-f30c11b2c313"
+  },
+  {
+   "key": "harvest_source_title",
+   "value": "ISTAC"
+  }
+ ],
+ "groups": [
+  {
+   "description": "Energía eólica, solar, fotovoltaica, hidráulica...",
+   "display_name": "Energía",
+   "id": "f60dd588-4814-4c2c-a5c3-33154881a20b",
+   "image_display_url": "",
+   "name": "energia",
+   "title": "Energía"
+  }
+ ],
+ "resources": [
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.json",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004368",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/c0db854f-9aa4-4b43-9b07-df0296d66cc5",
+   "format": "JSON",
+   "hash": "",
+   "id": "c3c2f5ab-bebe-4ac4-b063-4bff175c1828",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102447",
+   "mimetype": "application/json",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:13.175927",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (JSON)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 0,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/c0db854f-9aa4-4b43-9b07-df0296d66cc5",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.json",
+   "url_type": null
+  },
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.xml",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004371",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/349e6de6-542b-4acb-a9e2-fd11f418746a",
+   "format": "XML",
+   "hash": "",
+   "id": "08cc90ac-4546-4f72-998e-a73e5a546f3b",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102577",
+   "mimetype": "application/xml",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:13.653968",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (XML)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 1,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/349e6de6-542b-4acb-a9e2-fd11f418746a",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.xml",
+   "url_type": null
+  },
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.jsonstat",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004372",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/5965ed40-6259-4053-8264-bbd7434256a6",
+   "format": "JSON",
+   "hash": "",
+   "id": "68823fad-291a-48f8-862d-198736f4b5c8",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102659",
+   "mimetype": "application/json",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:13.940231",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (JSONSTAT)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 2,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/5965ed40-6259-4053-8264-bbd7434256a6",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.jsonstat",
+   "url_type": null
+  },
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.tsv",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004373",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/ac26e228-cac9-4bf5-8a96-0811ee8e8934",
+   "format": "TSV",
+   "hash": "75396a4409f1f86491f26122d2a72504",
+   "id": "e1bf7a5c-7169-428b-b073-0f42c2812a89",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102737",
+   "mimetype": "text/tab-separated-values",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:14.202510",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (TSV)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 3,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/ac26e228-cac9-4bf5-8a96-0811ee8e8934",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.tsv",
+   "url_type": null
+  },
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.csv",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004374",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/dee423a1-f66f-4df9-8fbe-4a5d63476e76",
+   "format": "CSV",
+   "hash": "bd8a07dd5b434afd0dd15e978b09affa",
+   "id": "eaad5497-0b38-4b03-866d-d753a115bb6d",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102815",
+   "mimetype": "text/csv",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:14.479335",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (CSV)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 4,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/dee423a1-f66f-4df9-8fbe-4a5d63476e76",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.csv",
+   "url_type": null
+  },
+  {
+   "access_url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.xlsx",
+   "cache_last_updated": null,
+   "cache_url": null,
+   "created": "2026-08-21T12:28:00.004374",
+   "datastore_active": false,
+   "datastore_contains_all_records_of_source_file": false,
+   "description": "Este conjunto de datos proporciona información de carácter mensual sobre la producción neta de electricidad según fuentes de energía en cada uno de los sistemas eléctricos de Canarias.  \nLa producción neta de electricidad se define como la producción bruta de electricidad menos la energía eléctrica absorbida por los equipos de generación auxiliares y las pérdidas que se producen en los transformadores de los generadores principales. Este concepto se conoce también como producción en barras de central.\n",
+   "distribution_ref": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/5723181d-72ab-4282-b219-507867b551c6",
+   "format": "XLSX",
+   "hash": "f92a4e40eb26ba5b03af614e13f25c3f",
+   "id": "4521c6a5-5cb8-4df1-b455-9d437737ea9c",
+   "issued": "2023-09-21T23:22:19.177000",
+   "last_modified": null,
+   "metadata_modified": "2026-09-25T09:07:54.102891",
+   "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "mimetype_inner": null,
+   "modified": "2026-09-03T09:31:14.774564",
+   "name": "Cubo estadístico. ISTAC:C00022A_000007 (XLSX)",
+   "package_id": "d16d761c-7acc-4477-9d65-ebd3d220261e",
+   "position": 5,
+   "resource_type": null,
+   "size": null,
+   "state": "active",
+   "uri": "https://datos.canarias.es/catalogos/estadisticas/dataset/09c40c0a-9352-4a71-ad51-630eeef23658/resource/5723181d-72ab-4282-b219-507867b551c6",
+   "url": "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00022A_000007/1.42.xlsx",
+   "url_type": null
+  }
+ ],
+ "tags": [
+  {
+   "display_name": "Cubo estadístico",
+   "id": "c5b73304-5e6d-49eb-8064-dbe149268c38",
+   "name": "Cubo estadístico",
+   "state": "active",
+   "vocabulary_id": null
+  },
+  {
+   "display_name": "Statistical cube",
+   "id": "9f318ca2-17c7-4517-aa80-8fe6e613ebba",
+   "name": "Statistical cube",
+   "state": "active",
+   "vocabulary_id": null
+  }
+ ],
+ "relationships_as_subject": [],
+ "relationships_as_object": []
+}

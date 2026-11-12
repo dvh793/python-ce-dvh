@@ -1,0 +1,9 @@
+instalacion_id,nombre,municipio,latitud,longitud,potencia_kwp,tipo,fecha_alta
+1,Planta Abona I,Granadilla de Abona,28.078,-16.52,1800,fotovoltaica,2019-03-12
+2,Planta Abona II,Granadilla de Abona,28.082,-16.515,2400,fotovoltaica,2020-06-01
+3,Cubierta Polígono Güímar,Güímar,28.306,-16.389,950,fotovoltaica,2021-02-15
+4,Planta Arico Sur,Arico,28.095,-16.47,1500,fotovoltaica,2021-09-20
+5,Cubierta Mercatenerife,Santa Cruz de Tenerife,28.456,-16.278,600,fotovoltaica,2022-04-04
+6,Planta La Guancha,La Guancha,28.371,-16.653,700,fotovoltaica,2022-11-11
+7,Planta Fasnia,Fasnia,28.235,-16.432,1200,fotovoltaica,2023-05-30
+8,Cubierta Las Chafiras,San Miguel de Abona,28.037,-16.616,450,fotovoltaica,2023-10-02

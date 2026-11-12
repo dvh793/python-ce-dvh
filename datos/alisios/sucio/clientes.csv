@@ -1,0 +1,357 @@
+cliente_id;nombre;nif;tipo;correo;telefono;municipio;provincia;codigo_postal;fecha_alta;potencia_contratada_kw;activo
+213;Laura Expósito Acosta;50852556Q;residencial;laura.exposito213@alisios.example;924730818;La Orotava;Santa Cruz de Tenerife;38300;2020-01-16;3,45;True
+98;Comunidad de Propietarios Avenida Padrón 71;H66470168;comunidad;comunidad.de98@alisios.example;963339034;Güímar;Santa Cruz de Tenerife;38500;2020-10-26;3,45;True
+115;Rodríguez y Padrón S.L.;B80954586;empresa;rodriguez.y115@alisios.example;684194694;La Orotava;Santa Cruz de Tenerife;38300;17/06/2022;3,45;True
+7;Patricia Delgado Acosta;57369326N;residencial;patricia.delgado7@gmail.com;673269602;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2023-04-30;6,9;True
+127;Delgado y Bethencourt S.L.;B10657929;empresa;delgado.y127@outlook.es;832039288;Candelaria;Santa Cruz de Tenerife;38530;2022-05-20;30,0;True
+53;Bethencourt y Delgado S.L.;B50070872;empresa;bethencourt.y53@hotmail.com;642750456;Las Palmas de Gran Canaria;Las Palmas;35001;25/08/2024;20,0;True
+155;Comunidad de Propietarios Edificio Padrón 49;H21583021;comunidad;comunidad.de155@hotmail.com;970032371;Los Realejos;Santa Cruz de Tenerife;38410;04/04/2023;4,6;True
+132;Comunidad de Propietarios Edificio Cabrera 68;H86757852;comunidad;comunidad.de132@alisios.example;853286291;El Rosario;Santa Cruz de Tenerife;38290;2024-06-06;6,9;True
+81;Comunidad de Propietarios Calle Acosta 4;H31504870;comunidad;comunidad.de81@hotmail.com;985 020 167;santa cruz de tenerife;Santa Cruz de Tenerife;38001;06/09/2020;20,0;True
+286;Idaira Rodríguez Díaz;78227608P;residencial;;885624205;Candelaria;Santa Cruz de Tenerife;38530;2019-07-13;9,2;True
+229;Pedro Expósito Díaz;72561091R;residencial;pedro.exposito229@outlook.es;674112868;Icod de los Vinos;Santa Cruz de Tenerife;38430;13/06/2025;30,0;True
+149;Javier Dorta Bethencourt;18142795G;residencial;javier.dorta149@gmail.com;970352266;Arona;Santa Cruz de Tenerife;38640;08/12/2020;6,9;True
+93;  ADAY TRUJILLO RIVERO ;12754076R;residencial;ADAY.TRUJILLO93@OUTLOOK.ES;993149424;Arico;Santa Cruz de Tenerife;38580;2025-04-13;9,2;True
+103;Hernández y Bethencourt S.L.;B73913765;empresa;hernandez.y103@hotmail.com;886965671;candelaria;Santa Cruz de Tenerife;38530;2020-08-06;5,75;True
+44;Padrón y Pérez S.L.;B61820948;empresa;padron.y44@gmail.com;648013138;Arico;Santa Cruz de Tenerife;38580;2025-02-25;15,0;True
+57;Carlos Martín Méndez;21027958X;residencial;carlos.martin57@gmail.com;650896306;icod de los vinos;Santa Cruz de Tenerife;38430;2020-03-25;5750,0;False
+281;Paula Rivero Bethencourt;46086713A;residencial;paula.rivero281@outlook.es;861014680;Adeje;Santa Cruz de Tenerife;38670;29/10/2019;50,0;True
+255;Juan Siverio Siverio;47039418W;residencial;juan.siverio255@outlook.es;633971057;Telde;Las Palmas;35200;13/05/2021;4600,0;True
+252;Sergio Padrón González;66289787S;residencial;sergio.padron252@alisios.example;990656244;Arona;Santa Cruz de Tenerife;38640;2024-07-11;6,9;True
+254;Guacimara Padrón Méndez;66123341C;residencial;guacimara.padron254@hotmail.com;643519122;Candelaria;Santa Cruz de Tenerife;38530;27/01/2024;30,0;False
+309;  Dorta y Pérez S.L. ;B63434229;empresa;dorta.y309@gmail.com;612516198;Arona;Santa Cruz de Tenerife;38640;04/05/2019;5,75;True
+267;Daniel Siverio González;44430085L;residencial;daniel.siverio267@alisios.example;656042721;Santa Lucía de Tirajana;Las Palmas;35110;2024-03-22;15,0;True
+211;Carlos Afonso Martín;17920562C;residencial;carlos.afonso211@gmail.com;653724515;Icod de los Vinos;Santa Cruz de Tenerife;38430;22/12/2021;6,9;True
+2;Comunidad de Propietarios Avenida Melián 53;H44432663;comunidad;comunidad.de2@gmail.com;624169398;Santa Lucía de Tirajana;Las Palmas;35110;2025-02-04;3,45;True
+209;Jonay Martín Rodríguez;50804843M;residencial;jonay.martin209@hotmail.com;655775634;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2021-10-12;6,9;True
+48;Afonso y Rivero S.L.;B63281414;empresa;afonso.y48@hotmail.com;879741484;Adeje;Santa Cruz de Tenerife;38670;2023-04-06;30,0;True
+132;COMUNIDAD DE PROPIETARIOS EDIFICIO CABRERA 68;H86757852;comunidad;COMUNIDAD.DE132@ALISIOS.EXAMPLE;853 286 291;El Rosario;Santa Cruz de Tenerife;38290;2024-06-06;6,9;True
+164;Transportes Chasna S.L.;B94983568;empresa;;855077615;Güímar;Santa Cruz de Tenerife;38500;2024-02-22;30000,0;True
+219;Comunidad de Propietarios Calle González 24;H91435319;comunidad;comunidad.de219@alisios.example;850855081;Santa Lucía de Tirajana;Las Palmas;35110;2019-09-20;15,0;True
+220;Plátanos del Valle S.A.T.;B76915440;empresa;platanos.del220@hotmail.com;844660028;Arico;Santa Cruz de Tenerife;38580;2024-10-17;4,6;True
+152;Carmen Rivero Padrón;63454707F;residencial;carmen.rivero152@gmail.com;621727033;La Guancha;Santa Cruz de Tenerife;38440;2023-07-12;5,75;True
+300;María Afonso Expósito;56212007F;residencial;maria.afonso300@gmail.com;984728546;San Bartolomé de Tirajana;Las Palmas;35100;2021-08-10;20,0;True
+288;José Padrón Rodríguez;24883513C;residencial;jose.padron288@outlook.es;663392885;santa lucía de tirajana;Las Palmas;35110;2019-01-15;30,0;False
+176;Francisco Pérez Pérez;27221968L;residencial;francisco.perez176@hotmail.com;613914595;Santa Lucía de Tirajana;Las Palmas;35110;2024-04-06;3,45;False
+133;Dorta y Méndez S.L.;B17628662;empresa;dorta.y133@gmail.com;936241691;Arico;Santa Cruz de Tenerife;38580;08/07/2023;5750,0;True
+205;Rivero y Hernández S.L.;B15229671;empresa;rivero.y205@gmail.com;990875752;Arucas;Las Palmas;35400;2022-09-07;6,9;False
+287;PADRÓN Y PÉREZ S.L.;B10235005;empresa;PADRON.Y287@GMAIL.COM;836145540;Arona;Santa Cruz de Tenerife;38640;2024-10-09;4600,0;True
+175;Melián y Melián S.L.;B38074397;empresa;melian.y175@outlook.es;845 677 353;San Miguel de Abona;Santa Cruz de Tenerife;38620;19/01/2021;3,45;True
+106;Marta Hernández Bethencourt;68086034P;residencial;marta.hernandez106@gmail.com;691658103;El Rosario;Santa Cruz de Tenerife;38290;2021-12-12;50,0;True
+122;Supermercados Guanche S.A.;B92326964;empresa;supermercados.guanche122@alisios.example;972279348;Fasnia;Santa Cruz de Tenerife;38570;2024-09-06;3,45;True
+13;Cristina Díaz García;24406715N;residencial;cristina.diaz13@alisios.example;913840915;Güímar;Santa Cruz de Tenerife;38500;2024-10-26;9,2;True
+111;PÉREZ Y DORTA S.L.;B78983415;empresa;PEREZ.Y111@OUTLOOK.ES;668178267;Tacoronte;Santa Cruz de Tenerife;38350;2025-06-04;5,75;True
+261;Panadería La Milagrosa;B65952144;empresa;panaderia.la261@hotmail.com;828494330;El Rosario;Santa Cruz de Tenerife;38290;2025-06-24;4,6;True
+248;Patricia Melián García;12297511D;residencial;patricia.melian248@alisios.example;821929441;La Orotava;Santa Cruz de Tenerife;38300;2023-05-03;5,75;True
+223;María Siverio Expósito;30791858X;residencial;maria.siverio223@hotmail.com;668372591;Guía de Isora;Santa Cruz de Tenerife;38680;29/01/2019;3,45;False
+276;Sergio Bethencourt Rodríguez;78268018F;residencial;sergio.bethencourt276@hotmail.com;993143748;La Guancha;Santa Cruz de Tenerife;38440;2020-09-16;4,6;True
+66;Jonay Acosta González;59676657Y;residencial;jonay.acosta66@hotmail.com;818254191;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;27/10/2022;5,75;True
+158;Daniel Delgado González;79254122D;residencial;daniel.delgado158@hotmail.com;670522186;Guía de Isora;Santa Cruz de Tenerife;38680;2023-03-01;4,6;True
+120;María Expósito Méndez;50826240N;residencial;maria.exposito120@outlook.es;948229953;San Miguel de Abona;Santa Cruz de Tenerife;38620;2025-05-09;50,0;True
+194;Javier Bethencourt Delgado;19112914Y;residencial;javier.bethencourt194@hotmail.com;685 999 020;Icod de los Vinos;Santa Cruz de Tenerife;38430;09/06/2019;5,75;True
+27;María Rodríguez Siverio;27642355N;residencial;maria.rodriguez27@gmail.com;839319267;Guía de Isora;Santa Cruz de Tenerife;38680;2021-12-22;9,2;True
+208;Comunidad de Propietarios Avenida Acosta 11;H11956606;comunidad;comunidad.de208@outlook.es;654867412;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2021-07-27;9,2;True
+79;García y Méndez S.L.;B35255059;empresa;garcia.y79@outlook.es;650195773;Icod de los Vinos;Santa Cruz de Tenerife;38430;2024-08-01;5,75;True
+173;Ana Rivero Delgado;43578650K;residencial;ana.rivero173@alisios.example;664 183 396;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;11/03/2023;20,0;True
+28;Marta Acosta Pérez;54355783K;residencial;marta.acosta28@outlook.es;612802029;Arucas;Las Palmas;35400;2022-12-07;3,45;True
+86;María Afonso Hernández;17732731F;residencial;;653747651;El Rosario;Santa Cruz de Tenerife;38290;2025-05-06;5,75;True
+242;Acosta y Afonso S.L.;B78000860;empresa;acosta.y242@gmail.com;683787086;Arona;Santa Cruz de Tenerife;38640;2024-06-25;3,45;True
+91;Sergio Siverio Martín;31641330T;residencial;sergio.siverio91@gmail.com;950 762 602;San Miguel de Abona;Santa Cruz de Tenerife;38620;2021-08-08;15,0;True
+65;Paula Afonso García;68451195K;residencial;paula.afonso65@outlook.es;824977657;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2020-01-03;20,0;True
+192;Siverio y Martín S.L.;B63497054;empresa;siverio.y192@gmail.com;698 777 365;Las Palmas de Gran Canaria;Las Palmas;35001;2022-04-10;6,9;False
+165;Laura Dorta Rodríguez;16808195W;residencial;laura.dorta165@outlook.es;852039667;Güímar;Santa Cruz de Tenerife;38500;2021-11-09;20,0;True
+25;  Paula Rivero Martín ;41920474F;residencial;paula.rivero25@hotmail.com;818564810;el rosario;Santa Cruz de Tenerife;38290;2020-11-06;30,0;True
+289;Aday Delgado Delgado;48678712X;residencial;aday.delgado289@outlook.es;832346849;el rosario;Santa Cruz de Tenerife;38290;2023-03-02;15,0;True
+215;Antonio González Méndez;23383336H;residencial;antonio.gonzalez215@outlook.es;698941840;Fasnia;Santa Cruz de Tenerife;38570;2020-11-24;9,2;True
+99;Comunidad de Propietarios Edificio Pérez 17;H5979330X;comunidad;;993005942;Güímar;Santa Cruz de Tenerife;38500;31/01/2021;5,75;True
+77;García y Rivero S.L.;B81237393;empresa;;998523417;Santa Lucía de Tirajana;Las Palmas;35110;2023-09-16;9,2;True
+312;Francisco Delgado Acosta;43429407W;residencial;francisco.delgado312@alisios.example;687113646;San Miguel de Abona;Santa Cruz de Tenerife;38620;2021-04-11;3,45;True
+131;Transportes Chasna S.L.;B75083107;empresa;transportes.chasna131@alisios.example;858560044;Los Realejos;Santa Cruz de Tenerife;38410;2025-04-24;4,6;True
+243;COMUNIDAD DE PROPIETARIOS EDIFICIO TRUJILLO 13;H55123117;comunidad;COMUNIDAD.DE243@OUTLOOK.ES;920977039;Tegueste;Santa Cruz de Tenerife;38280;2024-02-08;4,6;True
+70;  Comunidad de Propietarios Avenida Expósito 86 ;H87983898;comunidad;comunidad.de70@alisios.example;925419674;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2020-04-22;5,75;True
+101;Siverio y Afonso S.L.;B93874359;empresa;siverio.y101@outlook.es;837676603;Arico;Santa Cruz de Tenerife;38580;2020-03-23;5,75;True
+114;Melián y Melián S.L.;B43542361;empresa;melian.y114@outlook.es;823292705;La Guancha;Santa Cruz de Tenerife;38440;2024-06-09;20,0;True
+199;  Guacimara Hernández Pérez ;10354039Z;residencial;guacimara.hernandez199@gmail.com;999904456;Santa Lucía de Tirajana;Las Palmas;35110;2024-10-15;4,6;True
+35;Nira Hernández Díaz;19057302P;residencial;nira.hernandez35@alisios.example;667533418;Arico;Santa Cruz de Tenerife;38580;2023-04-26;3,45;True
+88;Airam Expósito Rivero;53654572B;residencial;airam.exposito88@hotmail.com;610776845;San Miguel de Abona;Santa Cruz de Tenerife;38620;2025-04-23;20,0;True
+58;José Hernández Delgado;20445959V;residencial;jose.hernandez58@alisios.example;977 921 976;Tacoronte;Santa Cruz de Tenerife;38350;30/03/2024;4,6;True
+81;  Comunidad de Propietarios Calle Acosta 4 ;H31504870;comunidad;comunidad.de81@hotmail.com;985020167;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;06/09/2020;20,0;True
+200;Comunidad de Propietarios Edificio Martín 61;H92236841;comunidad;comunidad.de200@alisios.example;991 359 010;tacoronte;Santa Cruz de Tenerife;38350;2023-06-05;4,6;True
+203;Cristina González Trujillo;70876277Y;residencial;cristina.gonzalez203@hotmail.com;616664458;El Rosario;Santa Cruz de Tenerife;38290;14/03/2020;3,45;True
+153;Idaira Afonso Acosta;18997048Z;residencial;idaira.afonso153@outlook.es;945348508;Las Palmas de Gran Canaria;Las Palmas;35001;2024-06-11;9,2;True
+248;PATRICIA MELIÁN GARCÍA;12297511D;residencial;PATRICIA.MELIAN248@ALISIOS.EXAMPLE;821929441;La Orotava;Santa Cruz de Tenerife;38300;03/05/2023;5,75;True
+30;José Rivero Méndez;23627216Y;residencial;jose.rivero30@outlook.es;632356593;Adeje;Santa Cruz de Tenerife;38670;2022-02-09;3,45;True
+93;Aday Trujillo Rivero;12754076R;residencial;aday.trujillo93@outlook.es;993149424;Arico;Santa Cruz de Tenerife;38580;2025-04-13;9,2;True
+71;Guacimara Díaz Hernández;18316092L;residencial;guacimara.diaz71@outlook.es;636075243;La Orotava;Santa Cruz de Tenerife;38300;29/09/2023;3,45;True
+89;Siverio y Siverio S.L.;B20826924;empresa;siverio.y89@outlook.es;893394130;Los Realejos;Santa Cruz de Tenerife;38410;24/03/2024;15,0;True
+18;Martín y Expósito S.L.;B39529336;empresa;martin.y18@hotmail.com;630501570;Guía de Isora;Santa Cruz de Tenerife;38680;2021-07-23;3,45;False
+111;Pérez y Dorta S.L.;B78983415;empresa;perez.y111@outlook.es;668178267;Tacoronte;Santa Cruz de Tenerife;38350;2025-06-04;5750,0;True
+188;Hernández y Bethencourt S.L.;B24208082;empresa;hernandez.y188@gmail.com;845664679;Granadilla de Abona;Santa Cruz de Tenerife;38600;2021-04-16;15,0;True
+231;Guacimara Méndez Dorta;49248198T;residencial;guacimara.mendez231@hotmail.com;875485532;Los Realejos;Santa Cruz de Tenerife;38410;2024-07-31;4,6;True
+268;Bodegas Teide Alto S.L.;B46535179;empresa;bodegas.teide268@hotmail.com;969486744;Las Palmas de Gran Canaria;Las Palmas;35001;2021-11-07;6,9;True
+26;  Bethencourt y Cabrera S.L. ;B45397690;empresa;bethencourt.y26@hotmail.com;658491070;La Guancha;Santa Cruz de Tenerife;38440;2021-05-26;6,9;True
+112;Martín y Melián S.L.;B15184286;empresa;martin.y112@gmail.com;669545443;Icod de los Vinos;Santa Cruz de Tenerife;38430;17/08/2022;20,0;True
+260;Colegio San Andrés;B79675706;empresa;colegio.san260@alisios.example;834327700;San Bartolomé de Tirajana;Las Palmas;35100;2022-06-14;4,6;True
+228;  Cristina García Martín ;13368185X;residencial;cristina.garcia228@outlook.es;699693718;Granadilla de Abona;Santa Cruz de Tenerife;38600;2020-12-25;5,75;True
+21;  María González Melián ;68525924T;residencial;maria.gonzalez21@gmail.com;874193184;Los Realejos;Santa Cruz de Tenerife;38410;10/04/2020;3,45;True
+60;Yeray Padrón Trujillo;27267408B;residencial;yeray.padron60@alisios.example;644314963;La Guancha;Santa Cruz de Tenerife;38440;2021-07-16;6,9;True
+310;  Comunidad de Propietarios Avenida Cabrera 57 ;H31240061;comunidad;comunidad.de310@alisios.example;955358425;San Bartolomé de Tirajana;Las Palmas;35100;20/03/2022;6,9;True
+38;Jonay Rodríguez Díaz;24528538G;residencial;jonay.rodriguez38@gmail.com;825924254;santa lucía de tirajana;Las Palmas;35110;22/03/2020;15,0;True
+147;Cristina Díaz Afonso;59848179V;residencial;cristina.diaz147@outlook.es;990822450;Guía de Isora;Santa Cruz de Tenerife;38680;2020-05-15;5750,0;False
+253;Cabrera y Hernández S.L.;B89966859;empresa;cabrera.y253@hotmail.com;680 580 472;Santiago del Teide;Santa Cruz de Tenerife;38690;2025-01-06;3450,0;True
+168;Comunidad de Propietarios Avenida Acosta 52;H22995824;comunidad;comunidad.de168@alisios.example;969465484;Fasnia;Santa Cruz de Tenerife;38570;2024-04-10;5,75;True
+248;Patricia Melián García;12297511D;residencial;patricia.melian248@alisios.example;821929441;La Orotava;Santa Cruz de Tenerife;38300;2023-05-03;5,75;True
+305;Comunidad de Propietarios Edificio Martín 75;H94202918;comunidad;comunidad.de305@alisios.example;920215065;Las Palmas de Gran Canaria;Las Palmas;35001;2024-06-13;5,75;True
+212;Melián y Melián S.L.;B53632613;empresa;melian.y212@gmail.com;884475479;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2025-02-08;30,0;True
+187;Méndez y Siverio S.L.;B45001534;empresa;mendez.y187@gmail.com;633278319;Telde;Las Palmas;35200;2021-11-07;9,2;True
+184;Javier Padrón Dorta;42686149N;residencial;javier.padron184@hotmail.com;876988354;Tacoronte;Santa Cruz de Tenerife;38350;2024-02-11;15,0;True
+139;Antonio Padrón Pérez;71549119Y;residencial;antonio.padron139@outlook.es;623725838;Puerto de la Cruz;Santa Cruz de Tenerife;38400;2019-03-26;4,6;True
+198;Patricia Afonso Acosta;70152048R;residencial;patricia.afonso198@outlook.es;846357537;Granadilla de Abona;Santa Cruz de Tenerife;38600;2023-09-30;4,6;True
+140;Carmen Méndez Acosta;61740346C;residencial;carmen.mendez140@outlook.es;655230245;Arona;Santa Cruz de Tenerife;38640;18/07/2021;15,0;True
+260;COLEGIO SAN ANDRÉS;B79675706;empresa;COLEGIO.SAN260@ALISIOS.EXAMPLE;834327700;San Bartolomé de Tirajana;Las Palmas;35100;2022-06-14;4,6;True
+190;  Juan Hernández García ;10038935X;residencial;juan.hernandez190@alisios.example;815682498;Arona;Santa Cruz de Tenerife;38640;2020-11-05;20,0;True
+218;Supermercados Guanche S.A.;B29580245;empresa;supermercados.guanche218@alisios.example;840123967;Tegueste;Santa Cruz de Tenerife;38280;2021-11-29;4,6;True
+37;Delgado y Dorta S.L.;B32081283;empresa;delgado.y37@outlook.es;857 997 247;La Guancha;Santa Cruz de Tenerife;38440;2020-01-30;5,75;True
+11;Comunidad de Propietarios Calle Melián 2;H25932808;comunidad;comunidad.de11@hotmail.com;973513853;Los Realejos;Santa Cruz de Tenerife;38410;2023-10-20;20,0;True
+62;Miguel Expósito Díaz;62704622K;residencial;miguel.exposito62@alisios.example;620385840;Fasnia;Santa Cruz de Tenerife;38570;2021-08-04;6,9;True
+82;Delgado y Bethencourt S.L.;B46695063;empresa;delgado.y82@hotmail.com;861799273;Los Realejos;Santa Cruz de Tenerife;38410;04/12/2022;3,45;True
+256;Rodríguez y Dorta S.L.;B79941619;empresa;rodriguez.y256@alisios.example;820769628;Puerto de la Cruz;Santa Cruz de Tenerife;38400;23/04/2022;4,6;True
+260;Colegio San Andrés;B79675706;empresa;colegio.san260@alisios.example;834327700;San Bartolomé de Tirajana;Las Palmas;35100;14/06/2022;4,6;True
+246;García y Cabrera S.L.;B18660990;empresa;garcia.y246@gmail.com;965059927;La Guancha;Santa Cruz de Tenerife;38440;15/09/2023;9,2;True
+319;Ana Bethencourt Martín;32534462L;residencial;ana.bethencourt319@alisios.example;866826156;Granadilla de Abona;Santa Cruz de Tenerife;38600;2021-12-04;6,9;True
+264;Raquel Cabrera Cabrera;52737666T;residencial;raquel.cabrera264@alisios.example;671 481 163;San Miguel de Abona;Santa Cruz de Tenerife;38620;27/01/2023;3,45;True
+265;Yeray Expósito García;49014893F;residencial;yeray.exposito265@outlook.es;967852024;La Orotava;Santa Cruz de Tenerife;38300;2020-02-21;9,2;True
+148;María Hernández Delgado;71645839B;residencial;maria.hernandez148@hotmail.com;971137861;Candelaria;Santa Cruz de Tenerife;38530;2021-04-11;15,0;True
+215;  ANTONIO GONZÁLEZ MÉNDEZ ;23383336H;residencial;ANTONIO.GONZALEZ215@OUTLOOK.ES;698 941 840;Fasnia;Santa Cruz de Tenerife;38570;24/11/2020;9,2;True
+174;Martín y Acosta S.L.;B76985260;empresa;martin.y174@hotmail.com;644018345;Candelaria;Santa Cruz de Tenerife;38530;18/05/2022;15,0;False
+36;Supermercados Guanche S.A.;B72447184;empresa;supermercados.guanche36@outlook.es;931945199;San Bartolomé de Tirajana;Las Palmas;35100;2022-02-20;15,0;True
+227;Delgado y Padrón S.L.;B3421483X;empresa;delgado.y227@gmail.com;838852710;Los Realejos;Santa Cruz de Tenerife;38410;2021-05-29;3,45;True
+294;Antonio Melián Afonso;59164367H;residencial;;933447826;La Guancha;Santa Cruz de Tenerife;38440;23/06/2024;9,2;True
+20;Panadería La Milagrosa;B12138429;empresa;panaderia.la20@outlook.es;819019478;Güímar;Santa Cruz de Tenerife;38500;2025-06-05;5,75;True
+109;Panadería La Milagrosa;B80136422;empresa;;643849038;Los Realejos;Santa Cruz de Tenerife;38410;2023-08-31;4,6;True
+6;Carlos Melián Afonso;20797949S;residencial;carlos.melian6@hotmail.com;893591237;San Bartolomé de Tirajana;Las Palmas;35100;2022-03-19;6,9;True
+271;David González Melián;44202928X;residencial;;881741155;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;21/04/2023;4,6;True
+197;Comunidad de Propietarios Calle Martín 31;H90676757;comunidad;comunidad.de197@alisios.example;817068903;Las Palmas de Gran Canaria;Las Palmas;35001;2020-11-23;4,6;True
+105;Yeray Martín García;21829882F;residencial;yeray.martin105@alisios.example;870742509;Santiago del Teide;Santa Cruz de Tenerife;38690;19/01/2020;15,0;True
+143;González y Cabrera S.L.;B80634931;empresa;gonzalez.y143@gmail.com;977816172;Adeje;Santa Cruz de Tenerife;38670;2022-10-14;9,2;False
+61;Cabrera y Díaz S.L.;B81204625;empresa;;827297704;Los Realejos;Santa Cruz de Tenerife;38410;29/08/2021;5,75;True
+22;Daniel Trujillo Rivero;45246165J;residencial;;994 047 185;Arucas;Las Palmas;35400;2024-03-04;6,9;True
+270;Supermercados Guanche S.A.;B11823633;empresa;supermercados.guanche270@hotmail.com;952370799;Santiago del Teide;Santa Cruz de Tenerife;38690;2023-11-10;5,75;True
+107;David Afonso Hernández;46297779K;residencial;david.afonso107@gmail.com;868 416 987;S/C de Tenerife;Santa Cruz de Tenerife;38001;2020-01-25;6,9;True
+128;Miguel Rivero Martín;69399667L;residencial;miguel.rivero128@hotmail.com;686982897;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2020-04-14;20,0;True
+50;Sergio Rivero Martín;40356476D;residencial;sergio.rivero50@gmail.com;614793127;Fasnia;Santa Cruz de Tenerife;38570;2019-12-28;4,6;True
+239;Antonio Expósito Melián;57605999S;residencial;antonio.exposito239@alisios.example;962173561;Telde;Las Palmas;35200;2022-05-21;4,6;False
+59;González y Cabrera S.L.;B25920226;empresa;gonzalez.y59@alisios.example;956784100;Güímar;Santa Cruz de Tenerife;38500;2020-03-25;20,0;True
+76;Lucía Rodríguez Martín;36153938P;residencial;;824755369;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2024-08-12;4,6;True
+86;MARÍA AFONSO HERNÁNDEZ;17732731F;residencial;MARIA.AFONSO86@ALISIOS.EXAMPLE;653747651;El Rosario;Santa Cruz de Tenerife;38290;2025-05-06;5,75;True
+189;  Lavandería Industrial Sur S.L. ;B81553879;empresa;lavanderia.industrial189@gmail.com;864 806 975;Santiago del Teide;Santa Cruz de Tenerife;38690;2021-03-14;4,6;True
+39;Acosta y Rivero S.L.;B24290454;empresa;acosta.y39@alisios.example;957916845;Santiago del Teide;Santa Cruz de Tenerife;38690;2024-08-14;6,9;True
+274;Idaira Pérez Dorta;74566232W;residencial;idaira.perez274@outlook.es;667 536 589;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;03/11/2024;15,0;True
+91;SERGIO SIVERIO MARTÍN;31641330T;residencial;SERGIO.SIVERIO91@GMAIL.COM;950762602;San Miguel de Abona;Santa Cruz de Tenerife;38620;2021-08-08;15000,0;True
+185;Idaira González Padrón;20972019K;residencial;;873651021;Arucas;Las Palmas;35400;2019-12-08;5,75;True
+182;  Laura Cabrera Melián ;65573453Q;residencial;;816809749;Candelaria;Santa Cruz de Tenerife;38530;02/09/2020;9,2;False
+133;Dorta y Méndez S.L.;B17628662;empresa;dorta.y133@gmail.com;936241691;Arico;Santa Cruz de Tenerife;38580;08/07/2023;5,75;True
+241;Plátanos del Valle S.A.T.;B59100821;empresa;;686836015;fasnia;Santa Cruz de Tenerife;38570;2023-11-08;5,75;True
+298;Ana Dorta Martín;52425486E;residencial;ana.dorta298@alisios.example;862677674;Güímar;Santa Cruz de Tenerife;38500;03/05/2022;30,0;True
+69;  Elena Méndez Rivero ;19189970N;residencial;elena.mendez69@hotmail.com;842789467;Arona;Santa Cruz de Tenerife;38640;2019-06-04;6,9;True
+259;Finca La Caldera;B29243620;empresa;finca.la259@outlook.es;622071656;Tacoronte;Santa Cruz de Tenerife;38350;14/11/2022;5,75;True
+1;Francisco Dorta Dorta;37265621D;residencial;francisco.dorta1@alisios.example;657467053;Los Realejos;Santa Cruz de Tenerife;38410;2020-06-21;5750,0;True
+51;González y Acosta S.L.;B51886997;empresa;gonzalez.y51@outlook.es;880777825;La Orotava;Santa Cruz de Tenerife;38300;15/12/2024;3450,0;True
+196;Acosta y Acosta S.L.;B55927768;empresa;acosta.y196@hotmail.com;675269122;La Orotava;Santa Cruz de Tenerife;38300;2025-06-10;3,45;True
+171;Daniel Padrón Trujillo;48472285S;residencial;daniel.padron171@gmail.com;820910912;El Rosario;Santa Cruz de Tenerife;38290;20/09/2023;5,75;True
+296;José Trujillo Trujillo;24369023V;residencial;jose.trujillo296@hotmail.com;664360647;La Guancha;Santa Cruz de Tenerife;38440;2019-10-12;3,45;True
+56;  Dorta y Trujillo S.L. ;B10664888;empresa;dorta.y56@hotmail.com;946462013;Granadilla de Abona;Santa Cruz de Tenerife;38600;23/05/2020;15,0;True
+297;Panadería La Milagrosa;B96838660;empresa;panaderia.la297@outlook.es;946621765;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;15/01/2025;9,2;True
+258;Rivero y Pérez S.L.;B10274254;empresa;rivero.y258@alisios.example;984 514 492;Arucas;Las Palmas;35400;2025-02-13;4,6;True
+84;Bethencourt y Rivero S.L.;B86806313;empresa;bethencourt.y84@alisios.example;832646045;arona;Santa Cruz de Tenerife;38640;2019-05-03;4,6;True
+295;Carlos Dorta Díaz;45865223A;residencial;carlos.dorta295@hotmail.com;622948892;Santiago del Teide;Santa Cruz de Tenerife;38690;2023-05-24;15,0;True
+224;  Méndez y Delgado S.L. ;B33459655;empresa;mendez.y224@alisios.example;927792923;Arona;Santa Cruz de Tenerife;38640;2019-05-26;5,75;True
+243;  Comunidad de Propietarios Edificio Trujillo 13 ;H55123117;comunidad;comunidad.de243@outlook.es;920977039;Tegueste;Santa Cruz de Tenerife;38280;2024-02-08;4,6;True
+64;María Acosta Rivero;16109181G;residencial;maria.acosta64@outlook.es;968895743;La Orotava;Santa Cruz de Tenerife;38300;2023-07-20;4,6;True
+130;Marta Cabrera Díaz;34088959S;residencial;marta.cabrera130@outlook.es;834112337;La Guancha;Santa Cruz de Tenerife;38440;10/10/2021;20,0;True
+304;Comunidad de Propietarios Avenida Melián 83;H66811726;comunidad;comunidad.de304@gmail.com;896091021;Los Realejos;Santa Cruz de Tenerife;38410;2024-12-15;9,2;True
+313;Expósito y Méndez S.L.;B60539490;empresa;exposito.y313@alisios.example;664879893;La Orotava;Santa Cruz de Tenerife;38300;2019-07-29;3,45;True
+280;Javier Melián Dorta;60141631N;residencial;javier.melian280@outlook.es;823798569;Fasnia;Santa Cruz de Tenerife;38570;2024-10-13;6,9;True
+193;Jonay Trujillo Rivero;21792820K;residencial;jonay.trujillo193@gmail.com;691861937;Adeje;Santa Cruz de Tenerife;38670;2023-02-27;4,6;True
+87;Marta González Trujillo;78909771Z;residencial;marta.gonzalez87@hotmail.com;890989288;Puerto de la Cruz;Santa Cruz de Tenerife;38400;08/04/2020;6,9;True
+206;Raquel Hernández Martín;63846874R;residencial;raquel.hernandez206@gmail.com;938665109;Telde;Las Palmas;35200;04/03/2023;4,6;True
+161;Nira Dorta González;39196905Y;residencial;nira.dorta161@gmail.com;629781825;Las Palmas de Gran Canaria;Las Palmas;35001;28/05/2023;30,0;True
+47;Laura Melián Dorta;50907495P;residencial;laura.melian47@hotmail.com;612426676;Telde;Las Palmas;35200;2025-02-26;6,9;True
+226;Juan Bethencourt Bethencourt;25673258Z;residencial;juan.bethencourt226@alisios.example;878512235;La Guancha;Santa Cruz de Tenerife;38440;2024-02-22;9,2;True
+163;Idaira Trujillo Méndez;56154870W;residencial;idaira.trujillo163@alisios.example;984 351 248;Adeje;Santa Cruz de Tenerife;38670;2022-09-20;4,6;True
+283;Aparcamientos Anaga S.L.;B48045186;empresa;aparcamientos.anaga283@hotmail.com;691455267;santiago del teide;Santa Cruz de Tenerife;38690;2024-06-19;6,9;True
+177;Ana Delgado Expósito;43626715Q;residencial;ana.delgado177@alisios.example;929296227;Granadilla de Abona;Santa Cruz de Tenerife;38600;07/04/2020;15,0;True
+85;  Melián y Méndez S.L. ;B51617300;empresa;melian.y85@hotmail.com;999037060;Fasnia;Santa Cruz de Tenerife;38570;27/04/2022;15,0;False
+303;Airam Acosta Martín;48152861S;residencial;airam.acosta303@outlook.es;918598312;Tegueste;Santa Cruz de Tenerife;38280;2019-09-24;20,0;True
+195;Méndez y Acosta S.L.;B81089479;empresa;mendez.y195@hotmail.com;977820854;El Rosario;Santa Cruz de Tenerife;38290;2025-02-24;6,9;True
+276;Sergio Bethencourt Rodríguez;78268018F;residencial;sergio.bethencourt276@hotmail.com;993143748;La Guancha;Santa Cruz de Tenerife;38440;2020-09-16;4,6;True
+237;García y Siverio S.L.;B78928800;empresa;garcia.y237@outlook.es;992495464;Las Palmas de Gran Canaria;Las Palmas;35001;2024-08-21;5,75;True
+3;Acosta y Pérez S.L.;B74896620;empresa;acosta.y3@outlook.es;885214004;Arico;Santa Cruz de Tenerife;38580;17/04/2021;6,9;True
+138;Aday Acosta Dorta;30505736P;residencial;aday.acosta138@alisios.example;874219209;Puerto de la Cruz;Santa Cruz de Tenerife;38400;2024-05-21;5750,0;False
+216;Trujillo y García S.L.;B47072861;empresa;trujillo.y216@hotmail.com;833879077;La Guancha;Santa Cruz de Tenerife;38440;2025-03-25;5,75;True
+316;Paula Bethencourt Díaz;40358047Q;residencial;paula.bethencourt316@hotmail.com;881815563;San Bartolomé de Tirajana;Las Palmas;35100;2024-06-25;15,0;True
+117;Nira Trujillo Cabrera;79867854X;residencial;nira.trujillo117@outlook.es;815103800;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2024-09-19;4,6;True
+121;Francisco Expósito Delgado;56678284M;residencial;francisco.exposito121@alisios.example;620165572;Icod de los Vinos;Santa Cruz de Tenerife;38430;2024-02-06;15,0;True
+155;Comunidad de Propietarios Edificio Padrón 49;H21583021;comunidad;;970032371;Los Realejos;Santa Cruz de Tenerife;38410;2023-04-04;4,6;True
+181;Comunidad de Propietarios Edificio Rivero 13;H86397769;comunidad;comunidad.de181@alisios.example;688440050;Icod de los Vinos;Santa Cruz de Tenerife;38430;2023-10-10;20,0;True
+124;LUCÍA MELIÁN PADRÓN;14174572V;residencial;LUCIA.MELIAN124@HOTMAIL.COM;684906910;Adeje;Santa Cruz de Tenerife;38670;2019-12-30;9,2;True
+275;Raquel Bethencourt Martín;19347028A;residencial;raquel.bethencourt275@outlook.es;883640110;Adeje;Santa Cruz de Tenerife;38670;2020-02-20;15,0;True
+33;Sergio Siverio Trujillo;31835219E;residencial;sergio.siverio33@outlook.es;918678938;Arico;Santa Cruz de Tenerife;38580;2025-05-15;50,0;False
+292;Javier Acosta Pérez;27713255A;residencial;javier.acosta292@outlook.es;666882045;Tacoronte;Santa Cruz de Tenerife;38350;2023-01-18;9,2;True
+8;  Laura Martín Melián ;77746380D;residencial;laura.martin8@gmail.com;951927841;Los Realejos;Santa Cruz de Tenerife;38410;2019-06-30;50,0;True
+10;Bodegas Teide Alto S.L.;B97872876;empresa;bodegas.teide10@alisios.example;885179635;Guía de Isora;Santa Cruz de Tenerife;38680;2023-03-20;5,75;True
+104;Sergio Melián Rivero;44122749D;residencial;sergio.melian104@hotmail.com;974 224 615;Guía de Isora;Santa Cruz de Tenerife;38680;2021-05-08;30,0;False
+92;Jonay Dorta Acosta;76380817W;residencial;jonay.dorta92@outlook.es;820997530;El Rosario;Santa Cruz de Tenerife;38290;2020-04-30;6,9;True
+40;Elena Afonso Acosta;72960230K;residencial;elena.afonso40@alisios.example;633904815;Icod de los Vinos;Santa Cruz de Tenerife;38430;2021-08-25;3,45;True
+29;Comunidad de Propietarios Calle Rivero 32;H13980822;comunidad;comunidad.de29@hotmail.com;853065520;Arucas;Las Palmas;35400;16/01/2020;4,6;True
+319;Ana Bethencourt Martín;32534462L;residencial;ana.bethencourt319@alisios.example;866826156;Granadilla de Abona;Santa Cruz de Tenerife;38600;04/12/2021;6,9;True
+302;Talleres Hermanos Dorta S.L.;B50915602;empresa;talleres.hermanos302@gmail.com;636247616;Guía de Isora;Santa Cruz de Tenerife;38680;21/02/2023;4,6;True
+232;Guacimara Afonso Delgado;47331975E;residencial;guacimara.afonso232@outlook.es;677671076;Puerto de la Cruz;Santa Cruz de Tenerife;38400;08/06/2021;15,0;True
+170;Miguel Padrón Pérez;17826820A;residencial;miguel.padron170@gmail.com;959108969;Puerto de la Cruz;Santa Cruz de Tenerife;38400;2019-05-05;3,45;True
+89;Siverio y Siverio S.L.;B20826924;empresa;siverio.y89@outlook.es;893394130;Los Realejos;Santa Cruz de Tenerife;38410;2024-03-24;15,0;True
+250;Padrón y González S.L.;B94751316;empresa;padron.y250@outlook.es;924470296;Puerto de la Cruz;Santa Cruz de Tenerife;38400;17/08/2020;6,9;True
+262;Panadería La Milagrosa;B26426598;empresa;;933523391;Los Realejos;Santa Cruz de Tenerife;38410;2024-12-28;4,6;True
+207;Comunidad de Propietarios Calle Pérez 63;H21529263;comunidad;comunidad.de207@gmail.com;665248922;Güímar;Santa Cruz de Tenerife;38500;2019-08-21;9,2;True
+154;Pedro Delgado Delgado;78592403T;residencial;pedro.delgado154@alisios.example;829961279;san bartolomé de tirajana;Las Palmas;35100;2021-04-18;20,0;True
+89;SIVERIO Y SIVERIO S.L.;B20826924;empresa;SIVERIO.Y89@OUTLOOK.ES;893394130;Los Realejos;Santa Cruz de Tenerife;38410;2024-03-24;15,0;True
+31;Cristina Padrón Cabrera;68488214X;residencial;cristina.padron31@hotmail.com;813655725;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;13/03/2022;9,2;True
+110;Hernández y Martín S.L.;B31478031;empresa;hernandez.y110@outlook.es;967853862;Güímar;Santa Cruz de Tenerife;38500;2019-04-15;3,45;True
+317;José Delgado Rodríguez;69261781X;residencial;jose.delgado317@hotmail.com;834 144 523;Telde;Las Palmas;35200;2024-06-26;3,45;True
+73;Sergio Cabrera Melián;64147198Z;residencial;sergio.cabrera73@alisios.example;658341412;San Bartolomé de Tirajana;Las Palmas;35100;2019-07-16;15,0;True
+214;Delgado y Delgado S.L.;B89338007;empresa;delgado.y214@alisios.example;897467234;Adeje;Santa Cruz de Tenerife;38670;2020-11-13;4,6;True
+137;Lavandería Industrial Sur S.L.;B44636046;empresa;lavanderia.industrial137@outlook.es;895920477;Arona;Santa Cruz de Tenerife;38640;2024-04-23;6,9;True
+301;Francisco Trujillo González;43909717X;residencial;francisco.trujillo301@alisios.example;643204118;Adeje;Santa Cruz de Tenerife;38670;2023-11-17;15,0;True
+263;Talleres Hermanos Dorta S.L.;B13268658;empresa;talleres.hermanos263@gmail.com;828515909;Granadilla de Abona;Santa Cruz de Tenerife;38600;15/04/2020;6,9;True
+230;Pedro Rodríguez Padrón;26845108Z;residencial;pedro.rodriguez230@outlook.es;669474180;Santiago del Teide;Santa Cruz de Tenerife;38690;2025-06-13;3,45;True
+102;Residencia Los Dragos;B47122673;empresa;residencia.los102@hotmail.com;616812059;Santa Lucía de Tirajana;Las Palmas;35110;03/05/2021;5,75;True
+169;Yeray Hernández García;28874286V;residencial;yeray.hernandez169@gmail.com;624271062;Icod de los Vinos;Santa Cruz de Tenerife;38430;2024-06-05;5750,0;True
+155;COMUNIDAD DE PROPIETARIOS EDIFICIO PADRÓN 49;H21583021;comunidad;COMUNIDAD.DE155@HOTMAIL.COM;970032371;Los Realejos;Santa Cruz de Tenerife;38410;04/04/2023;4,6;True
+225;Idaira Siverio González;79399328Q;residencial;;662806943;guía de isora;Santa Cruz de Tenerife;38680;2022-12-25;3,45;True
+315;Talleres Hermanos Dorta S.L.;B96935837;empresa;talleres.hermanos315@alisios.example;962307613;Arona;Santa Cruz de Tenerife;38640;2021-05-17;4,6;True
+172;Bodegas Teide Alto S.L.;B6435730X;empresa;bodegas.teide172@hotmail.com;621545142;Candelaria;Santa Cruz de Tenerife;38530;2020-11-10;5,75;True
+318;Hernández y Cabrera S.L.;B64547872;empresa;hernandez.y318@outlook.es;878398757;La Guancha;Santa Cruz de Tenerife;38440;19/08/2021;5,75;True
+162;Residencia Los Dragos;B24790823;empresa;residencia.los162@outlook.es;610693468;Adeje;Santa Cruz de Tenerife;38670;2024-04-18;15,0;True
+150;Comunidad de Propietarios Avenida Martín 4;H44003254;comunidad;;628926846;El Rosario;Santa Cruz de Tenerife;38290;2025-01-25;6,9;True
+299;Pedro Martín Padrón;61892217E;residencial;pedro.martin299@gmail.com;928486196;Tegueste;Santa Cruz de Tenerife;38280;2024-05-08;30,0;True
+278;Raquel Méndez Siverio;62791082R;residencial;raquel.mendez278@gmail.com;642778638;Tacoronte;Santa Cruz de Tenerife;38350;16/01/2022;3,45;True
+215;Antonio González Méndez;23383336H;residencial;antonio.gonzalez215@outlook.es;698941840;Fasnia;Santa Cruz de Tenerife;38570;2020-11-24;9200,0;True
+116;Méndez y Trujillo S.L.;B70689790;empresa;mendez.y116@hotmail.com;952010400;Tacoronte;Santa Cruz de Tenerife;38350;11/05/2022;6,9;False
+308;José Siverio Rivero;55663925S;residencial;jose.siverio308@hotmail.com;988930284;La Orotava;Santa Cruz de Tenerife;38300;2022-08-27;6,9;True
+282;Nira Méndez Pérez;39975488Q;residencial;nira.mendez282@gmail.com;856568910;Icod de los Vinos;Santa Cruz de Tenerife;38430;2022-05-30;6,9;True
+276;SERGIO BETHENCOURT RODRÍGUEZ;78268018F;residencial;;993143748;La Guancha;Santa Cruz de Tenerife;38440;2020-09-16;4,6;True
+118;Daniel Acosta Méndez;69063685K;residencial;daniel.acosta118@hotmail.com;656444655;Granadilla de Abona;Santa Cruz de Tenerife;38600;2024-04-21;9,2;True
+49;Expósito y Siverio S.L.;B94015064;empresa;exposito.y49@gmail.com;853249798;Telde;Las Palmas;35200;2023-07-26;4,6;True
+108;Raquel Rivero García;24189721T;residencial;raquel.rivero108@hotmail.com;625188343;Fasnia;Santa Cruz de Tenerife;38570;2021-12-20;4,6;True
+320;Comunidad de Propietarios Edificio Expósito 61;H42942548;comunidad;;687741134;Adeje;Santa Cruz de Tenerife;38670;2024-07-18;15,0;True
+93;Aday Trujillo Rivero;12754076R;residencial;aday.trujillo93@outlook.es;993149424;Arico;Santa Cruz de Tenerife;38580;13/04/2025;9,2;True
+83;Comunidad de Propietarios Avenida Rivero 28;H53581724;comunidad;comunidad.de83@outlook.es;661141236;Arucas;Las Palmas;35400;2023-11-17;4,6;True
+156;Expósito y Méndez S.L.;B80007212;empresa;exposito.y156@gmail.com;958764232;Tacoronte;Santa Cruz de Tenerife;38350;21/05/2020;4,6;True
+100;Sergio Padrón Siverio;63647653Y;residencial;sergio.padron100@hotmail.com;884176676;Santiago del Teide;Santa Cruz de Tenerife;38690;30/09/2019;15,0;True
+96;Guacimara Méndez Méndez;45184346H;residencial;guacimara.mendez96@hotmail.com;998450556;Puerto de la Cruz;Santa Cruz de Tenerife;38400;2020-04-07;4600,0;True
+191;Nira González Díaz;40636388B;residencial;nira.gonzalez191@hotmail.com;647201398;La Guancha;Santa Cruz de Tenerife;38440;2024-03-15;4,6;True
+68;Marta Expósito Melián;55410987P;residencial;marta.exposito68@alisios.example;871966281;Granadilla de Abona;Santa Cruz de Tenerife;38600;2024-10-11;15,0;False
+67;Patricia Bethencourt Díaz;57068607H;residencial;patricia.bethencourt67@gmail.com;620750558;fasnia;Santa Cruz de Tenerife;38570;19/04/2020;15,0;True
+97;Juan Dorta González;50087940N;residencial;juan.dorta97@gmail.com;948912779;Tacoronte;Santa Cruz de Tenerife;38350;2019-09-24;5,75;True
+23;Airam Rivero García;17363277W;residencial;airam.rivero23@outlook.es;833160927;Los Realejos;Santa Cruz de Tenerife;38410;08/05/2020;4,6;True
+167;Marta Pérez Melián;37688799X;residencial;marta.perez167@hotmail.com;647146836;Arona;Santa Cruz de Tenerife;38640;2024-07-11;15,0;True
+125;Sara Expósito Martín;16826130C;residencial;sara.exposito125@outlook.es;650042189;Arona;Santa Cruz de Tenerife;38640;2019-04-13;6,9;True
+245;Francisco Bethencourt Martín;65953022Q;residencial;francisco.bethencourt245@alisios.example;925123962;S/C de Tenerife;Santa Cruz de Tenerife;38001;2025-04-22;20,0;True
+279;Guacimara Rivero Díaz;11054957F;residencial;guacimara.rivero279@gmail.com;625424244;Tacoronte;Santa Cruz de Tenerife;38350;2021-08-15;5,75;True
+160;Raquel Cabrera Padrón;43573827M;residencial;raquel.cabrera160@outlook.es;687943611;San Miguel de Abona;Santa Cruz de Tenerife;38620;2019-01-13;6,9;False
+277;Pedro Rodríguez Expósito;28247878Z;residencial;pedro.rodriguez277@outlook.es;889655473;Tegueste;Santa Cruz de Tenerife;38280;2024-08-24;9,2;True
+145;Javier Bethencourt Padrón;41458346H;residencial;javier.bethencourt145@alisios.example;978649723;Arico;Santa Cruz de Tenerife;38580;2019-02-28;20,0;True
+210;Comunidad de Propietarios Edificio Afonso 7;H82090281;comunidad;comunidad.de210@alisios.example;898408800;San Bartolomé de Tirajana;Las Palmas;35100;2024-11-14;4,6;True
+91;Sergio Siverio Martín;31641330T;residencial;;950762602;San Miguel de Abona;Santa Cruz de Tenerife;38620;08/08/2021;15,0;True
+42;Ana Delgado García;57193394F;residencial;ana.delgado42@hotmail.com;642425129;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2019-04-23;5,75;True
+234;Comunidad de Propietarios Calle Acosta 10;H82824809;comunidad;comunidad.de234@hotmail.com;644132404;San Bartolomé de Tirajana;Las Palmas;35100;2025-06-15;9,2;True
+132;Comunidad de Propietarios Edificio Cabrera 68;H86757852;comunidad;comunidad.de132@alisios.example;853286291;El Rosario;Santa Cruz de Tenerife;38290;2024-06-06;6,9;True
+54;Dorta y Melián S.L.;B17149823;empresa;;928 746 908;Los Realejos;Santa Cruz de Tenerife;38410;23/02/2019;6,9;True
+179;Antonio Padrón Rivero;20552803A;residencial;antonio.padron179@gmail.com;889073723;Icod de los Vinos;Santa Cruz de Tenerife;38430;16/02/2020;4,6;True
+59;González y Cabrera S.L.;B25920226;empresa;gonzalez.y59@alisios.example;956784100;Güímar;Santa Cruz de Tenerife;38500;25/03/2020;20,0;True
+307;Marta González Expósito;43224514Q;residencial;marta.gonzalez307@alisios.example;683674165;Fasnia;Santa Cruz de Tenerife;38570;2022-11-12;9,2;True
+52;Idaira Siverio Rivero;55169937K;residencial;idaira.siverio52@outlook.es;848957079;Santiago del Teide;Santa Cruz de Tenerife;38690;2024-06-26;15,0;True
+15;Cristina Méndez Afonso;73237467Q;residencial;cristina.mendez15@alisios.example;670125731;Las Palmas de Gran Canaria;Las Palmas;35001;11/03/2025;50,0;True
+306;Nira Pérez Cabrera;75357396N;residencial;nira.perez306@alisios.example;669972583;San Miguel de Abona;Santa Cruz de Tenerife;38620;2021-05-03;20,0;True
+273;  Martín y Melián S.L. ;B82316119;empresa;martin.y273@gmail.com;877116481;Puerto de la Cruz;Santa Cruz de Tenerife;38400;2021-09-09;6,9;True
+4;Bethencourt y Méndez S.L.;B68143911;empresa;bethencourt.y4@alisios.example;695464519;Granadilla de Abona;Santa Cruz de Tenerife;38600;02/12/2022;5,75;True
+24;Trujillo y Rodríguez S.L.;B27480080;empresa;trujillo.y24@alisios.example;921628682;Santiago del Teide;Santa Cruz de Tenerife;38690;2023-10-01;15,0;True
+129;Comunidad de Propietarios Avenida Méndez 27;H53414571;comunidad;comunidad.de129@gmail.com;930983044;adeje;Santa Cruz de Tenerife;38670;2019-02-14;5,75;True
+166;Laura González Melián;77513507B;residencial;laura.gonzalez166@outlook.es;811921324;Tacoronte;Santa Cruz de Tenerife;38350;2021-03-18;5,75;False
+202;Carlos Acosta Hernández;24057436B;residencial;carlos.acosta202@outlook.es;886544936;Candelaria;Santa Cruz de Tenerife;38530;2021-08-10;6,9;True
+46;Pedro Dorta Afonso;53451844M;residencial;pedro.dorta46@hotmail.com;670519495;Telde;Las Palmas;35200;2025-04-14;20,0;True
+236;Patricia Rivero Padrón;42220189D;residencial;patricia.rivero236@alisios.example;694231970;Icod de los Vinos;Santa Cruz de Tenerife;38430;2024-01-26;15,0;True
+238;Elena Delgado Bethencourt;72238332X;residencial;elena.delgado238@gmail.com;937871758;Adeje;Santa Cruz de Tenerife;38670;2021-03-13;3,45;True
+43;Miguel Afonso Cabrera;50349173B;residencial;miguel.afonso43@alisios.example;894099312;Guía de Isora;Santa Cruz de Tenerife;38680;2023-04-12;3,45;True
+233;  Comunidad de Propietarios Edificio González 21 ;H85919973;comunidad;comunidad.de233@outlook.es;832120416;Adeje;Santa Cruz de Tenerife;38670;2024-12-05;20,0;False
+80;Díaz y Bethencourt S.L.;B24523338;empresa;diaz.y80@alisios.example;936749758;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2019-11-05;4600,0;True
+186;Idaira Siverio Padrón;62844528H;residencial;idaira.siverio186@outlook.es;878513435;Los Realejos;Santa Cruz de Tenerife;38410;2020-08-01;6,9;True
+81;COMUNIDAD DE PROPIETARIOS CALLE ACOSTA 4;H31504870;comunidad;COMUNIDAD.DE81@HOTMAIL.COM;985020167;santa cruz de tenerife;Santa Cruz de Tenerife;38001;06/09/2020;20,0;True
+221;  David Hernández Rivero ;55783464T;residencial;david.hernandez221@gmail.com;666405308;Tegueste;Santa Cruz de Tenerife;38280;2020-11-13;9,2;True
+269;Paula Méndez Cabrera;44410085Y;residencial;paula.mendez269@gmail.com;664 757 943;Arona;Santa Cruz de Tenerife;38640;08/08/2020;6,9;True
+113;Idaira Padrón Delgado;22460380Y;residencial;idaira.padron113@alisios.example;636006029;La Orotava;Santa Cruz de Tenerife;38300;2021-08-10;5,75;True
+12;Airam Delgado García;60318004K;residencial;airam.delgado12@hotmail.com;910662563;Santiago del Teide;Santa Cruz de Tenerife;38690;2022-09-17;4,6;True
+151;Raquel González Acosta;57698914X;residencial;raquel.gonzalez151@outlook.es;968 530 042;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;21/05/2022;6,9;True
+235;Pérez y Siverio S.L.;B68000223;empresa;perez.y235@gmail.com;971303030;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2020-08-26;6,9;True
+86;María Afonso Hernández;17732731F;residencial;maria.afonso86@alisios.example;653747651;El Rosario;Santa Cruz de Tenerife;38290;2025-05-06;5,75;True
+247;Pedro Díaz García;20941942M;residencial;;925599988;Adeje;Santa Cruz de Tenerife;38670;2022-01-30;9,2;False
+135;Comunidad de Propietarios Avenida Méndez 60;H39179076;comunidad;comunidad.de135@alisios.example;655060338;icod de los vinos;Santa Cruz de Tenerife;38430;2023-04-23;15,0;True
+144;Comunidad de Propietarios Edificio Martín 83;H27250465;comunidad;comunidad.de144@gmail.com;894690032;Güímar;Santa Cruz de Tenerife;38500;2020-03-15;9,2;True
+272;Sara Melián Afonso;66169814X;residencial;sara.melian272@hotmail.com;831199984;Arona;Santa Cruz de Tenerife;38640;04/06/2024;3,45;True
+291;Raquel González Siverio;44694839C;residencial;raquel.gonzalez291@gmail.com;887471653;Candelaria;Santa Cruz de Tenerife;38530;2019-06-16;6,9;True
+183;Juan Acosta Trujillo;29554344B;residencial;juan.acosta183@alisios.example;868271448;Tacoronte;Santa Cruz de Tenerife;38350;2023-07-26;4,6;True
+311;Comunidad de Propietarios Calle Cabrera 49;H72828070;comunidad;;812 334 600;Arico;Santa Cruz de Tenerife;38580;2025-07-05;15,0;True
+5;Carmen Acosta Trujillo;55551350W;residencial;carmen.acosta5@alisios.example;858586303;Adeje;Santa Cruz de Tenerife;38670;2021-05-05;5,75;False
+134;Rivero y Dorta S.L.;B20788336;empresa;rivero.y134@gmail.com;661668313;Candelaria;Santa Cruz de Tenerife;38530;2025-01-18;4,6;True
+45;Cabrera y Méndez S.L.;B60002532;empresa;cabrera.y45@outlook.es;848 985 110;Guía de Isora;Santa Cruz de Tenerife;38680;2020-07-04;3,45;True
+251;Lucía Acosta Martín;61672044M;residencial;lucia.acosta251@gmail.com;914127757;San Miguel de Abona;Santa Cruz de Tenerife;38620;2024-05-26;6,9;True
+290;Bethencourt y Padrón S.L.;B43940096;empresa;bethencourt.y290@alisios.example;624742882;Arico;Santa Cruz de Tenerife;38580;2024-10-22;3,45;True
+285;Antonio Martín García;50438706M;residencial;antonio.martin285@outlook.es;949 268 468;Tacoronte;Santa Cruz de Tenerife;38350;2024-06-23;4600,0;True
+204;Expósito y Trujillo S.L.;B70838995;empresa;exposito.y204@hotmail.com;610120194;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2021-07-19;3,45;True
+136;Comunidad de Propietarios Calle Bethencourt 9;H3711633X;comunidad;comunidad.de136@outlook.es;693716463;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2019-08-03;3,45;True
+146;Antonio González González;60759437S;residencial;antonio.gonzalez146@hotmail.com;670641899;La Orotava;Santa Cruz de Tenerife;38300;22/11/2024;3,45;True
+72;Raquel Martín Hernández;14435886M;residencial;raquel.martin72@hotmail.com;833237635;Tacoronte;Santa Cruz de Tenerife;38350;2021-07-14;3,45;True
+119;Expósito y Pérez S.L.;B53083108;empresa;exposito.y119@alisios.example;833783402;Santiago del Teide;Santa Cruz de Tenerife;38690;16/04/2019;9,2;True
+243;Comunidad de Propietarios Edificio Trujillo 13;H55123117;comunidad;comunidad.de243@outlook.es;920977039;Tegueste;Santa Cruz de Tenerife;38280;08/02/2024;4,6;True
+319;ANA BETHENCOURT MARTÍN;32534462L;residencial;ANA.BETHENCOURT319@ALISIOS.EXAMPLE;866826156;Granadilla de Abona;Santa Cruz de Tenerife;38600;04/12/2021;6,9;True
+217;  Cristina Cabrera González ;27987027Y;residencial;cristina.cabrera217@gmail.com;619795508;S/C de Tenerife;Santa Cruz de Tenerife;38001;21/10/2023;9,2;True
+75;Sergio Siverio Siverio;26957394Z;residencial;sergio.siverio75@outlook.es;999797097;Candelaria;Santa Cruz de Tenerife;38530;27/01/2024;5,75;False
+59;GONZÁLEZ Y CABRERA S.L.;B25920226;empresa;GONZALEZ.Y59@ALISIOS.EXAMPLE;956 784 100;Güímar;Santa Cruz de Tenerife;38500;25/03/2020;20,0;True
+249;Idaira Martín Padrón;61530633K;residencial;idaira.martin249@hotmail.com;927729211;Adeje;Santa Cruz de Tenerife;38670;2023-12-16;3,45;True
+95;Pedro Expósito Rivero;62664901K;residencial;pedro.exposito95@gmail.com;686648311;Icod de los Vinos;Santa Cruz de Tenerife;38430;2024-06-12;6,9;False
+287;Padrón y Pérez S.L.;B10235005;empresa;padron.y287@gmail.com;836145540;Arona;Santa Cruz de Tenerife;38640;2024-10-09;4,6;True
+94;Padrón y Trujillo S.L.;B22904175;empresa;padron.y94@alisios.example;981090384;Telde;Las Palmas;35200;2024-06-06;5,75;False
+19;Comunidad de Propietarios Avenida Siverio 33;H55547909;comunidad;comunidad.de19@outlook.es;946702780;Santiago del Teide;Santa Cruz de Tenerife;38690;18/07/2023;6,9;True
+284;  Siverio y Díaz S.L. ;B74046195;empresa;siverio.y284@outlook.es;687050797;San Miguel de Abona;Santa Cruz de Tenerife;38620;17/02/2022;5,75;True
+293;Comunidad de Propietarios Edificio Rivero 43;H52859992;comunidad;comunidad.de293@hotmail.com;683363041;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;31/07/2023;15,0;True
+314;Yeray García Martín;69718540C;residencial;yeray.garcia314@outlook.es;640345830;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;04/11/2020;5,75;False
+32;Hernández y Cabrera S.L.;B44107703;empresa;hernandez.y32@gmail.com;959 237 155;san miguel de abona;Santa Cruz de Tenerife;38620;2024-04-23;9,2;True
+111;Pérez y Dorta S.L.;B78983415;empresa;perez.y111@outlook.es;668178267;tacoronte;Santa Cruz de Tenerife;38350;2025-06-04;5,75;True
+141;Laura Trujillo Rivero;21405343W;residencial;laura.trujillo141@gmail.com;881 162 197;Adeje;Santa Cruz de Tenerife;38670;2021-08-03;6,9;True
+90;Rivero y García S.L.;B66050379;empresa;rivero.y90@alisios.example;944 589 037;Los Realejos;Santa Cruz de Tenerife;38410;07/02/2025;4,6;True
+159;Comunidad de Propietarios Calle Dorta 21;H17943172;comunidad;comunidad.de159@gmail.com;674970914;Tacoronte;Santa Cruz de Tenerife;38350;2023-07-03;3,45;True
+287;Padrón y Pérez S.L.;B10235005;empresa;padron.y287@gmail.com;836145540;Arona;Santa Cruz de Tenerife;38640;2024-10-09;4,6;True
+142;Pedro García Méndez;42819096L;residencial;pedro.garcia142@alisios.example;978426983;Icod de los Vinos;Santa Cruz de Tenerife;38430;2022-03-27;6,9;True
+244;David González Díaz;30176101D;residencial;david.gonzalez244@hotmail.com;869954296;Candelaria;Santa Cruz de Tenerife;38530;10/03/2023;9,2;True
+14;Comunidad de Propietarios Calle Afonso 48;H8224560X;comunidad;comunidad.de14@alisios.example;653 470 794;Candelaria;Santa Cruz de Tenerife;38530;2020-08-14;9,2;True
+78;  Nira Rivero Rodríguez ;61351856T;residencial;nira.rivero78@hotmail.com;642655302;Telde;Las Palmas;35200;2023-11-12;15,0;True
+133;DORTA Y MÉNDEZ S.L.;B17628662;empresa;DORTA.Y133@GMAIL.COM;936241691;Arico;Santa Cruz de Tenerife;38580;2023-07-08;5,75;True
+180;Sergio García Díaz;59293529N;residencial;sergio.garcia180@gmail.com;652144844;Guía de Isora;Santa Cruz de Tenerife;38680;2021-01-27;3,45;True
+178;Carlos Expósito Padrón;76148395H;residencial;carlos.exposito178@hotmail.com;634499730;Tacoronte;Santa Cruz de Tenerife;38350;15/09/2020;4,6;True
+201;  Pérez y Expósito S.L. ;B42373847;empresa;perez.y201@gmail.com;633144260;Güímar;Santa Cruz de Tenerife;38500;16/05/2023;4,6;True
+34;Jonay Díaz Méndez;75914232H;residencial;jonay.diaz34@hotmail.com;662978627;Güímar;Santa Cruz de Tenerife;38500;2023-06-01;9,2;True
+63;Comunidad de Propietarios Avenida Martín 55;H86139512;comunidad;;959 355 091;Puerto de la Cruz;Santa Cruz de Tenerife;38400;04/04/2020;20,0;True
+123;Yeray Hernández Martín;74085599T;residencial;yeray.hernandez123@gmail.com;849 613 986;Güímar;Santa Cruz de Tenerife;38500;22/08/2021;4,6;False
+55;Díaz y Trujillo S.L.;B18472815;empresa;diaz.y55@hotmail.com;993168004;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2020-12-08;4,6;True
+240;Yeray Trujillo Siverio;26107726X;residencial;yeray.trujillo240@gmail.com;860142894;San Miguel de Abona;Santa Cruz de Tenerife;38620;29/01/2022;6,9;True
+17;Francisco Delgado Padrón;48590397E;residencial;francisco.delgado17@outlook.es;695763354;Arico;Santa Cruz de Tenerife;38580;2024-01-22;3,45;True
+41;Paula Martín Trujillo;27314162Y;residencial;paula.martin41@alisios.example;967328548;Santa Cruz de Tenerife;Santa Cruz de Tenerife;38001;2024-02-11;5,75;True
+257;  Juan Melián Martín ;33655672W;residencial;juan.melian257@outlook.es;679945851;La Guancha;Santa Cruz de Tenerife;38440;16/10/2020;5,75;True
+74;Aday Rodríguez Siverio;40250641C;residencial;aday.rodriguez74@alisios.example;970845077;Santiago del Teide;Santa Cruz de Tenerife;38690;20/06/2023;15,0;True
+9;Ana Cabrera Trujillo;46533707S;residencial;ana.cabrera9@gmail.com;839421679;Fasnia;Santa Cruz de Tenerife;38570;2023-01-18;3450,0;True
+222;Méndez y Pérez S.L.;B86410357;empresa;mendez.y222@hotmail.com;677669770;guía de isora;Santa Cruz de Tenerife;38680;26/04/2021;3,45;True
+157;Trujillo y Delgado S.L.;B57687696;empresa;trujillo.y157@hotmail.com;661 184 737;San Bartolomé de Tirajana;Las Palmas;35100;2021-05-14;6,9;False
+124;Lucía Melián Padrón;14174572V;residencial;lucia.melian124@hotmail.com;684906910;Adeje;Santa Cruz de Tenerife;38670;2019-12-30;9,2;True
+124;Lucía Melián Padrón;14174572X;residencial;lucia.melian124@hotmail.com;684906910;Adeje;Santa Cruz de Tenerife;38670;30/12/2019;9,2;True
+16;Pedro Siverio Siverio;76286663X;residencial;pedro.siverio16@outlook.es;939996553;candelaria;Santa Cruz de Tenerife;38530;23/01/2021;20,0;True
+126;Lucía Delgado González;38046383J;residencial;lucia.delgado126@outlook.es;696405701;Arona;Santa Cruz de Tenerife;38640;13/02/2020;6,9;True
+266;Martín y Hernández S.L.;B17989850;empresa;martin.y266@hotmail.com;634 920 203;San Cristóbal de La Laguna;Santa Cruz de Tenerife;38201;2021-08-11;4,6;True

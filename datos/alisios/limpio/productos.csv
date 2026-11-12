@@ -1,0 +1,11 @@
+producto_id,descripcion,categoria,precio_unitario
+1,Panel 450 Wp monocristalino,material,165.0
+2,Inversor híbrido 5 kW,material,1250.0
+3,Batería 5 kWh,material,2100.0
+4,Estructura coplanar (ud),material,38.0
+5,Instalación residencial (h),servicio,42.0
+6,Mantenimiento anual,servicio,180.0
+7,Limpieza de paneles (kWp),servicio,9.5
+8,Legalización y boletín,servicio,320.0
+9,Monitorización (año),servicio,96.0
+10,"Cargador vehículo 7,4 kW",material,890.0

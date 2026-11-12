@@ -1,0 +1,780 @@
+incidencia_id,instalacion_id,fecha_apertura,fecha_cierre,tipo,prioridad,parada,tecnico,descripcion
+1,1,2024-01-01 04:00:00,2024-01-01 19:46:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+2,3,2024-01-01 13:00:00,2024-01-02 05:31:00,red eléctrica,media,False,Aday Melián,Red eléctrica: inspección visual
+3,8,2024-01-02 07:00:00,2024-01-02 22:10:00,cableado,media,False,Nira Afonso,Cableado: llamada del cliente
+4,4,2024-01-02 09:00:00,2024-01-03 09:17:00,vandalismo,media,False,Idaira Rivero,Vandalismo: aviso del SCADA
+5,5,2024-01-02 10:00:00,2024-01-03 10:25:00,inversor,media,False,Aday Melián,Inversor: aviso del SCADA
+6,5,2024-01-02 18:00:00,2024-01-04 22:15:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: revisión programada
+7,1,2024-01-03 10:00:00,2024-01-03 15:59:00,inversor,media,False,Yeray Dorta,Inversor: aviso del SCADA
+8,3,2024-01-04 00:00:00,2024-01-06 23:00:00,inversor,crítica,True,Yeray Dorta,Inversor: llamada del cliente
+9,8,2024-01-04 02:00:00,2024-01-04 06:54:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: revisión programada
+10,8,2024-01-04 06:00:00,2024-01-05 00:30:00,inversor,alta,False,Aday Melián,Inversor: alarma de comunicaciones
+11,1,2024-01-05 09:00:00,2024-01-05 16:52:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: revisión programada
+12,3,2024-01-06 18:00:00,2024-01-07 01:54:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: llamada del cliente
+13,7,2024-01-08 10:00:00,2024-01-10 06:51:00,red eléctrica,media,False,Aday Melián,Red eléctrica: llamada del cliente
+14,8,2024-01-08 13:00:00,2024-01-09 11:00:00,cableado,media,True,Nira Afonso,Cableado: aviso del SCADA
+15,5,2024-01-10 13:00:00,2024-01-10 23:46:00,comunicaciones,media,False,Aday Melián,Comunicaciones: alarma de comunicaciones
+16,4,2024-01-10 22:00:00,2024-01-11 18:33:00,monitorización,media,False,Aday Melián,Monitorización: revisión programada
+17,2,2024-01-11 01:00:00,2024-01-11 19:57:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+18,1,2024-01-11 04:00:00,2024-01-11 17:50:00,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: revisión programada
+19,2,2024-01-13 10:00:00,2024-01-13 20:57:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: llamada del cliente
+20,7,2024-01-14 03:00:00,2024-01-14 09:46:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: aviso del SCADA
+21,1,2024-01-14 04:00:00,2024-01-14 12:40:00,vandalismo,media,False,Idaira Rivero,Vandalismo: aviso del SCADA
+22,3,2024-01-16 13:00:00,2024-01-16 19:03:00,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+23,4,2024-01-17 08:00:00,2024-01-17 19:56:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: aviso del SCADA
+24,6,2024-01-18 03:00:00,2024-01-18 12:36:00,monitorización,media,False,Nira Afonso,Monitorización: llamada del cliente
+25,5,2024-01-19 08:00:00,2024-01-19 12:52:00,cableado,alta,False,Idaira Rivero,Cableado: revisión programada
+26,5,2024-01-21 06:00:00,2024-01-21 15:12:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: revisión programada
+27,4,2024-01-22 01:00:00,2024-01-22 07:29:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: revisión programada
+28,6,2024-01-22 19:00:00,,suciedad paneles,crítica,False,Yeray Dorta,Suciedad paneles: revisión programada
+29,5,2024-01-23 02:00:00,2024-01-24 16:00:00,cableado,alta,True,Aday Melián,Cableado: aviso del SCADA
+30,2,2024-01-24 08:00:00,2024-01-25 20:44:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: revisión programada
+31,1,2024-01-24 11:00:00,2024-01-25 01:52:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+32,2,2024-01-25 20:00:00,2024-01-27 15:09:00,inversor,crítica,False,Idaira Rivero,Inversor: inspección visual
+33,7,2024-01-26 00:00:00,2024-01-27 13:05:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+34,8,2024-01-27 00:00:00,,cableado,alta,False,Idaira Rivero,Cableado: llamada del cliente
+35,1,2024-01-27 11:00:00,,cableado,media,False,Nira Afonso,Cableado: llamada del cliente
+36,2,2024-01-28 20:00:00,2024-01-28 23:05:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+37,7,2024-01-30 09:00:00,2024-01-30 12:23:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: revisión programada
+38,8,2024-01-30 12:00:00,2024-01-30 20:20:00,monitorización,baja,False,Yeray Dorta,Monitorización: aviso del SCADA
+39,7,2024-01-30 13:00:00,2024-01-30 21:07:00,inversor,media,False,Idaira Rivero,Inversor: revisión programada
+40,1,2024-01-30 16:00:00,,comunicaciones,media,False,Nira Afonso,Comunicaciones: aviso del SCADA
+41,7,2024-01-31 13:00:00,2024-01-31 21:27:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: llamada del cliente
+42,4,2024-02-05 17:00:00,2024-02-06 06:00:00,inversor,alta,True,Nira Afonso,Inversor: inspección visual
+43,7,2024-02-05 22:00:00,2024-02-07 04:48:00,suciedad paneles,alta,False,Yeray Dorta,Suciedad paneles: revisión programada
+44,5,2024-02-08 08:00:00,2024-02-08 11:46:00,cableado,crítica,False,Nira Afonso,Cableado: aviso del SCADA
+45,7,2024-02-08 09:00:00,2024-02-08 12:34:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: aviso del SCADA
+46,5,2024-02-08 18:00:00,2024-02-09 05:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: inspección visual
+47,8,2024-02-09 22:00:00,2024-02-10 01:36:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: aviso del SCADA
+48,2,2024-02-10 15:00:00,2024-02-10 23:45:00,vandalismo,alta,False,Aday Melián,Vandalismo: llamada del cliente
+49,5,2024-02-11 17:00:00,2024-02-13 21:00:00,cableado,alta,True,Nira Afonso,Cableado: revisión programada
+50,5,2024-02-12 00:00:00,2024-02-12 18:38:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: llamada del cliente
+51,6,2024-02-12 00:00:00,2024-02-12 07:06:00,cableado,baja,False,Idaira Rivero,Cableado: aviso del SCADA
+52,1,2024-02-13 00:00:00,2024-02-13 02:51:00,monitorización,baja,False,Yeray Dorta,Monitorización: inspección visual
+53,4,2024-02-13 02:00:00,,monitorización,baja,False,Yeray Dorta,Monitorización: revisión programada
+54,3,2024-02-14 12:00:00,2024-02-15 04:41:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: inspección visual
+55,3,2024-02-14 23:00:00,2024-02-15 09:15:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+56,7,2024-02-15 03:00:00,2024-02-16 07:52:00,vandalismo,media,False,Idaira Rivero,Vandalismo: llamada del cliente
+57,2,2024-02-16 13:00:00,2024-02-16 16:47:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: revisión programada
+58,5,2024-02-16 23:00:00,2024-02-17 06:54:00,inversor,media,False,Idaira Rivero,Inversor: alarma de comunicaciones
+59,6,2024-02-20 10:00:00,2024-02-20 17:19:00,red eléctrica,media,False,Aday Melián,Red eléctrica: inspección visual
+60,4,2024-02-20 21:00:00,2024-02-21 13:33:00,inversor,baja,False,Nira Afonso,Inversor: llamada del cliente
+61,7,2024-02-22 14:00:00,2024-02-23 01:02:00,monitorización,media,False,Aday Melián,Monitorización: llamada del cliente
+62,7,2024-02-23 06:00:00,2024-02-24 04:00:00,comunicaciones,media,True,Yeray Dorta,Comunicaciones: aviso del SCADA
+63,1,2024-02-25 02:00:00,2024-02-26 21:06:00,monitorización,baja,False,Aday Melián,Monitorización: inspección visual
+64,2,2024-02-25 14:00:00,2024-02-26 05:00:00,cableado,media,True,Yeray Dorta,Cableado: revisión programada
+65,8,2024-02-26 06:00:00,2024-02-29 13:50:00,inversor,baja,False,Nira Afonso,Inversor: revisión programada
+66,3,2024-02-28 06:00:00,2024-02-28 17:29:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: llamada del cliente
+67,3,2024-02-28 12:00:00,2024-02-29 04:01:00,monitorización,media,False,Idaira Rivero,Monitorización: llamada del cliente
+68,7,2024-02-28 20:00:00,,monitorización,baja,False,Nira Afonso,Monitorización: alarma de comunicaciones
+69,2,2024-02-29 13:00:00,,red eléctrica,baja,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+70,4,2024-03-01 04:00:00,2024-03-02 14:53:00,inversor,media,False,Yeray Dorta,Inversor: revisión programada
+71,4,2024-03-01 17:00:00,2024-03-01 22:45:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: llamada del cliente
+72,5,2024-03-02 20:00:00,,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: inspección visual
+73,1,2024-03-03 00:00:00,2024-03-03 07:08:00,cableado,baja,False,Nira Afonso,Cableado: inspección visual
+74,5,2024-03-03 17:00:00,2024-03-04 12:01:00,comunicaciones,alta,False,Aday Melián,Comunicaciones: aviso del SCADA
+75,4,2024-03-03 23:00:00,,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: aviso del SCADA
+76,4,2024-03-06 19:00:00,2024-03-07 15:56:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+77,8,2024-03-07 16:00:00,2024-03-08 17:20:00,cableado,alta,False,Nira Afonso,Cableado: revisión programada
+78,6,2024-03-08 03:00:00,2024-03-09 12:37:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: inspección visual
+79,8,2024-03-08 21:00:00,2024-03-09 20:24:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: alarma de comunicaciones
+80,8,2024-03-09 07:00:00,2024-03-09 13:40:00,inversor,media,False,Yeray Dorta,Inversor: llamada del cliente
+81,1,2024-03-10 21:00:00,2024-03-12 00:36:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+82,1,2024-03-11 17:00:00,2024-03-12 01:24:00,comunicaciones,alta,False,Yeray Dorta,Comunicaciones: revisión programada
+83,2,2024-03-12 03:00:00,2024-03-12 18:37:00,inversor,alta,False,Idaira Rivero,Inversor: aviso del SCADA
+84,4,2024-03-12 03:00:00,2024-03-12 17:43:00,inversor,baja,False,Idaira Rivero,Inversor: inspección visual
+85,4,2024-03-12 15:00:00,2024-03-12 23:55:00,monitorización,alta,False,Nira Afonso,Monitorización: alarma de comunicaciones
+86,4,2024-03-13 05:00:00,2024-03-13 08:42:00,red eléctrica,crítica,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+87,7,2024-03-15 02:00:00,2024-03-17 02:52:00,suciedad paneles,alta,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+88,7,2024-03-15 09:00:00,2024-03-15 14:06:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: llamada del cliente
+89,3,2024-03-15 21:00:00,2024-03-16 11:54:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: inspección visual
+90,4,2024-03-16 21:00:00,2024-03-19 20:00:00,inversor,crítica,True,Idaira Rivero,Inversor: llamada del cliente
+91,3,2024-03-19 06:00:00,2024-03-20 06:18:00,comunicaciones,media,False,Yeray Dorta,Comunicaciones: aviso del SCADA
+92,2,2024-03-20 07:00:00,2024-03-22 11:29:00,inversor,baja,False,Aday Melián,Inversor: aviso del SCADA
+93,2,2024-03-25 06:00:00,2024-03-25 15:43:00,cableado,alta,False,Aday Melián,Cableado: inspección visual
+94,8,2024-03-27 20:00:00,2024-03-28 07:53:00,inversor,baja,False,Aday Melián,Inversor: inspección visual
+95,2,2024-03-28 17:00:00,2024-03-29 07:38:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: alarma de comunicaciones
+96,3,2024-03-29 01:00:00,2024-03-29 13:41:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: revisión programada
+97,3,2024-03-29 15:00:00,,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+98,4,2024-03-29 17:00:00,2024-03-30 05:55:00,cableado,media,False,Idaira Rivero,Cableado: aviso del SCADA
+99,1,2024-03-30 02:00:00,2024-03-30 06:14:00,cableado,alta,False,Aday Melián,Cableado: alarma de comunicaciones
+100,2,2024-03-30 11:00:00,2024-03-31 01:33:00,monitorización,media,False,Aday Melián,Monitorización: inspección visual
+101,3,2024-03-31 14:00:00,2024-04-01 00:37:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: aviso del SCADA
+102,4,2024-03-31 22:00:00,2024-04-02 06:49:00,monitorización,baja,False,Aday Melián,Monitorización: revisión programada
+103,6,2024-04-01 12:00:00,2024-04-02 08:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: revisión programada
+104,1,2024-04-01 23:00:00,2024-04-01 23:35:00,red eléctrica,crítica,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+105,1,2024-04-03 01:00:00,2024-04-03 10:04:00,monitorización,alta,False,Nira Afonso,Monitorización: llamada del cliente
+106,7,2024-04-03 08:00:00,2024-04-05 13:00:00,inversor,alta,True,Yeray Dorta,Inversor: aviso del SCADA
+107,2,2024-04-04 16:00:00,,inversor,baja,False,Yeray Dorta,Inversor: revisión programada
+108,7,2024-04-05 03:00:00,2024-04-06 00:22:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: inspección visual
+109,3,2024-04-06 18:00:00,2024-04-07 02:59:00,monitorización,crítica,False,Idaira Rivero,Monitorización: aviso del SCADA
+110,6,2024-04-07 00:00:00,2024-04-07 01:54:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+111,8,2024-04-07 10:00:00,2024-04-07 23:02:00,cableado,media,False,Idaira Rivero,Cableado: revisión programada
+112,2,2024-04-07 11:00:00,2024-04-08 03:22:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: llamada del cliente
+113,4,2024-04-07 18:00:00,2024-04-08 12:13:00,vandalismo,media,False,Yeray Dorta,Vandalismo: aviso del SCADA
+114,6,2024-04-08 02:00:00,2024-04-09 20:00:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: llamada del cliente
+115,8,2024-04-10 02:00:00,,vandalismo,media,False,Idaira Rivero,Vandalismo: revisión programada
+116,2,2024-04-10 13:00:00,2024-04-11 18:08:00,cableado,media,False,Idaira Rivero,Cableado: llamada del cliente
+117,5,2024-04-10 21:00:00,2024-04-11 05:04:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: aviso del SCADA
+118,5,2024-04-11 00:00:00,2024-04-12 18:38:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+119,8,2024-04-13 05:00:00,2024-04-13 14:30:00,vandalismo,media,False,Nira Afonso,Vandalismo: alarma de comunicaciones
+120,6,2024-04-15 22:00:00,2024-04-16 00:38:00,inversor,baja,False,Yeray Dorta,Inversor: inspección visual
+121,5,2024-04-17 14:00:00,2024-04-18 03:21:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+122,8,2024-04-18 05:00:00,2024-04-18 06:58:00,monitorización,baja,False,Yeray Dorta,Monitorización: aviso del SCADA
+123,7,2024-04-18 08:00:00,2024-04-18 11:23:00,cableado,alta,False,Aday Melián,Cableado: alarma de comunicaciones
+124,5,2024-04-18 23:00:00,2024-04-19 08:47:00,inversor,crítica,False,Aday Melián,Inversor: inspección visual
+125,5,2024-04-19 12:00:00,2024-04-20 21:52:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: inspección visual
+126,2,2024-04-21 04:00:00,2024-04-23 01:00:00,comunicaciones,media,True,Yeray Dorta,Comunicaciones: llamada del cliente
+127,1,2024-04-21 11:00:00,,inversor,media,False,Nira Afonso,Inversor: aviso del SCADA
+128,6,2024-04-22 02:00:00,2024-04-23 04:50:00,vandalismo,crítica,False,Yeray Dorta,Vandalismo: aviso del SCADA
+129,2,2024-04-22 15:00:00,2024-04-24 10:50:00,vandalismo,alta,False,Idaira Rivero,Vandalismo: revisión programada
+130,7,2024-04-22 20:00:00,2024-04-23 11:27:00,cableado,baja,False,Aday Melián,Cableado: revisión programada
+131,1,2024-04-23 18:00:00,2024-04-24 15:00:00,inversor,media,True,Yeray Dorta,Inversor: llamada del cliente
+132,1,2024-04-24 00:00:00,2024-04-24 16:43:00,inversor,alta,False,Aday Melián,Inversor: llamada del cliente
+133,5,2024-04-26 06:00:00,2024-04-26 08:58:00,vandalismo,alta,False,Nira Afonso,Vandalismo: revisión programada
+134,3,2024-04-26 07:00:00,2024-04-26 14:06:00,inversor,baja,False,Aday Melián,Inversor: inspección visual
+135,5,2024-04-27 06:00:00,2024-04-28 23:09:00,red eléctrica,alta,False,Yeray Dorta,Red eléctrica: llamada del cliente
+136,2,2024-04-27 21:00:00,2024-04-28 03:08:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+137,1,2024-04-28 14:00:00,2024-04-29 06:56:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: revisión programada
+138,7,2024-04-29 22:00:00,2024-04-30 11:30:00,monitorización,baja,False,Idaira Rivero,Monitorización: aviso del SCADA
+139,6,2024-04-29 23:00:00,2024-04-30 05:57:00,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+140,5,2024-05-02 23:00:00,2024-05-05 04:40:00,cableado,baja,False,Aday Melián,Cableado: inspección visual
+141,3,2024-05-07 22:00:00,,monitorización,media,False,Yeray Dorta,Monitorización: llamada del cliente
+142,6,2024-05-08 05:00:00,2024-05-10 14:10:00,inversor,alta,False,Yeray Dorta,Inversor: aviso del SCADA
+143,3,2024-05-09 22:00:00,2024-05-11 18:43:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: revisión programada
+144,2,2024-05-10 23:00:00,2024-05-11 10:41:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+145,3,2024-05-12 13:00:00,2024-05-12 18:01:00,monitorización,crítica,False,Yeray Dorta,Monitorización: alarma de comunicaciones
+146,5,2024-05-13 05:00:00,2024-05-14 22:00:00,red eléctrica,alta,True,Nira Afonso,Red eléctrica: llamada del cliente
+147,8,2024-05-13 07:00:00,,comunicaciones,media,False,Yeray Dorta,Comunicaciones: inspección visual
+148,6,2024-05-14 00:00:00,2024-05-14 05:06:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: revisión programada
+149,1,2024-05-14 22:00:00,2024-05-16 07:32:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: inspección visual
+150,8,2024-05-15 15:00:00,2024-05-15 19:36:00,inversor,baja,False,Nira Afonso,Inversor: aviso del SCADA
+151,8,2024-05-15 17:00:00,2024-05-17 04:55:00,comunicaciones,media,False,Aday Melián,Comunicaciones: aviso del SCADA
+152,6,2024-05-16 19:00:00,2024-05-19 04:16:00,cableado,alta,False,Yeray Dorta,Cableado: llamada del cliente
+153,2,2024-05-17 18:00:00,2024-05-18 07:54:00,inversor,alta,False,Yeray Dorta,Inversor: llamada del cliente
+154,8,2024-05-18 01:00:00,2024-05-18 07:00:00,red eléctrica,media,True,Idaira Rivero,Red eléctrica: inspección visual
+155,6,2024-05-19 21:00:00,2024-05-20 08:22:00,vandalismo,baja,False,Nira Afonso,Vandalismo: llamada del cliente
+156,2,2024-05-21 18:00:00,2024-05-22 14:49:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: revisión programada
+157,8,2024-05-21 23:00:00,2024-05-22 15:56:00,inversor,baja,False,Yeray Dorta,Inversor: alarma de comunicaciones
+158,8,2024-05-22 08:00:00,2024-05-30 00:36:00,inversor,baja,False,Yeray Dorta,Inversor: llamada del cliente
+159,4,2024-05-22 13:00:00,2024-05-23 11:33:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+160,6,2024-05-22 19:00:00,2024-05-23 21:00:00,red eléctrica,media,True,Yeray Dorta,Red eléctrica: revisión programada
+161,7,2024-05-25 02:00:00,2024-05-25 23:44:00,monitorización,baja,False,Idaira Rivero,Monitorización: llamada del cliente
+162,6,2024-05-28 06:00:00,2024-05-28 13:51:00,cableado,alta,False,Idaira Rivero,Cableado: inspección visual
+163,3,2024-05-31 00:00:00,2024-06-01 10:00:00,cableado,alta,True,Aday Melián,Cableado: llamada del cliente
+164,7,2024-05-31 16:00:00,2024-05-31 23:30:00,inversor,media,False,Aday Melián,Inversor: inspección visual
+165,7,2024-06-01 05:00:00,,vandalismo,baja,False,Nira Afonso,Vandalismo: aviso del SCADA
+166,6,2024-06-02 14:00:00,2024-06-03 03:09:00,red eléctrica,media,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+167,2,2024-06-03 22:00:00,2024-06-04 06:54:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: aviso del SCADA
+168,5,2024-06-06 21:00:00,,red eléctrica,media,False,Nira Afonso,Red eléctrica: inspección visual
+169,1,2024-06-09 01:00:00,2024-06-09 09:09:00,cableado,baja,False,Aday Melián,Cableado: aviso del SCADA
+170,2,2024-06-09 08:00:00,2024-06-09 12:09:00,vandalismo,baja,False,Aday Melián,Vandalismo: inspección visual
+171,2,2024-06-09 10:00:00,2024-06-10 12:00:00,red eléctrica,crítica,True,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+172,2,2024-06-10 04:00:00,2024-06-10 18:54:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: inspección visual
+173,6,2024-06-10 07:00:00,2024-06-10 11:23:00,monitorización,media,False,Yeray Dorta,Monitorización: aviso del SCADA
+174,6,2024-06-12 09:00:00,2024-06-13 05:29:00,inversor,baja,False,Nira Afonso,Inversor: llamada del cliente
+175,5,2024-06-13 22:00:00,2024-06-14 08:37:00,monitorización,media,False,Aday Melián,Monitorización: alarma de comunicaciones
+176,6,2024-06-16 10:00:00,,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: alarma de comunicaciones
+177,8,2024-06-16 17:00:00,2024-06-16 22:19:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: inspección visual
+178,1,2024-06-18 07:00:00,2024-06-23 20:17:00,vandalismo,media,False,Aday Melián,Vandalismo: revisión programada
+179,3,2024-06-19 09:00:00,2024-06-19 19:42:00,vandalismo,media,False,Nira Afonso,Vandalismo: revisión programada
+180,5,2024-06-20 11:00:00,2024-06-22 17:08:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: llamada del cliente
+181,6,2024-06-22 13:00:00,2024-06-22 18:48:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: inspección visual
+182,8,2024-06-23 13:00:00,2024-06-25 05:49:00,monitorización,baja,False,Idaira Rivero,Monitorización: aviso del SCADA
+183,1,2024-06-23 23:00:00,2024-06-24 16:09:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: llamada del cliente
+184,2,2024-06-24 06:00:00,2024-06-24 11:15:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: aviso del SCADA
+185,1,2024-06-24 14:00:00,,comunicaciones,alta,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+186,6,2024-06-24 17:00:00,2024-06-25 03:30:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: aviso del SCADA
+187,1,2024-06-24 23:00:00,,cableado,alta,False,Idaira Rivero,Cableado: revisión programada
+188,1,2024-06-26 13:00:00,2024-06-26 15:13:00,monitorización,alta,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+189,3,2024-06-26 21:00:00,2024-06-28 12:00:00,inversor,crítica,True,Nira Afonso,Inversor: revisión programada
+190,1,2024-06-26 21:00:00,2024-06-27 04:01:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+191,7,2024-06-27 00:00:00,2024-06-28 09:08:00,monitorización,media,False,Aday Melián,Monitorización: inspección visual
+192,8,2024-07-01 01:00:00,2024-07-02 01:10:00,monitorización,baja,False,Yeray Dorta,Monitorización: inspección visual
+193,1,2024-07-03 14:00:00,2024-07-03 22:09:00,monitorización,baja,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+194,2,2024-07-05 15:00:00,2024-07-05 18:40:00,monitorización,alta,False,Idaira Rivero,Monitorización: aviso del SCADA
+195,8,2024-07-06 03:00:00,2024-07-07 00:00:00,inversor,crítica,True,Aday Melián,Inversor: aviso del SCADA
+196,5,2024-07-06 13:00:00,2024-07-06 17:45:00,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: llamada del cliente
+197,4,2024-07-06 15:00:00,2024-07-07 14:06:00,monitorización,media,False,Nira Afonso,Monitorización: aviso del SCADA
+198,1,2024-07-07 01:00:00,2024-07-07 20:08:00,inversor,baja,False,Aday Melián,Inversor: alarma de comunicaciones
+199,5,2024-07-08 03:00:00,2024-07-08 16:58:00,inversor,baja,False,Aday Melián,Inversor: inspección visual
+200,5,2024-07-10 08:00:00,2024-07-10 22:14:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: llamada del cliente
+201,5,2024-07-11 08:00:00,2024-07-11 10:24:00,cableado,media,False,Yeray Dorta,Cableado: revisión programada
+202,3,2024-07-12 15:00:00,2024-07-15 02:09:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: aviso del SCADA
+203,4,2024-07-13 01:00:00,2024-07-13 18:58:00,vandalismo,alta,False,Nira Afonso,Vandalismo: llamada del cliente
+204,3,2024-07-14 00:00:00,2024-07-14 06:06:00,cableado,baja,False,Nira Afonso,Cableado: alarma de comunicaciones
+205,1,2024-07-14 12:00:00,2024-07-14 21:29:00,monitorización,baja,False,Yeray Dorta,Monitorización: revisión programada
+206,6,2024-07-15 22:00:00,2024-07-18 12:05:00,cableado,alta,False,Aday Melián,Cableado: aviso del SCADA
+207,6,2024-07-16 01:00:00,2024-07-16 07:25:00,inversor,alta,False,Aday Melián,Inversor: revisión programada
+208,2,2024-07-16 22:00:00,2024-07-17 02:58:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+209,5,2024-07-17 16:00:00,,inversor,media,False,Idaira Rivero,Inversor: inspección visual
+210,1,2024-07-18 23:00:00,2024-07-19 18:21:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+211,2,2024-07-20 07:00:00,2024-07-21 01:33:00,monitorización,crítica,False,Aday Melián,Monitorización: revisión programada
+212,4,2024-07-21 00:00:00,2024-07-21 05:30:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: llamada del cliente
+213,3,2024-07-21 09:00:00,2024-07-22 05:22:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: llamada del cliente
+214,5,2024-07-21 22:00:00,2024-07-22 10:51:00,inversor,media,False,Idaira Rivero,Inversor: inspección visual
+215,6,2024-07-22 01:00:00,,comunicaciones,media,False,Idaira Rivero,Comunicaciones: llamada del cliente
+216,8,2024-07-22 02:00:00,2024-07-22 16:11:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: inspección visual
+217,5,2024-07-23 03:00:00,,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+218,7,2024-07-24 22:00:00,2024-07-26 14:00:00,red eléctrica,media,True,Nira Afonso,Red eléctrica: alarma de comunicaciones
+219,1,2024-07-25 17:00:00,2024-07-25 18:44:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: aviso del SCADA
+220,2,2024-07-26 04:00:00,2024-07-26 12:33:00,monitorización,baja,False,Idaira Rivero,Monitorización: llamada del cliente
+221,6,2024-07-26 06:00:00,2024-07-26 19:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: inspección visual
+222,7,2024-07-27 09:00:00,,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+223,1,2024-07-27 17:00:00,2024-07-28 06:35:00,cableado,baja,False,Yeray Dorta,Cableado: alarma de comunicaciones
+224,3,2024-07-28 09:00:00,,inversor,baja,False,Idaira Rivero,Inversor: llamada del cliente
+225,1,2024-08-01 16:00:00,2024-08-02 15:02:00,red eléctrica,media,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+226,1,2024-08-04 18:00:00,2024-08-05 21:30:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: llamada del cliente
+227,4,2024-08-05 06:00:00,2024-08-05 12:22:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: inspección visual
+228,3,2024-08-05 06:00:00,2024-08-07 17:54:00,cableado,baja,False,Yeray Dorta,Cableado: alarma de comunicaciones
+229,5,2024-08-05 12:00:00,2024-08-07 02:25:00,monitorización,baja,False,Nira Afonso,Monitorización: inspección visual
+230,6,2024-08-05 19:00:00,2024-08-06 01:16:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: llamada del cliente
+231,4,2024-08-06 15:00:00,2024-08-06 23:22:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+232,2,2024-08-07 21:00:00,2024-08-09 06:30:00,vandalismo,alta,False,Yeray Dorta,Vandalismo: alarma de comunicaciones
+233,4,2024-08-08 13:00:00,2024-08-10 03:00:00,red eléctrica,media,True,Yeray Dorta,Red eléctrica: inspección visual
+234,3,2024-08-08 20:00:00,2024-08-09 11:53:00,inversor,alta,False,Yeray Dorta,Inversor: revisión programada
+235,4,2024-08-09 04:00:00,,cableado,baja,False,Aday Melián,Cableado: alarma de comunicaciones
+236,6,2024-08-10 14:00:00,,inversor,baja,False,Idaira Rivero,Inversor: inspección visual
+237,4,2024-08-11 11:00:00,2024-08-14 18:40:00,red eléctrica,media,False,Aday Melián,Red eléctrica: inspección visual
+238,2,2024-08-11 13:00:00,2024-08-12 13:10:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: alarma de comunicaciones
+239,4,2024-08-12 07:00:00,2024-08-12 19:25:00,inversor,baja,False,Idaira Rivero,Inversor: revisión programada
+240,3,2024-08-14 22:00:00,2024-08-15 09:23:00,comunicaciones,media,False,Aday Melián,Comunicaciones: inspección visual
+241,2,2024-08-15 00:00:00,2024-08-15 08:38:00,suciedad paneles,crítica,False,Yeray Dorta,Suciedad paneles: llamada del cliente
+242,3,2024-08-15 10:00:00,,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: aviso del SCADA
+243,3,2024-08-16 04:00:00,2024-08-17 13:23:00,red eléctrica,media,False,Aday Melián,Red eléctrica: inspección visual
+244,2,2024-08-18 04:00:00,2024-08-19 01:37:00,monitorización,baja,False,Yeray Dorta,Monitorización: alarma de comunicaciones
+245,3,2024-08-18 13:00:00,2024-08-19 03:24:00,red eléctrica,media,False,Aday Melián,Red eléctrica: aviso del SCADA
+246,6,2024-08-18 16:00:00,2024-08-18 18:08:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: aviso del SCADA
+247,8,2024-08-21 09:00:00,2024-08-22 00:39:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: llamada del cliente
+248,4,2024-08-21 11:00:00,2024-08-21 18:09:00,cableado,alta,False,Nira Afonso,Cableado: llamada del cliente
+249,1,2024-08-22 13:00:00,2024-08-24 04:00:00,red eléctrica,media,True,Yeray Dorta,Red eléctrica: revisión programada
+250,8,2024-08-23 11:00:00,2024-08-23 18:18:00,vandalismo,alta,False,Nira Afonso,Vandalismo: aviso del SCADA
+251,8,2024-08-24 15:00:00,2024-08-24 21:21:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+252,4,2024-08-25 10:00:00,2024-08-25 21:57:00,vandalismo,alta,False,Idaira Rivero,Vandalismo: llamada del cliente
+253,2,2024-08-25 23:00:00,,inversor,media,False,Idaira Rivero,Inversor: inspección visual
+254,3,2024-08-27 17:00:00,2024-08-28 03:32:00,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: revisión programada
+255,1,2024-08-27 19:00:00,2024-08-30 16:26:00,vandalismo,media,False,Yeray Dorta,Vandalismo: aviso del SCADA
+256,3,2024-08-28 00:00:00,2024-08-28 11:37:00,comunicaciones,alta,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+257,3,2024-08-28 04:00:00,2024-08-30 03:00:00,comunicaciones,alta,True,Aday Melián,Comunicaciones: inspección visual
+258,6,2024-08-28 04:00:00,2024-08-28 21:39:00,suciedad paneles,alta,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+259,7,2024-08-30 18:00:00,2024-08-31 02:42:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+260,2,2024-08-31 00:00:00,2024-09-01 04:56:00,cableado,media,False,Nira Afonso,Cableado: llamada del cliente
+261,7,2024-08-31 13:00:00,2024-09-03 21:13:00,inversor,alta,False,Nira Afonso,Inversor: inspección visual
+262,8,2024-09-02 19:00:00,2024-09-03 10:24:00,cableado,media,False,Idaira Rivero,Cableado: inspección visual
+263,4,2024-09-03 18:00:00,,comunicaciones,media,False,Idaira Rivero,Comunicaciones: revisión programada
+264,6,2024-09-03 19:00:00,2024-09-03 23:52:00,cableado,baja,False,Nira Afonso,Cableado: revisión programada
+265,8,2024-09-04 22:00:00,2024-09-05 18:05:00,suciedad paneles,alta,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+266,1,2024-09-07 01:00:00,2024-09-09 22:00:00,inversor,crítica,True,Yeray Dorta,Inversor: alarma de comunicaciones
+267,6,2024-09-09 08:00:00,2024-09-09 10:47:00,inversor,alta,False,Idaira Rivero,Inversor: inspección visual
+268,7,2024-09-09 19:00:00,2024-09-10 11:03:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+269,1,2024-09-12 04:00:00,2024-09-14 16:54:00,inversor,baja,False,Aday Melián,Inversor: revisión programada
+270,3,2024-09-13 05:00:00,2024-09-13 12:43:00,inversor,alta,False,Yeray Dorta,Inversor: alarma de comunicaciones
+271,5,2024-09-13 18:00:00,2024-09-14 19:37:00,cableado,media,False,Idaira Rivero,Cableado: aviso del SCADA
+272,5,2024-09-14 12:00:00,2024-09-15 17:44:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+273,8,2024-09-19 10:00:00,2024-09-19 19:47:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: llamada del cliente
+274,3,2024-09-20 01:00:00,2024-09-20 19:28:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: aviso del SCADA
+275,5,2024-09-21 16:00:00,2024-09-21 20:02:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: inspección visual
+276,1,2024-09-22 00:00:00,2024-09-22 20:22:00,cableado,media,False,Yeray Dorta,Cableado: revisión programada
+277,5,2024-09-22 22:00:00,2024-09-23 03:42:00,red eléctrica,media,False,Idaira Rivero,Red eléctrica: revisión programada
+278,3,2024-09-23 10:00:00,2024-09-23 16:24:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: aviso del SCADA
+279,2,2024-09-27 06:00:00,,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: revisión programada
+280,1,2024-09-27 15:00:00,2024-09-29 03:06:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+281,1,2024-09-28 14:00:00,2024-09-28 23:30:00,comunicaciones,crítica,False,Nira Afonso,Comunicaciones: alarma de comunicaciones
+282,8,2024-09-30 20:00:00,2024-09-30 21:22:00,monitorización,alta,False,Idaira Rivero,Monitorización: revisión programada
+283,3,2024-09-30 21:00:00,2024-10-01 03:12:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: inspección visual
+284,2,2024-10-01 13:00:00,,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+285,3,2024-10-02 13:00:00,2024-10-02 19:15:00,monitorización,baja,False,Nira Afonso,Monitorización: revisión programada
+286,8,2024-10-03 14:00:00,2024-10-05 18:00:00,inversor,alta,True,Aday Melián,Inversor: llamada del cliente
+287,2,2024-10-07 14:00:00,2024-10-08 01:04:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: llamada del cliente
+288,1,2024-10-07 23:00:00,2024-10-08 17:05:00,monitorización,media,False,Aday Melián,Monitorización: llamada del cliente
+289,3,2024-10-09 07:00:00,2024-10-09 14:00:00,monitorización,media,False,Nira Afonso,Monitorización: llamada del cliente
+290,5,2024-10-09 15:00:00,2024-10-10 05:39:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: llamada del cliente
+291,2,2024-10-10 15:00:00,2024-10-10 17:50:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: aviso del SCADA
+292,3,2024-10-11 14:00:00,2024-10-12 08:15:00,monitorización,media,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+293,8,2024-10-11 18:00:00,2024-10-13 14:00:00,red eléctrica,crítica,True,Aday Melián,Red eléctrica: llamada del cliente
+294,8,2024-10-11 22:00:00,2024-10-13 01:22:00,red eléctrica,alta,False,Nira Afonso,Red eléctrica: revisión programada
+295,3,2024-10-12 01:00:00,2024-10-14 20:00:00,cableado,alta,True,Idaira Rivero,Cableado: revisión programada
+296,3,2024-10-12 04:00:00,2024-10-13 04:49:00,vandalismo,baja,False,Nira Afonso,Vandalismo: aviso del SCADA
+297,3,2024-10-12 12:00:00,,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: revisión programada
+298,4,2024-10-12 21:00:00,2024-10-13 11:20:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: revisión programada
+299,3,2024-10-12 22:00:00,2024-10-13 03:03:00,inversor,baja,False,Idaira Rivero,Inversor: llamada del cliente
+300,4,2024-10-13 15:00:00,2024-10-13 20:34:00,red eléctrica,media,False,Aday Melián,Red eléctrica: aviso del SCADA
+301,3,2024-10-14 20:00:00,2024-10-14 23:07:00,vandalismo,media,False,Yeray Dorta,Vandalismo: inspección visual
+302,5,2024-10-15 09:00:00,2024-10-15 13:48:00,inversor,baja,False,Idaira Rivero,Inversor: aviso del SCADA
+303,7,2024-10-15 18:00:00,,monitorización,media,False,Aday Melián,Monitorización: aviso del SCADA
+304,5,2024-10-16 20:00:00,2024-10-17 17:45:00,cableado,baja,False,Aday Melián,Cableado: inspección visual
+305,4,2024-10-17 19:00:00,2024-10-18 07:48:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: llamada del cliente
+306,7,2024-10-19 02:00:00,2024-10-19 10:10:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: revisión programada
+307,5,2024-10-19 11:00:00,2024-10-20 00:40:00,vandalismo,baja,False,Idaira Rivero,Vandalismo: revisión programada
+308,4,2024-10-20 23:00:00,2024-10-22 04:12:00,comunicaciones,alta,False,Yeray Dorta,Comunicaciones: revisión programada
+309,2,2024-10-21 18:00:00,2024-10-22 04:03:00,red eléctrica,media,False,Idaira Rivero,Red eléctrica: llamada del cliente
+310,6,2024-10-23 06:00:00,2024-10-23 18:12:00,monitorización,baja,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+311,4,2024-10-24 12:00:00,,red eléctrica,alta,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+312,5,2024-10-24 23:00:00,2024-10-25 07:19:00,inversor,baja,False,Aday Melián,Inversor: alarma de comunicaciones
+313,5,2024-10-25 00:00:00,2024-10-25 04:58:00,vandalismo,media,False,Yeray Dorta,Vandalismo: inspección visual
+314,6,2024-10-25 11:00:00,2024-10-26 02:12:00,cableado,crítica,False,Yeray Dorta,Cableado: inspección visual
+315,7,2024-10-26 09:00:00,2024-10-27 18:02:00,cableado,media,False,Yeray Dorta,Cableado: inspección visual
+316,2,2024-10-27 15:00:00,,red eléctrica,alta,False,Aday Melián,Red eléctrica: aviso del SCADA
+317,2,2024-10-29 15:00:00,2024-10-29 17:50:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: aviso del SCADA
+318,7,2024-10-31 00:00:00,,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: llamada del cliente
+319,2,2024-11-01 13:00:00,2024-11-01 20:05:00,inversor,baja,False,Idaira Rivero,Inversor: aviso del SCADA
+320,3,2024-11-02 16:00:00,2024-11-03 06:37:00,cableado,alta,False,Aday Melián,Cableado: llamada del cliente
+321,4,2024-11-03 00:00:00,2024-11-06 00:58:00,monitorización,media,False,Idaira Rivero,Monitorización: revisión programada
+322,7,2024-11-05 05:00:00,,comunicaciones,media,False,Nira Afonso,Comunicaciones: inspección visual
+323,4,2024-11-05 22:00:00,2024-11-06 10:43:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+324,1,2024-11-06 15:00:00,2024-11-07 11:41:00,cableado,baja,False,Yeray Dorta,Cableado: aviso del SCADA
+325,2,2024-11-06 21:00:00,2024-11-08 13:58:00,monitorización,media,False,Yeray Dorta,Monitorización: inspección visual
+326,7,2024-11-08 05:00:00,2024-11-13 01:15:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+327,4,2024-11-09 07:00:00,2024-11-10 04:00:00,comunicaciones,crítica,True,Yeray Dorta,Comunicaciones: aviso del SCADA
+328,7,2024-11-10 06:00:00,2024-11-10 13:24:00,vandalismo,alta,False,Nira Afonso,Vandalismo: alarma de comunicaciones
+329,6,2024-11-11 07:00:00,2024-11-11 20:59:00,cableado,baja,False,Yeray Dorta,Cableado: inspección visual
+330,8,2024-11-12 14:00:00,2024-11-14 11:34:00,cableado,baja,False,Nira Afonso,Cableado: inspección visual
+331,7,2024-11-12 21:00:00,2024-11-13 01:25:00,vandalismo,baja,False,Idaira Rivero,Vandalismo: revisión programada
+332,2,2024-11-14 13:00:00,2024-11-15 08:35:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: llamada del cliente
+333,5,2024-11-14 14:00:00,2024-11-14 19:21:00,vandalismo,media,False,Idaira Rivero,Vandalismo: aviso del SCADA
+334,1,2024-11-16 22:00:00,2024-11-18 00:40:00,suciedad paneles,alta,False,Idaira Rivero,Suciedad paneles: inspección visual
+335,3,2024-11-16 22:00:00,2024-11-17 15:18:00,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+336,4,2024-11-17 06:00:00,2024-11-18 10:00:00,cableado,alta,True,Idaira Rivero,Cableado: aviso del SCADA
+337,2,2024-11-17 13:00:00,2024-11-17 16:29:00,inversor,media,False,Nira Afonso,Inversor: llamada del cliente
+338,4,2024-11-18 11:00:00,2024-11-19 20:00:00,red eléctrica,crítica,True,Aday Melián,Red eléctrica: aviso del SCADA
+339,6,2024-11-19 04:00:00,2024-11-19 09:37:00,inversor,media,False,Aday Melián,Inversor: llamada del cliente
+340,7,2024-11-20 00:00:00,2024-11-21 01:37:00,vandalismo,alta,False,Nira Afonso,Vandalismo: aviso del SCADA
+341,8,2024-11-20 08:00:00,2024-11-21 13:00:00,comunicaciones,media,True,Nira Afonso,Comunicaciones: alarma de comunicaciones
+342,2,2024-11-21 02:00:00,,monitorización,media,False,Yeray Dorta,Monitorización: inspección visual
+343,1,2024-11-22 23:00:00,2024-11-23 18:58:00,monitorización,alta,False,Nira Afonso,Monitorización: revisión programada
+344,6,2024-11-23 09:00:00,2024-11-23 21:18:00,vandalismo,media,False,Yeray Dorta,Vandalismo: revisión programada
+345,1,2024-11-23 17:00:00,2024-11-24 09:00:00,red eléctrica,alta,True,Aday Melián,Red eléctrica: aviso del SCADA
+346,1,2024-11-24 15:00:00,2024-11-25 00:37:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+347,7,2024-11-27 14:00:00,2024-11-28 17:01:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+348,6,2024-11-28 20:00:00,2024-11-29 13:19:00,cableado,baja,False,Nira Afonso,Cableado: aviso del SCADA
+349,5,2024-11-29 00:00:00,2024-11-29 04:23:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: alarma de comunicaciones
+350,3,2024-11-29 12:00:00,2024-12-01 07:16:00,vandalismo,media,False,Idaira Rivero,Vandalismo: llamada del cliente
+351,7,2024-11-30 15:00:00,2024-11-30 19:01:00,inversor,baja,False,Yeray Dorta,Inversor: alarma de comunicaciones
+352,6,2024-11-30 16:00:00,2024-12-02 09:25:00,vandalismo,media,False,Aday Melián,Vandalismo: aviso del SCADA
+353,7,2024-12-01 07:00:00,2024-12-01 10:54:00,inversor,media,False,Idaira Rivero,Inversor: revisión programada
+354,8,2024-12-02 11:00:00,2024-12-03 03:59:00,red eléctrica,media,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+355,1,2024-12-03 13:00:00,2024-12-03 20:03:00,monitorización,media,False,Aday Melián,Monitorización: revisión programada
+356,5,2024-12-03 19:00:00,,comunicaciones,media,False,Nira Afonso,Comunicaciones: llamada del cliente
+357,5,2024-12-04 04:00:00,,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+358,5,2024-12-04 23:00:00,2024-12-06 13:57:00,cableado,media,False,Nira Afonso,Cableado: alarma de comunicaciones
+359,5,2024-12-05 14:00:00,2024-12-06 14:15:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: aviso del SCADA
+360,8,2024-12-11 16:00:00,2024-12-11 21:09:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: llamada del cliente
+361,5,2024-12-11 20:00:00,2024-12-12 19:31:00,cableado,alta,False,Aday Melián,Cableado: llamada del cliente
+362,2,2024-12-12 01:00:00,2024-12-12 04:00:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: llamada del cliente
+363,1,2024-12-12 09:00:00,2024-12-12 11:03:00,inversor,crítica,False,Aday Melián,Inversor: revisión programada
+364,2,2024-12-14 22:00:00,2024-12-17 21:00:00,inversor,alta,True,Idaira Rivero,Inversor: aviso del SCADA
+365,5,2024-12-15 15:00:00,2024-12-16 06:32:00,monitorización,media,False,Aday Melián,Monitorización: inspección visual
+366,2,2024-12-16 04:00:00,2024-12-16 13:55:00,cableado,baja,False,Aday Melián,Cableado: alarma de comunicaciones
+367,5,2024-12-16 13:00:00,2024-12-17 04:13:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: alarma de comunicaciones
+368,5,2024-12-16 15:00:00,2024-12-16 18:24:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+369,8,2024-12-16 17:00:00,2024-12-16 19:03:00,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: aviso del SCADA
+370,1,2024-12-17 13:00:00,2024-12-20 07:00:00,red eléctrica,crítica,True,Idaira Rivero,Red eléctrica: aviso del SCADA
+371,2,2024-12-19 19:00:00,2024-12-20 17:09:00,cableado,baja,False,Yeray Dorta,Cableado: aviso del SCADA
+372,3,2024-12-20 05:00:00,2024-12-22 18:00:00,cableado,media,True,Idaira Rivero,Cableado: llamada del cliente
+373,4,2024-12-21 07:00:00,2024-12-21 12:06:00,monitorización,baja,False,Yeray Dorta,Monitorización: aviso del SCADA
+374,5,2024-12-25 03:00:00,2024-12-25 11:36:00,cableado,baja,False,Nira Afonso,Cableado: llamada del cliente
+375,5,2024-12-26 02:00:00,2024-12-26 08:33:00,inversor,media,False,Idaira Rivero,Inversor: aviso del SCADA
+376,1,2024-12-26 07:00:00,2024-12-26 15:31:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: revisión programada
+377,4,2024-12-27 05:00:00,2024-12-27 16:49:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+378,2,2024-12-27 14:00:00,2024-12-27 17:56:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: alarma de comunicaciones
+379,7,2024-12-27 16:00:00,2024-12-30 04:00:00,comunicaciones,crítica,True,Yeray Dorta,Comunicaciones: alarma de comunicaciones
+380,2,2024-12-28 15:00:00,2024-12-29 07:00:00,inversor,baja,False,Idaira Rivero,Inversor: revisión programada
+381,1,2024-12-30 14:00:00,2024-12-30 16:50:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: revisión programada
+382,4,2025-01-01 13:00:00,2025-01-01 17:36:00,cableado,baja,False,Aday Melián,Cableado: aviso del SCADA
+383,3,2025-01-01 15:00:00,2025-01-03 17:00:00,inversor,crítica,True,Idaira Rivero,Inversor: llamada del cliente
+384,1,2025-01-02 02:00:00,2025-01-02 15:21:00,monitorización,media,False,Nira Afonso,Monitorización: inspección visual
+385,2,2025-01-02 04:00:00,2025-01-03 00:00:00,inversor,alta,True,Idaira Rivero,Inversor: revisión programada
+386,6,2025-01-02 21:00:00,2025-01-03 12:21:00,monitorización,crítica,False,Yeray Dorta,Monitorización: inspección visual
+387,2,2025-01-03 00:00:00,2025-01-03 11:09:00,suciedad paneles,crítica,False,Nira Afonso,Suciedad paneles: inspección visual
+388,5,2025-01-06 09:00:00,2025-01-06 13:29:00,inversor,media,False,Nira Afonso,Inversor: llamada del cliente
+389,3,2025-01-06 16:00:00,2025-01-07 05:35:00,monitorización,alta,False,Nira Afonso,Monitorización: revisión programada
+390,6,2025-01-06 17:00:00,2025-01-07 05:40:00,inversor,alta,False,Idaira Rivero,Inversor: aviso del SCADA
+391,7,2025-01-06 23:00:00,2025-01-07 05:04:00,monitorización,baja,False,Nira Afonso,Monitorización: llamada del cliente
+392,2,2025-01-07 16:00:00,2025-01-08 15:23:00,vandalismo,baja,False,Nira Afonso,Vandalismo: revisión programada
+393,3,2025-01-08 00:00:00,2025-01-08 05:55:00,monitorización,alta,False,Yeray Dorta,Monitorización: alarma de comunicaciones
+394,2,2025-01-08 06:00:00,,suciedad paneles,alta,False,Nira Afonso,Suciedad paneles: revisión programada
+395,6,2025-01-09 04:00:00,,suciedad paneles,crítica,False,Nira Afonso,Suciedad paneles: revisión programada
+396,1,2025-01-09 08:00:00,2025-01-09 13:22:00,monitorización,alta,False,Idaira Rivero,Monitorización: inspección visual
+397,7,2025-01-09 23:00:00,2025-01-10 12:54:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+398,8,2025-01-10 02:00:00,2025-01-10 14:54:00,cableado,baja,False,Nira Afonso,Cableado: revisión programada
+399,5,2025-01-10 05:00:00,2025-01-11 03:11:00,inversor,baja,False,Nira Afonso,Inversor: llamada del cliente
+400,3,2025-01-11 02:00:00,,monitorización,media,False,Yeray Dorta,Monitorización: revisión programada
+401,5,2025-01-11 11:00:00,,cableado,media,False,Nira Afonso,Cableado: alarma de comunicaciones
+402,8,2025-01-12 05:00:00,2025-01-12 12:56:00,inversor,media,False,Aday Melián,Inversor: inspección visual
+403,7,2025-01-12 06:00:00,2025-01-14 22:42:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: aviso del SCADA
+404,3,2025-01-12 10:00:00,2025-01-12 20:55:00,inversor,baja,False,Nira Afonso,Inversor: llamada del cliente
+405,2,2025-01-12 18:00:00,2025-01-14 19:50:00,vandalismo,baja,False,Nira Afonso,Vandalismo: aviso del SCADA
+406,5,2025-01-12 19:00:00,2025-01-12 23:21:00,inversor,baja,False,Idaira Rivero,Inversor: alarma de comunicaciones
+407,5,2025-01-14 10:00:00,2025-01-16 18:21:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: revisión programada
+408,7,2025-01-15 01:00:00,2025-01-15 07:00:00,comunicaciones,alta,True,Nira Afonso,Comunicaciones: revisión programada
+409,3,2025-01-15 12:00:00,2025-01-16 05:52:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: revisión programada
+410,7,2025-01-15 22:00:00,2025-01-16 01:22:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: inspección visual
+411,1,2025-01-16 04:00:00,2025-01-16 06:21:00,inversor,media,False,Nira Afonso,Inversor: aviso del SCADA
+412,6,2025-01-16 10:00:00,2025-01-18 11:54:00,cableado,baja,False,Nira Afonso,Cableado: inspección visual
+413,2,2025-01-16 11:00:00,2025-01-17 01:25:00,inversor,baja,False,Yeray Dorta,Inversor: aviso del SCADA
+414,4,2025-01-16 14:00:00,,vandalismo,media,False,Idaira Rivero,Vandalismo: aviso del SCADA
+415,1,2025-01-16 17:00:00,2025-01-17 08:04:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: inspección visual
+416,4,2025-01-18 17:00:00,2025-01-21 06:00:00,cableado,media,True,Aday Melián,Cableado: revisión programada
+417,2,2025-01-20 00:00:00,2025-01-22 02:50:00,inversor,media,False,Aday Melián,Inversor: aviso del SCADA
+418,8,2025-01-20 10:00:00,2025-01-24 15:51:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: inspección visual
+419,1,2025-01-22 10:00:00,2025-01-22 14:23:00,vandalismo,baja,False,Nira Afonso,Vandalismo: aviso del SCADA
+420,4,2025-01-22 22:00:00,2025-01-23 06:09:00,suciedad paneles,crítica,False,Nira Afonso,Suciedad paneles: llamada del cliente
+421,5,2025-01-23 23:00:00,2025-01-24 06:02:00,red eléctrica,alta,False,Yeray Dorta,Red eléctrica: llamada del cliente
+422,1,2025-01-24 05:00:00,2025-01-24 10:46:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: inspección visual
+423,8,2025-01-24 15:00:00,2025-01-24 18:09:00,vandalismo,baja,False,Nira Afonso,Vandalismo: llamada del cliente
+424,2,2025-01-25 20:00:00,2025-01-25 23:57:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: llamada del cliente
+425,4,2025-01-26 17:00:00,2025-01-27 09:24:00,inversor,baja,False,Idaira Rivero,Inversor: aviso del SCADA
+426,4,2025-01-26 22:00:00,2025-01-28 04:29:00,inversor,media,False,Aday Melián,Inversor: aviso del SCADA
+427,4,2025-01-27 12:00:00,2025-01-27 16:09:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+428,3,2025-01-27 16:00:00,2025-01-27 21:21:00,vandalismo,alta,False,Aday Melián,Vandalismo: revisión programada
+429,7,2025-01-28 00:00:00,2025-01-28 02:56:00,red eléctrica,media,False,Aday Melián,Red eléctrica: inspección visual
+430,3,2025-02-01 20:00:00,2025-02-03 17:36:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: aviso del SCADA
+431,3,2025-02-02 10:00:00,2025-02-03 14:05:00,cableado,media,False,Idaira Rivero,Cableado: llamada del cliente
+432,7,2025-02-02 11:00:00,2025-02-03 06:02:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: inspección visual
+433,6,2025-02-03 00:00:00,2025-02-03 13:57:00,vandalismo,media,False,Idaira Rivero,Vandalismo: revisión programada
+434,4,2025-02-06 03:00:00,2025-02-06 07:39:00,cableado,baja,False,Yeray Dorta,Cableado: inspección visual
+435,3,2025-02-06 21:00:00,2025-02-06 22:38:00,monitorización,alta,False,Aday Melián,Monitorización: llamada del cliente
+436,8,2025-02-07 22:00:00,2025-02-08 09:23:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+437,3,2025-02-08 11:00:00,,monitorización,baja,False,Idaira Rivero,Monitorización: llamada del cliente
+438,5,2025-02-11 08:00:00,2025-02-11 13:42:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: aviso del SCADA
+439,3,2025-02-11 10:00:00,2025-02-11 15:40:00,inversor,alta,False,Nira Afonso,Inversor: aviso del SCADA
+440,1,2025-02-11 12:00:00,2025-02-11 15:15:00,vandalismo,media,False,Aday Melián,Vandalismo: llamada del cliente
+441,4,2025-02-12 12:00:00,2025-02-12 18:11:00,red eléctrica,alta,False,Yeray Dorta,Red eléctrica: llamada del cliente
+442,5,2025-02-13 13:00:00,2025-02-13 22:46:00,inversor,media,False,Aday Melián,Inversor: aviso del SCADA
+443,8,2025-02-13 15:00:00,,red eléctrica,media,False,Nira Afonso,Red eléctrica: revisión programada
+444,2,2025-02-16 17:00:00,2025-02-18 03:46:00,inversor,media,False,Yeray Dorta,Inversor: llamada del cliente
+445,1,2025-02-17 06:00:00,2025-02-17 17:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+446,7,2025-02-18 00:00:00,2025-02-18 12:23:00,monitorización,media,False,Aday Melián,Monitorización: llamada del cliente
+447,7,2025-02-19 03:00:00,2025-02-19 06:49:00,inversor,baja,False,Idaira Rivero,Inversor: alarma de comunicaciones
+448,8,2025-02-19 03:00:00,2025-02-19 17:50:00,inversor,media,False,Yeray Dorta,Inversor: inspección visual
+449,2,2025-02-19 19:00:00,2025-02-21 01:47:00,cableado,media,False,Idaira Rivero,Cableado: alarma de comunicaciones
+450,2,2025-02-20 11:00:00,2025-02-21 00:58:00,vandalismo,alta,False,Aday Melián,Vandalismo: aviso del SCADA
+451,6,2025-02-20 18:00:00,2025-02-20 19:49:00,comunicaciones,media,False,Aday Melián,Comunicaciones: aviso del SCADA
+452,1,2025-02-21 17:00:00,2025-02-28 10:10:00,cableado,media,False,Idaira Rivero,Cableado: inspección visual
+453,4,2025-02-21 18:00:00,2025-02-22 22:12:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+454,2,2025-02-22 01:00:00,2025-02-22 13:14:00,vandalismo,media,False,Aday Melián,Vandalismo: inspección visual
+455,2,2025-02-22 11:00:00,2025-02-23 05:57:00,vandalismo,media,False,Nira Afonso,Vandalismo: llamada del cliente
+456,7,2025-02-22 18:00:00,2025-02-24 02:00:00,cableado,alta,True,Yeray Dorta,Cableado: aviso del SCADA
+457,7,2025-02-22 19:00:00,2025-02-23 16:36:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+458,4,2025-02-23 08:00:00,2025-02-23 09:36:00,monitorización,media,False,Nira Afonso,Monitorización: llamada del cliente
+459,1,2025-02-23 10:00:00,2025-02-24 09:53:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+460,2,2025-02-25 17:00:00,,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+461,1,2025-02-27 10:00:00,2025-03-01 08:20:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: aviso del SCADA
+462,4,2025-03-04 12:00:00,2025-03-04 22:28:00,comunicaciones,alta,False,Idaira Rivero,Comunicaciones: revisión programada
+463,4,2025-03-05 12:00:00,2025-03-05 21:36:00,comunicaciones,alta,False,Idaira Rivero,Comunicaciones: llamada del cliente
+464,3,2025-03-06 10:00:00,2025-03-06 14:26:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: llamada del cliente
+465,7,2025-03-08 14:00:00,2025-03-08 16:56:00,cableado,crítica,False,Yeray Dorta,Cableado: inspección visual
+466,8,2025-03-11 11:00:00,2025-03-11 19:42:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: inspección visual
+467,4,2025-03-12 02:00:00,2025-03-12 07:21:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+468,1,2025-03-12 09:00:00,2025-03-12 17:21:00,monitorización,media,False,Aday Melián,Monitorización: inspección visual
+469,6,2025-03-14 04:00:00,2025-03-15 18:26:00,suciedad paneles,alta,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+470,8,2025-03-14 14:00:00,2025-03-16 11:00:00,cableado,alta,True,Nira Afonso,Cableado: inspección visual
+471,7,2025-03-14 19:00:00,2025-03-15 08:08:00,cableado,baja,False,Aday Melián,Cableado: llamada del cliente
+472,7,2025-03-16 06:00:00,2025-03-16 09:40:00,cableado,baja,False,Yeray Dorta,Cableado: llamada del cliente
+473,1,2025-03-16 07:00:00,,monitorización,media,False,Yeray Dorta,Monitorización: llamada del cliente
+474,8,2025-03-16 09:00:00,2025-03-16 23:20:00,cableado,media,False,Nira Afonso,Cableado: inspección visual
+475,1,2025-03-16 12:00:00,2025-03-17 02:29:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: aviso del SCADA
+476,4,2025-03-16 18:00:00,2025-03-17 23:00:00,vandalismo,media,False,Nira Afonso,Vandalismo: alarma de comunicaciones
+477,3,2025-03-18 14:00:00,2025-03-19 08:47:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: revisión programada
+478,7,2025-03-19 20:00:00,2025-03-22 02:02:00,inversor,media,False,Idaira Rivero,Inversor: alarma de comunicaciones
+479,2,2025-03-23 15:00:00,2025-03-23 18:06:00,inversor,baja,False,Nira Afonso,Inversor: inspección visual
+480,2,2025-03-23 22:00:00,2025-03-25 18:33:00,comunicaciones,media,False,Aday Melián,Comunicaciones: alarma de comunicaciones
+481,2,2025-03-24 14:00:00,2025-03-24 16:54:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+482,8,2025-03-24 19:00:00,2025-03-25 17:31:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+483,7,2025-03-26 12:00:00,2025-03-26 19:48:00,monitorización,alta,False,Nira Afonso,Monitorización: alarma de comunicaciones
+484,3,2025-03-28 22:00:00,2025-03-29 04:01:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: revisión programada
+485,1,2025-03-29 18:00:00,2025-04-04 03:27:00,cableado,baja,False,Aday Melián,Cableado: llamada del cliente
+486,5,2025-03-30 05:00:00,2025-03-30 10:19:00,red eléctrica,media,False,Aday Melián,Red eléctrica: aviso del SCADA
+487,4,2025-04-02 19:00:00,2025-04-03 09:17:00,monitorización,media,False,Aday Melián,Monitorización: llamada del cliente
+488,8,2025-04-04 03:00:00,2025-04-07 10:37:00,cableado,media,False,Nira Afonso,Cableado: inspección visual
+489,5,2025-04-04 03:00:00,2025-04-04 11:51:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+490,3,2025-04-04 21:00:00,2025-04-06 14:25:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: revisión programada
+491,5,2025-04-07 06:00:00,2025-04-07 14:24:00,vandalismo,media,False,Yeray Dorta,Vandalismo: llamada del cliente
+492,2,2025-04-07 19:00:00,2025-04-08 06:00:00,comunicaciones,media,True,Aday Melián,Comunicaciones: inspección visual
+493,8,2025-04-08 12:00:00,2025-04-08 19:35:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: aviso del SCADA
+494,5,2025-04-09 11:00:00,2025-04-10 02:00:00,comunicaciones,media,True,Nira Afonso,Comunicaciones: inspección visual
+495,5,2025-04-10 15:00:00,2025-04-10 17:25:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+496,8,2025-04-10 17:00:00,2025-04-10 21:26:00,monitorización,baja,False,Yeray Dorta,Monitorización: revisión programada
+497,3,2025-04-10 19:00:00,2025-04-11 07:10:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: revisión programada
+498,2,2025-04-11 15:00:00,2025-04-12 11:00:00,monitorización,baja,False,Yeray Dorta,Monitorización: alarma de comunicaciones
+499,4,2025-04-12 19:00:00,2025-04-15 02:00:00,comunicaciones,alta,True,Nira Afonso,Comunicaciones: alarma de comunicaciones
+500,3,2025-04-13 03:00:00,2025-04-13 06:00:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: llamada del cliente
+501,3,2025-04-14 12:00:00,2025-04-14 19:11:00,cableado,baja,False,Aday Melián,Cableado: llamada del cliente
+502,8,2025-04-16 03:00:00,2025-04-18 06:10:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: inspección visual
+503,8,2025-04-18 07:00:00,2025-04-18 19:57:00,monitorización,media,False,Aday Melián,Monitorización: revisión programada
+504,6,2025-04-18 15:00:00,2025-04-18 18:08:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+505,3,2025-04-19 21:00:00,2025-04-22 05:00:00,cableado,alta,True,Nira Afonso,Cableado: revisión programada
+506,3,2025-04-20 09:00:00,2025-04-20 10:56:00,cableado,media,False,Aday Melián,Cableado: aviso del SCADA
+507,5,2025-04-20 10:00:00,2025-04-20 19:46:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: aviso del SCADA
+508,7,2025-04-21 09:00:00,2025-04-21 10:48:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: revisión programada
+509,4,2025-04-22 04:00:00,2025-04-22 16:07:00,vandalismo,alta,False,Idaira Rivero,Vandalismo: llamada del cliente
+510,5,2025-04-22 09:00:00,2025-04-23 17:00:00,cableado,media,True,Nira Afonso,Cableado: inspección visual
+511,6,2025-04-22 17:00:00,2025-04-22 20:52:00,cableado,baja,False,Idaira Rivero,Cableado: inspección visual
+512,2,2025-04-23 04:00:00,2025-04-23 16:33:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+513,2,2025-04-23 17:00:00,2025-04-24 01:00:00,cableado,crítica,True,Idaira Rivero,Cableado: inspección visual
+514,3,2025-04-25 06:00:00,2025-04-25 16:46:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: llamada del cliente
+515,8,2025-04-25 07:00:00,2025-04-25 14:17:00,cableado,baja,False,Idaira Rivero,Cableado: llamada del cliente
+516,3,2025-04-26 02:00:00,2025-04-26 22:58:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: inspección visual
+517,6,2025-04-27 12:00:00,2025-04-28 07:23:00,cableado,alta,False,Idaira Rivero,Cableado: inspección visual
+518,6,2025-04-27 17:00:00,2025-04-28 09:55:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+519,5,2025-04-28 06:00:00,2025-04-29 11:00:00,cableado,media,True,Aday Melián,Cableado: aviso del SCADA
+520,5,2025-04-28 08:00:00,2025-04-29 15:13:00,vandalismo,alta,False,Yeray Dorta,Vandalismo: aviso del SCADA
+521,7,2025-04-28 09:00:00,2025-04-29 17:33:00,vandalismo,baja,False,Nira Afonso,Vandalismo: aviso del SCADA
+522,1,2025-05-01 01:00:00,,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+523,2,2025-05-01 06:00:00,2025-05-03 19:00:00,comunicaciones,media,True,Aday Melián,Comunicaciones: alarma de comunicaciones
+524,3,2025-05-01 06:00:00,2025-05-02 13:37:00,inversor,alta,False,Aday Melián,Inversor: aviso del SCADA
+525,1,2025-05-02 04:00:00,2025-05-03 00:54:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: aviso del SCADA
+526,7,2025-05-03 05:00:00,2025-05-03 14:13:00,vandalismo,baja,False,Aday Melián,Vandalismo: alarma de comunicaciones
+527,6,2025-05-03 11:00:00,2025-05-04 02:10:00,comunicaciones,alta,False,Aday Melián,Comunicaciones: inspección visual
+528,4,2025-05-04 14:00:00,2025-05-04 18:17:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: inspección visual
+529,3,2025-05-05 11:00:00,2025-05-06 06:09:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+530,7,2025-05-05 21:00:00,,red eléctrica,alta,False,Aday Melián,Red eléctrica: revisión programada
+531,3,2025-05-06 09:00:00,2025-05-06 15:49:00,monitorización,media,False,Idaira Rivero,Monitorización: revisión programada
+532,8,2025-05-07 12:00:00,2025-05-07 22:14:00,red eléctrica,crítica,False,Aday Melián,Red eléctrica: alarma de comunicaciones
+533,7,2025-05-08 09:00:00,2025-05-08 11:00:00,comunicaciones,alta,True,Aday Melián,Comunicaciones: revisión programada
+534,7,2025-05-08 13:00:00,2025-05-09 12:00:00,inversor,crítica,True,Aday Melián,Inversor: llamada del cliente
+535,6,2025-05-09 09:00:00,2025-05-10 13:13:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+536,2,2025-05-09 16:00:00,2025-05-09 19:04:00,monitorización,media,False,Yeray Dorta,Monitorización: revisión programada
+537,6,2025-05-10 13:00:00,2025-05-11 00:21:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: alarma de comunicaciones
+538,1,2025-05-10 19:00:00,2025-05-13 12:43:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+539,8,2025-05-11 23:00:00,2025-05-12 05:19:00,comunicaciones,crítica,False,Yeray Dorta,Comunicaciones: inspección visual
+540,4,2025-05-12 00:00:00,2025-05-13 18:56:00,cableado,media,False,Aday Melián,Cableado: alarma de comunicaciones
+541,1,2025-05-13 07:00:00,2025-05-13 21:49:00,cableado,alta,False,Aday Melián,Cableado: revisión programada
+542,1,2025-05-14 23:00:00,2025-05-15 09:58:00,vandalismo,baja,False,Idaira Rivero,Vandalismo: llamada del cliente
+543,2,2025-05-15 22:00:00,2025-05-16 04:06:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: llamada del cliente
+544,4,2025-05-17 09:00:00,2025-05-19 12:00:00,comunicaciones,alta,True,Yeray Dorta,Comunicaciones: alarma de comunicaciones
+545,6,2025-05-17 13:00:00,2025-05-17 20:26:00,cableado,alta,False,Idaira Rivero,Cableado: alarma de comunicaciones
+546,8,2025-05-18 05:00:00,2025-05-18 16:44:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: revisión programada
+547,5,2025-05-20 14:00:00,2025-05-21 02:07:00,monitorización,baja,False,Yeray Dorta,Monitorización: aviso del SCADA
+548,2,2025-05-20 20:00:00,2025-05-20 22:46:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: aviso del SCADA
+549,5,2025-05-21 22:00:00,2025-05-22 05:40:00,cableado,media,False,Idaira Rivero,Cableado: aviso del SCADA
+550,2,2025-05-22 04:00:00,2025-05-22 20:26:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: revisión programada
+551,1,2025-05-23 03:00:00,2025-05-23 21:56:00,monitorización,baja,False,Idaira Rivero,Monitorización: aviso del SCADA
+552,6,2025-05-24 02:00:00,2025-05-24 21:22:00,suciedad paneles,alta,False,Nira Afonso,Suciedad paneles: llamada del cliente
+553,6,2025-05-24 21:00:00,2025-05-25 02:04:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: inspección visual
+554,7,2025-05-25 17:00:00,2025-05-29 15:13:00,suciedad paneles,media,False,Idaira Rivero,Suciedad paneles: revisión programada
+555,5,2025-05-26 00:00:00,2025-05-26 08:24:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: inspección visual
+556,2,2025-05-27 00:00:00,2025-05-27 11:00:00,inversor,baja,False,Nira Afonso,Inversor: llamada del cliente
+557,4,2025-05-27 15:00:00,2025-05-28 18:00:00,cableado,crítica,True,Nira Afonso,Cableado: inspección visual
+558,8,2025-05-28 08:00:00,2025-05-29 09:11:00,cableado,baja,False,Aday Melián,Cableado: aviso del SCADA
+559,8,2025-05-29 21:00:00,2025-06-01 03:05:00,cableado,baja,False,Nira Afonso,Cableado: alarma de comunicaciones
+560,8,2025-05-29 21:00:00,2025-05-30 12:18:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+561,6,2025-05-31 06:00:00,2025-05-31 21:33:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+562,6,2025-05-31 15:00:00,2025-06-02 08:49:00,cableado,media,False,Yeray Dorta,Cableado: inspección visual
+563,5,2025-06-02 03:00:00,,red eléctrica,media,False,Aday Melián,Red eléctrica: aviso del SCADA
+564,1,2025-06-02 12:00:00,2025-06-03 03:19:00,inversor,alta,False,Nira Afonso,Inversor: aviso del SCADA
+565,6,2025-06-03 05:00:00,2025-06-03 18:00:00,cableado,alta,True,Nira Afonso,Cableado: llamada del cliente
+566,8,2025-06-06 05:00:00,2025-06-07 04:33:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: inspección visual
+567,2,2025-06-08 17:00:00,2025-06-09 03:29:00,inversor,baja,False,Aday Melián,Inversor: revisión programada
+568,8,2025-06-10 08:00:00,,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: llamada del cliente
+569,5,2025-06-11 03:00:00,2025-06-11 11:25:00,red eléctrica,media,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+570,7,2025-06-12 08:00:00,2025-06-12 22:02:00,cableado,crítica,False,Nira Afonso,Cableado: revisión programada
+571,5,2025-06-13 08:00:00,2025-06-17 00:29:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: alarma de comunicaciones
+572,6,2025-06-13 19:00:00,2025-06-14 19:18:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: inspección visual
+573,8,2025-06-14 21:00:00,2025-06-16 06:37:00,red eléctrica,alta,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+574,1,2025-06-16 09:00:00,2025-06-16 11:34:00,monitorización,alta,False,Nira Afonso,Monitorización: llamada del cliente
+575,7,2025-06-17 03:00:00,2025-06-17 19:32:00,suciedad paneles,alta,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+576,3,2025-06-17 13:00:00,2025-06-17 22:44:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: llamada del cliente
+577,7,2025-06-20 07:00:00,2025-06-21 12:13:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: llamada del cliente
+578,3,2025-06-20 18:00:00,2025-06-21 11:36:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: revisión programada
+579,6,2025-06-21 20:00:00,2025-06-22 12:18:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+580,1,2025-06-22 10:00:00,2025-06-22 19:16:00,vandalismo,baja,False,Nira Afonso,Vandalismo: revisión programada
+581,6,2025-06-23 14:00:00,2025-06-24 20:15:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+582,1,2025-06-25 21:00:00,2025-06-26 03:16:00,suciedad paneles,alta,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+583,3,2025-06-25 22:00:00,2025-06-26 05:35:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: revisión programada
+584,7,2025-06-26 08:00:00,2025-06-26 12:26:00,monitorización,alta,False,Aday Melián,Monitorización: revisión programada
+585,3,2025-06-26 18:00:00,2025-06-27 19:58:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: aviso del SCADA
+586,2,2025-07-01 03:00:00,2025-07-01 21:29:00,vandalismo,crítica,False,Idaira Rivero,Vandalismo: alarma de comunicaciones
+587,1,2025-07-03 09:00:00,2025-07-03 18:54:00,cableado,baja,False,Aday Melián,Cableado: aviso del SCADA
+588,1,2025-07-03 20:00:00,2025-07-04 00:39:00,cableado,alta,False,Idaira Rivero,Cableado: revisión programada
+589,6,2025-07-04 09:00:00,2025-07-04 14:08:00,cableado,media,False,Nira Afonso,Cableado: inspección visual
+590,7,2025-07-04 13:00:00,2025-07-05 00:36:00,inversor,baja,False,Aday Melián,Inversor: inspección visual
+591,8,2025-07-06 02:00:00,2025-07-06 09:31:00,comunicaciones,alta,False,Aday Melián,Comunicaciones: revisión programada
+592,8,2025-07-06 16:00:00,2025-07-06 20:23:00,inversor,alta,False,Idaira Rivero,Inversor: aviso del SCADA
+593,4,2025-07-07 12:00:00,2025-07-07 21:14:00,comunicaciones,media,False,Idaira Rivero,Comunicaciones: inspección visual
+594,8,2025-07-09 15:00:00,2025-07-10 04:33:00,red eléctrica,crítica,False,Yeray Dorta,Red eléctrica: revisión programada
+595,5,2025-07-10 00:00:00,2025-07-11 00:50:00,red eléctrica,crítica,False,Yeray Dorta,Red eléctrica: llamada del cliente
+596,6,2025-07-11 11:00:00,,cableado,baja,False,Idaira Rivero,Cableado: aviso del SCADA
+597,3,2025-07-12 17:00:00,2025-07-12 22:03:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+598,3,2025-07-13 05:00:00,2025-07-13 15:00:00,cableado,alta,True,Idaira Rivero,Cableado: revisión programada
+599,4,2025-07-13 11:00:00,,comunicaciones,media,False,Idaira Rivero,Comunicaciones: revisión programada
+600,5,2025-07-13 16:00:00,2025-07-14 01:06:00,monitorización,media,False,Yeray Dorta,Monitorización: llamada del cliente
+601,1,2025-07-16 03:00:00,2025-07-16 05:04:00,vandalismo,crítica,False,Aday Melián,Vandalismo: alarma de comunicaciones
+602,5,2025-07-16 07:00:00,2025-07-17 03:00:00,comunicaciones,media,True,Yeray Dorta,Comunicaciones: aviso del SCADA
+603,6,2025-07-16 09:00:00,2025-07-17 13:57:00,comunicaciones,media,False,Yeray Dorta,Comunicaciones: revisión programada
+604,6,2025-07-19 23:00:00,2025-07-23 22:17:00,vandalismo,media,False,Yeray Dorta,Vandalismo: revisión programada
+605,3,2025-07-20 23:00:00,2025-07-21 04:06:00,vandalismo,baja,False,Aday Melián,Vandalismo: alarma de comunicaciones
+606,6,2025-07-20 23:00:00,2025-07-21 14:51:00,vandalismo,media,False,Nira Afonso,Vandalismo: inspección visual
+607,8,2025-07-23 17:00:00,,vandalismo,crítica,False,Nira Afonso,Vandalismo: llamada del cliente
+608,8,2025-07-25 15:00:00,2025-07-25 19:19:00,inversor,crítica,False,Idaira Rivero,Inversor: llamada del cliente
+609,2,2025-07-26 10:00:00,2025-07-26 22:33:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: inspección visual
+610,3,2025-07-26 14:00:00,2025-07-26 19:10:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+611,3,2025-07-26 23:00:00,2025-07-27 00:17:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: llamada del cliente
+612,5,2025-07-27 21:00:00,2025-07-29 03:20:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: alarma de comunicaciones
+613,4,2025-07-28 14:00:00,2025-07-29 15:15:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: inspección visual
+614,1,2025-07-31 02:00:00,2025-07-31 11:14:00,cableado,baja,False,Nira Afonso,Cableado: alarma de comunicaciones
+615,2,2025-08-01 08:00:00,2025-08-02 00:23:00,inversor,media,False,Aday Melián,Inversor: alarma de comunicaciones
+616,8,2025-08-01 11:00:00,2025-08-01 21:38:00,red eléctrica,baja,False,Nira Afonso,Red eléctrica: aviso del SCADA
+617,2,2025-08-02 10:00:00,2025-08-04 07:35:00,vandalismo,baja,False,Aday Melián,Vandalismo: aviso del SCADA
+618,5,2025-08-02 15:00:00,2025-08-03 09:40:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+619,3,2025-08-05 00:00:00,2025-08-06 06:56:00,monitorización,baja,False,Yeray Dorta,Monitorización: llamada del cliente
+620,5,2025-08-12 17:00:00,,comunicaciones,crítica,False,Aday Melián,Comunicaciones: alarma de comunicaciones
+621,6,2025-08-13 13:00:00,,monitorización,alta,False,Nira Afonso,Monitorización: llamada del cliente
+622,8,2025-08-14 10:00:00,2025-08-15 18:27:00,cableado,baja,False,Aday Melián,Cableado: inspección visual
+623,2,2025-08-18 01:00:00,2025-08-18 08:06:00,monitorización,baja,False,Yeray Dorta,Monitorización: revisión programada
+624,5,2025-08-18 02:00:00,2025-08-20 05:10:00,monitorización,media,False,Idaira Rivero,Monitorización: inspección visual
+625,4,2025-08-18 14:00:00,2025-08-19 09:20:00,cableado,media,False,Nira Afonso,Cableado: aviso del SCADA
+626,6,2025-08-19 01:00:00,2025-08-19 04:54:00,vandalismo,media,False,Aday Melián,Vandalismo: aviso del SCADA
+627,8,2025-08-19 11:00:00,2025-08-19 23:58:00,vandalismo,baja,False,Nira Afonso,Vandalismo: alarma de comunicaciones
+628,6,2025-08-19 19:00:00,,inversor,baja,False,Idaira Rivero,Inversor: inspección visual
+629,6,2025-08-21 00:00:00,2025-08-22 04:29:00,inversor,crítica,False,Nira Afonso,Inversor: llamada del cliente
+630,7,2025-08-22 06:00:00,2025-08-22 11:25:00,comunicaciones,alta,False,Yeray Dorta,Comunicaciones: aviso del SCADA
+631,6,2025-08-22 16:00:00,2025-08-22 20:04:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+632,2,2025-08-22 17:00:00,2025-08-23 07:26:00,cableado,crítica,False,Idaira Rivero,Cableado: llamada del cliente
+633,7,2025-08-23 06:00:00,2025-08-24 00:23:00,inversor,media,False,Nira Afonso,Inversor: inspección visual
+634,8,2025-08-24 17:00:00,2025-08-24 23:50:00,monitorización,baja,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+635,5,2025-08-25 17:00:00,2025-08-28 08:00:00,red eléctrica,media,True,Idaira Rivero,Red eléctrica: llamada del cliente
+636,6,2025-08-28 05:00:00,2025-08-29 03:48:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: alarma de comunicaciones
+637,5,2025-08-28 18:00:00,2025-08-28 19:51:00,monitorización,baja,False,Aday Melián,Monitorización: aviso del SCADA
+638,3,2025-08-29 04:00:00,2025-08-29 20:06:00,monitorización,baja,False,Idaira Rivero,Monitorización: revisión programada
+639,7,2025-08-29 11:00:00,2025-08-29 17:31:00,cableado,baja,False,Nira Afonso,Cableado: inspección visual
+640,7,2025-09-02 20:00:00,2025-09-02 23:09:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: revisión programada
+641,4,2025-09-03 06:00:00,2025-09-03 18:25:00,inversor,media,False,Yeray Dorta,Inversor: inspección visual
+642,7,2025-09-04 03:00:00,2025-09-04 12:13:00,inversor,media,False,Aday Melián,Inversor: revisión programada
+643,1,2025-09-04 04:00:00,2025-09-04 08:08:00,comunicaciones,media,False,Aday Melián,Comunicaciones: inspección visual
+644,2,2025-09-05 11:00:00,2025-09-05 18:09:00,suciedad paneles,baja,False,Aday Melián,Suciedad paneles: llamada del cliente
+645,2,2025-09-05 20:00:00,2025-09-06 03:17:00,red eléctrica,alta,False,Aday Melián,Red eléctrica: revisión programada
+646,6,2025-09-06 17:00:00,2025-09-07 01:51:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: inspección visual
+647,1,2025-09-06 21:00:00,2025-09-07 08:37:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: aviso del SCADA
+648,3,2025-09-07 06:00:00,2025-09-07 21:36:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+649,7,2025-09-07 09:00:00,2025-09-07 22:57:00,vandalismo,media,False,Yeray Dorta,Vandalismo: inspección visual
+650,1,2025-09-07 15:00:00,2025-09-08 00:34:00,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+651,3,2025-09-07 17:00:00,2025-09-08 03:43:00,cableado,baja,False,Yeray Dorta,Cableado: aviso del SCADA
+652,5,2025-09-08 05:00:00,2025-09-08 21:28:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: aviso del SCADA
+653,3,2025-09-08 12:00:00,2025-09-09 09:28:00,vandalismo,media,False,Yeray Dorta,Vandalismo: revisión programada
+654,3,2025-09-09 00:00:00,2025-09-10 00:32:00,inversor,alta,False,Idaira Rivero,Inversor: llamada del cliente
+655,5,2025-09-09 14:00:00,2025-09-09 20:01:00,red eléctrica,crítica,False,Idaira Rivero,Red eléctrica: llamada del cliente
+656,6,2025-09-10 22:00:00,2025-09-11 02:07:00,red eléctrica,alta,False,Yeray Dorta,Red eléctrica: llamada del cliente
+657,1,2025-09-11 08:00:00,,comunicaciones,media,False,Idaira Rivero,Comunicaciones: revisión programada
+658,3,2025-09-11 15:00:00,2025-09-11 18:11:00,comunicaciones,baja,False,Idaira Rivero,Comunicaciones: alarma de comunicaciones
+659,5,2025-09-12 01:00:00,2025-09-13 11:12:00,monitorización,alta,False,Yeray Dorta,Monitorización: llamada del cliente
+660,6,2025-09-12 08:00:00,2025-09-12 14:53:00,cableado,baja,False,Yeray Dorta,Cableado: aviso del SCADA
+661,5,2025-09-12 22:00:00,2025-09-14 05:09:00,inversor,media,False,Aday Melián,Inversor: aviso del SCADA
+662,6,2025-09-15 23:00:00,2025-09-16 01:06:00,inversor,baja,False,Nira Afonso,Inversor: revisión programada
+663,1,2025-09-17 05:00:00,2025-09-24 12:58:00,cableado,baja,False,Yeray Dorta,Cableado: inspección visual
+664,7,2025-09-17 22:00:00,2025-09-18 17:00:00,comunicaciones,alta,True,Aday Melián,Comunicaciones: inspección visual
+665,5,2025-09-18 01:00:00,,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: inspección visual
+666,1,2025-09-18 14:00:00,2025-09-18 20:24:00,cableado,media,False,Idaira Rivero,Cableado: alarma de comunicaciones
+667,3,2025-09-18 14:00:00,2025-09-18 19:53:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: inspección visual
+668,5,2025-09-18 16:00:00,2025-09-19 01:13:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: revisión programada
+669,7,2025-09-18 18:00:00,2025-09-18 22:21:00,comunicaciones,media,False,Yeray Dorta,Comunicaciones: aviso del SCADA
+670,3,2025-09-18 23:00:00,2025-09-19 07:48:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+671,8,2025-09-20 01:00:00,2025-09-21 22:00:00,comunicaciones,alta,True,Nira Afonso,Comunicaciones: alarma de comunicaciones
+672,3,2025-09-20 09:00:00,,inversor,baja,False,Idaira Rivero,Inversor: alarma de comunicaciones
+673,8,2025-09-21 03:00:00,2025-09-22 11:00:00,red eléctrica,crítica,True,Idaira Rivero,Red eléctrica: llamada del cliente
+674,1,2025-09-22 14:00:00,2025-09-23 14:30:00,cableado,alta,False,Aday Melián,Cableado: revisión programada
+675,8,2025-09-23 16:00:00,2025-09-23 21:00:00,monitorización,media,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+676,2,2025-09-25 15:00:00,2025-09-27 04:50:00,inversor,media,False,Yeray Dorta,Inversor: llamada del cliente
+677,8,2025-09-27 01:00:00,2025-09-28 04:42:00,inversor,alta,False,Yeray Dorta,Inversor: inspección visual
+678,3,2025-09-28 18:00:00,2025-09-29 03:14:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+679,8,2025-09-30 03:00:00,2025-09-30 13:31:00,vandalismo,baja,False,Idaira Rivero,Vandalismo: aviso del SCADA
+680,7,2025-10-01 04:00:00,2025-10-01 09:05:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: alarma de comunicaciones
+681,6,2025-10-01 05:00:00,2025-10-01 08:32:00,red eléctrica,alta,False,Nira Afonso,Red eléctrica: alarma de comunicaciones
+682,5,2025-10-01 15:00:00,2025-10-01 20:44:00,comunicaciones,alta,False,Idaira Rivero,Comunicaciones: inspección visual
+683,6,2025-10-02 03:00:00,2025-10-02 16:00:00,cableado,alta,True,Idaira Rivero,Cableado: llamada del cliente
+684,6,2025-10-02 05:00:00,2025-10-02 09:26:00,cableado,alta,False,Nira Afonso,Cableado: llamada del cliente
+685,6,2025-10-02 15:00:00,2025-10-02 19:33:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: llamada del cliente
+686,3,2025-10-03 07:00:00,2025-10-03 22:36:00,inversor,crítica,False,Yeray Dorta,Inversor: inspección visual
+687,5,2025-10-03 15:00:00,2025-10-03 17:54:00,monitorización,baja,False,Aday Melián,Monitorización: alarma de comunicaciones
+688,5,2025-10-04 03:00:00,2025-10-04 07:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: inspección visual
+689,2,2025-10-04 08:00:00,2025-10-04 18:11:00,comunicaciones,crítica,False,Idaira Rivero,Comunicaciones: aviso del SCADA
+690,7,2025-10-05 00:00:00,2025-10-05 09:02:00,comunicaciones,alta,False,Aday Melián,Comunicaciones: alarma de comunicaciones
+691,3,2025-10-05 11:00:00,,monitorización,baja,False,Nira Afonso,Monitorización: inspección visual
+692,3,2025-10-06 23:00:00,2025-10-08 13:29:00,inversor,alta,False,Nira Afonso,Inversor: aviso del SCADA
+693,4,2025-10-09 00:00:00,2025-10-09 03:14:00,suciedad paneles,alta,False,Aday Melián,Suciedad paneles: llamada del cliente
+694,6,2025-10-09 03:00:00,2025-10-09 08:15:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: revisión programada
+695,1,2025-10-09 17:00:00,2025-10-09 23:47:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: aviso del SCADA
+696,4,2025-10-10 22:00:00,2025-10-11 13:13:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+697,4,2025-10-11 01:00:00,,vandalismo,baja,False,Aday Melián,Vandalismo: alarma de comunicaciones
+698,5,2025-10-12 23:00:00,2025-10-14 00:27:00,inversor,alta,False,Aday Melián,Inversor: revisión programada
+699,7,2025-10-13 08:00:00,2025-10-15 20:34:00,inversor,baja,False,Idaira Rivero,Inversor: alarma de comunicaciones
+700,2,2025-10-14 17:00:00,2025-10-15 16:40:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: llamada del cliente
+701,1,2025-10-14 20:00:00,,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+702,1,2025-10-15 01:00:00,2025-10-15 04:48:00,red eléctrica,media,False,Yeray Dorta,Red eléctrica: inspección visual
+703,6,2025-10-15 03:00:00,2025-10-15 05:02:00,inversor,baja,False,Idaira Rivero,Inversor: llamada del cliente
+704,4,2025-10-15 21:00:00,2025-10-16 15:16:00,vandalismo,baja,False,Aday Melián,Vandalismo: aviso del SCADA
+705,6,2025-10-17 12:00:00,2025-10-19 19:00:00,cableado,media,True,Aday Melián,Cableado: llamada del cliente
+706,2,2025-10-19 16:00:00,2025-10-20 02:01:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: aviso del SCADA
+707,3,2025-10-20 01:00:00,2025-10-20 15:32:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: revisión programada
+708,4,2025-10-20 08:00:00,2025-10-20 12:53:00,monitorización,baja,False,Yeray Dorta,Monitorización: inspección visual
+709,7,2025-10-20 19:00:00,2025-10-21 18:02:00,suciedad paneles,baja,False,Nira Afonso,Suciedad paneles: llamada del cliente
+710,7,2025-10-22 02:00:00,2025-10-22 10:04:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: llamada del cliente
+711,5,2025-10-22 06:00:00,2025-10-22 10:16:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: llamada del cliente
+712,8,2025-10-26 02:00:00,2025-10-26 15:00:00,comunicaciones,alta,True,Nira Afonso,Comunicaciones: aviso del SCADA
+713,3,2025-10-26 09:00:00,2025-10-29 05:00:00,comunicaciones,alta,True,Yeray Dorta,Comunicaciones: aviso del SCADA
+714,6,2025-10-26 20:00:00,2025-10-27 21:39:00,cableado,baja,False,Yeray Dorta,Cableado: llamada del cliente
+715,1,2025-10-27 06:00:00,,red eléctrica,baja,False,Nira Afonso,Red eléctrica: revisión programada
+716,6,2025-10-27 20:00:00,2025-10-28 13:00:00,inversor,alta,True,Nira Afonso,Inversor: alarma de comunicaciones
+717,6,2025-10-28 16:00:00,2025-10-28 19:07:00,cableado,alta,False,Idaira Rivero,Cableado: alarma de comunicaciones
+718,3,2025-10-30 14:00:00,2025-10-30 18:27:00,red eléctrica,media,False,Nira Afonso,Red eléctrica: revisión programada
+719,1,2025-10-31 06:00:00,2025-11-01 00:00:00,inversor,media,True,Nira Afonso,Inversor: aviso del SCADA
+720,5,2025-10-31 11:00:00,2025-11-01 08:07:00,comunicaciones,media,False,Yeray Dorta,Comunicaciones: revisión programada
+721,7,2025-10-31 13:00:00,2025-11-01 08:36:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: alarma de comunicaciones
+722,2,2025-10-31 20:00:00,2025-11-01 12:03:00,vandalismo,baja,False,Yeray Dorta,Vandalismo: llamada del cliente
+723,6,2025-11-02 00:00:00,2025-11-02 04:43:00,cableado,media,False,Idaira Rivero,Cableado: alarma de comunicaciones
+724,3,2025-11-02 20:00:00,2025-11-03 13:01:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+725,6,2025-11-03 18:00:00,,cableado,baja,False,Aday Melián,Cableado: alarma de comunicaciones
+726,2,2025-11-04 17:00:00,2025-11-05 14:51:00,cableado,baja,False,Idaira Rivero,Cableado: llamada del cliente
+727,2,2025-11-06 07:00:00,2025-11-06 08:53:00,suciedad paneles,media,False,Aday Melián,Suciedad paneles: aviso del SCADA
+728,3,2025-11-07 22:00:00,2025-11-08 07:00:00,inversor,alta,True,Nira Afonso,Inversor: llamada del cliente
+729,2,2025-11-08 07:00:00,2025-11-10 10:47:00,monitorización,media,False,Yeray Dorta,Monitorización: revisión programada
+730,1,2025-11-09 19:00:00,2025-11-10 14:10:00,red eléctrica,media,False,Idaira Rivero,Red eléctrica: aviso del SCADA
+731,8,2025-11-11 08:00:00,2025-11-11 10:37:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: revisión programada
+732,8,2025-11-13 23:00:00,2025-11-14 07:23:00,inversor,baja,False,Aday Melián,Inversor: revisión programada
+733,4,2025-11-14 05:00:00,2025-11-14 13:10:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: aviso del SCADA
+734,7,2025-11-17 13:00:00,2025-11-17 18:51:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: llamada del cliente
+735,1,2025-11-20 14:00:00,2025-11-20 23:45:00,vandalismo,baja,False,Nira Afonso,Vandalismo: inspección visual
+736,5,2025-11-21 03:00:00,2025-11-21 17:22:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: inspección visual
+737,5,2025-11-21 03:00:00,,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+738,2,2025-11-21 03:00:00,2025-11-21 09:49:00,monitorización,baja,False,Aday Melián,Monitorización: llamada del cliente
+739,7,2025-11-22 11:00:00,2025-11-22 17:17:00,comunicaciones,baja,False,Nira Afonso,Comunicaciones: inspección visual
+740,4,2025-11-23 09:00:00,,vandalismo,media,False,Idaira Rivero,Vandalismo: inspección visual
+741,4,2025-11-23 22:00:00,2025-11-25 19:00:00,inversor,media,True,Yeray Dorta,Inversor: aviso del SCADA
+742,4,2025-11-24 00:00:00,2025-11-27 02:23:00,red eléctrica,baja,False,Aday Melián,Red eléctrica: revisión programada
+743,1,2025-11-24 08:00:00,2025-11-25 17:44:00,suciedad paneles,media,False,Nira Afonso,Suciedad paneles: alarma de comunicaciones
+744,3,2025-11-24 15:00:00,,monitorización,crítica,False,Yeray Dorta,Monitorización: inspección visual
+745,8,2025-11-27 05:00:00,2025-11-29 20:00:00,cableado,media,True,Aday Melián,Cableado: llamada del cliente
+746,7,2025-11-28 08:00:00,2025-11-29 04:47:00,red eléctrica,baja,False,Yeray Dorta,Red eléctrica: aviso del SCADA
+747,2,2025-11-28 22:00:00,2025-11-29 07:55:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: revisión programada
+748,6,2025-11-29 12:00:00,2025-11-29 18:07:00,cableado,baja,False,Aday Melián,Cableado: aviso del SCADA
+749,7,2025-11-30 19:00:00,2025-12-01 22:00:00,comunicaciones,alta,True,Idaira Rivero,Comunicaciones: revisión programada
+750,6,2025-11-30 22:00:00,2025-12-01 16:05:00,cableado,media,False,Yeray Dorta,Cableado: aviso del SCADA
+751,7,2025-12-03 15:00:00,2025-12-05 16:24:00,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+752,3,2025-12-03 15:00:00,2025-12-04 18:28:00,suciedad paneles,baja,False,Yeray Dorta,Suciedad paneles: llamada del cliente
+753,6,2025-12-04 17:00:00,2025-12-06 16:06:00,suciedad paneles,baja,False,Idaira Rivero,Suciedad paneles: inspección visual
+754,8,2025-12-05 13:00:00,2025-12-06 05:40:00,comunicaciones,media,False,Nira Afonso,Comunicaciones: inspección visual
+755,2,2025-12-09 12:00:00,2025-12-13 16:34:00,suciedad paneles,media,False,Yeray Dorta,Suciedad paneles: aviso del SCADA
+756,2,2025-12-10 03:00:00,2025-12-14 06:46:00,cableado,media,False,Nira Afonso,Cableado: aviso del SCADA
+757,5,2025-12-10 15:00:00,2025-12-10 19:42:00,vandalismo,baja,False,Idaira Rivero,Vandalismo: aviso del SCADA
+758,6,2025-12-10 18:00:00,2025-12-12 06:52:00,cableado,baja,False,Yeray Dorta,Cableado: revisión programada
+759,3,2025-12-11 14:00:00,,red eléctrica,baja,False,Idaira Rivero,Red eléctrica: alarma de comunicaciones
+760,5,2025-12-12 05:00:00,2025-12-12 07:22:00,comunicaciones,baja,False,Yeray Dorta,Comunicaciones: llamada del cliente
+761,6,2025-12-13 14:00:00,2025-12-14 05:23:00,comunicaciones,alta,False,Nira Afonso,Comunicaciones: llamada del cliente
+762,2,2025-12-14 05:00:00,2025-12-15 08:10:00,vandalismo,alta,False,Yeray Dorta,Vandalismo: revisión programada
+763,2,2025-12-14 19:00:00,2025-12-14 22:12:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: inspección visual
+764,8,2025-12-14 23:00:00,,red eléctrica,media,False,Idaira Rivero,Red eléctrica: llamada del cliente
+765,1,2025-12-16 01:00:00,2025-12-17 15:46:00,monitorización,baja,False,Idaira Rivero,Monitorización: inspección visual
+766,7,2025-12-17 03:00:00,2025-12-17 13:52:00,comunicaciones,alta,False,Yeray Dorta,Comunicaciones: inspección visual
+767,3,2025-12-17 12:00:00,2025-12-17 17:26:00,cableado,baja,False,Yeray Dorta,Cableado: alarma de comunicaciones
+768,5,2025-12-19 08:00:00,,vandalismo,baja,False,Yeray Dorta,Vandalismo: llamada del cliente
+769,1,2025-12-19 13:00:00,2025-12-22 09:41:00,monitorización,media,False,Idaira Rivero,Monitorización: alarma de comunicaciones
+770,6,2025-12-19 21:00:00,2025-12-20 08:56:00,red eléctrica,alta,False,Idaira Rivero,Red eléctrica: inspección visual
+771,2,2025-12-21 04:00:00,2025-12-23 16:07:00,inversor,alta,False,Yeray Dorta,Inversor: aviso del SCADA
+772,8,2025-12-25 08:00:00,2025-12-25 18:11:00,monitorización,media,False,Nira Afonso,Monitorización: alarma de comunicaciones
+773,5,2025-12-26 00:00:00,2025-12-26 13:04:00,cableado,baja,False,Aday Melián,Cableado: inspección visual
+774,5,2025-12-26 03:00:00,2025-12-26 17:45:00,comunicaciones,baja,False,Aday Melián,Comunicaciones: revisión programada
+775,4,2025-12-27 22:00:00,2025-12-30 19:00:00,cableado,media,True,Nira Afonso,Cableado: inspección visual
+776,1,2025-12-30 10:00:00,2026-01-01 00:00:00,cableado,crítica,True,Nira Afonso,Cableado: llamada del cliente
+777,5,2025-12-30 18:00:00,2025-12-31 00:52:00,monitorización,baja,False,Idaira Rivero,Monitorización: aviso del SCADA
+778,1,2025-12-31 12:00:00,2026-01-01 18:00:00,comunicaciones,crítica,True,Aday Melián,Comunicaciones: revisión programada
+779,2,2025-12-31 18:00:00,2026-01-01 00:00:00,comunicaciones,alta,True,Aday Melián,Comunicaciones: alarma de comunicaciones

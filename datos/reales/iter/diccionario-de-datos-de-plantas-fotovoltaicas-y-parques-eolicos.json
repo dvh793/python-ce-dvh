@@ -1,0 +1,52 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "@type": "Table",
+  "dc:description": "Diccionario de datos",
+  "dc:creator": "Instituto Tecnológico de Energías Renovables (ITER)",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "instalacion_id",
+        "datatype": "numeric",
+        "title": "instalacion_id",
+        "dc:description": "Identificador numérico de la instalación (planta fotovoltaica o parque eólico)."
+      },
+      {
+        "name": "instalacion_nombre",
+        "datatype": "text",
+        "title": "instalacion_nombre",
+        "dc:description": "Nombre de la instalación"
+      },
+      {
+        "name": "instalacion_tipo",
+        "datatype": "text",
+        "title": "instalacion_tipo",
+        "dc:description": "Tipo de estación: Planta fotovoltaica o Parque eólico"
+      },
+      {
+        "name": "instalacion_potencia",
+        "datatype": "numeric",
+        "title": "instalacion_potencia",
+        "dc:description": "Potencia nominal de la instalación"
+      },
+      {
+        "name": "instalacion_unidad_potencia",
+        "datatype": "text",
+        "title": "instalacion_unidad_potencia",
+        "dc:description": "Unidad de potencia de la instalación"
+      },
+      {
+        "name": "instalacion_latitud",
+        "datatype": "numeric",
+        "title": "instalacion_latitud",
+        "dc:description": "Coordenada geográfica de la instalación. Latitud."
+      },
+      {
+        "name": "instalacion_longitud",
+        "datatype": "numeric",
+        "title": "instalacion_longitud",
+        "dc:description": "Coordenada geográfica de la instalación. Longitud."
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "@type": "Table",
+  "dc:description": "Diccionario de datos",
+  "dc:creator": "Cabildo de Tenerife",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "instalacion_id",
+        "datatype": "numeric",
+        "title": "instalacion_id",
+        "dc:description": "Identificador numérico de la instalación (planta fotovoltaica o parque eólico)."
+      },
+      {
+        "name": "fecha",
+        "datatype": "timestamp",
+        "title": "fecha",
+        "dc:description": "Fecha de medición de los datos de energía"
+      },
+      {
+        "name": "periodo_inicial",
+        "datatype": "timestamp",
+        "title": "periodo_inicial",
+        "dc:description": "Indica el primer registro utilizado en el agregado (sumatorio) de energía exportada e importada"
+      },
+      {
+        "name": "periodo_final",
+        "datatype": "timestamp",
+        "title": "periodo_final",
+        "dc:description": "Indica el último registro utilizado en el agregado (sumatorio) de energía exportada e importada "
+      },
+      {
+        "name": "energia_exportada",
+        "datatype": "numeric",
+        "title": "energia_exportada",
+        "dc:description": "Energía exportada / producida en Kw/h"
+      },
+      {
+        "name": "energia_importada",
+        "datatype": "numeric",
+        "title": "energia_importada",
+        "dc:description": "Energía importada / producida en Kw/h"
+      }
+    ]
+  }
+}
