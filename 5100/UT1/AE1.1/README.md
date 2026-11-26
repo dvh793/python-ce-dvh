@@ -1,3 +1,5 @@
 """La BIBLIOTECA del centro tiene SOCIOS y EJEMPLARES. Cada EJEMPLAR pertenece a un TITULO (con ISBN y autor) y puede estar disponible o prestado. Un SOCIO puede tener hasta tres PRESTAMOS; un PRESTAMO relaciona un EJEMPLAR con un SOCIO y tiene fecha de inicio y fecha de devolución prevista. La BIBLIOTECA *da de alta* SOCIOS, *presta* EJEMPLARES y *registra* DEVOLUCIONES."""
 
 """Un TALLER *recibe* VEHICULOS de sus CLIENTES. Cada VEHICULO tiene MATRICULA, MARCA, MODELO y KILOMETRAJE. Por cada VISITA *se abre* una ORDEN de reparación con FECHA, lista de TAREAS (DESCRIPCION y HORAS) y ESTADO. Al *cerrar* la ORDEN se *calcula* el IMPORTE a partir de las HORAS y del PRECIO por hora del taller, y se *avisa* al CLIENTE."""
+
+"""Los CLIENTES de la TIENDA tienen un CARRITO. El CARRITO contiene LINEAS, cada una con un PRODUCTO y una CANTIDAD. Los PRODUCTOS tienen NOMBRE, PRECIO y STOCK. Al *confirmar* el CARRITO se *genera* un PEDIDO con FECHA y TOTAL, se *descuenta* el STOCK y el CARRITO se *vacía*"""
